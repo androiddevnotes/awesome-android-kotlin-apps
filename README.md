@@ -526,7 +526,7 @@
 
 
 
-    - Tech Stack = Testing, Room, Firebase Analytics, Firebase Crashlytics, Firebase Adas, WorkManager
+    - Tech Stack = Testing, Room, Firebase Analytics, Firebase Crashlytics, Firebase Ads, WorkManager
 
 
 ## :memo: Contributing
