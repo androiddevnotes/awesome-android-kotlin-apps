@@ -203,7 +203,7 @@
     - A simple movie app
     
 
-    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Paging, Data Binding, Navigation
+    - Tech Stack = Dagger, Coroutines, Retrofit, Room, WorkManager, Paging, Data Binding, Navigation
 
 
 - https://github.com/xiaoyanger0825/wanandroid
