@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/59?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/63?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -53,6 +53,14 @@
     - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Paging, Data Binding, Navigation, Algolia Search 
 
 
+- https://github.com/qingmei2/MVVM-Architecture
+
+    - The practice of MVVM + Jetpack architecture in Android.
+
+
+    - Dagger Hilt, Coroutines, Rx, Testing, Retrofit, Room, Paging, Navigation
+
+
 - https://github.com/theapache64/topcorn 
 
     - A minimalistic movie listing app to browse IMDB's top 250 movies.
@@ -76,6 +84,13 @@
 
     - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation
 
+
+- https://github.com/lulululbj/wanandroid/
+
+    - Jetpack MVVM For Wanandroid 最佳实践 ！
+
+
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Navigation, FlowLayout
 
 - https://github.com/SIKV/Photos 
 
@@ -109,6 +124,16 @@
     - Tech Stack = Coroutines, Testing, Fuel, Room, Firebase Analytics, Firebase Crashlytics, WorkManager, Data Binding, Navigation 
 
 
+- https://github.com/willowtreeapps/vocable-android
+
+    - Vocable AAC allows those with conditions such as MS, stroke, ALS, or spinal cord injuries to communicate using an app that tracks head movements, without the need to spend tens of thousands of dollars on technology to do so.
+
+
+
+    - Tech Stack = Koin, Coroutines, Testing, Room, Data Binding, AR
+
+
+
 - https://github.com/Shashank02051997/GitExplorer-Android 
 
     - Find the right git commands 🔥 without digging through the web.😊😊😉
@@ -131,6 +156,14 @@
 
 
     - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room 
+
+
+- https://github.com/michaldrabik/Showly-2.0
+
+    - Showly 2.0 is modern, slick, open-sourced and completely free Android TV Shows Tracker.
+
+
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, Firebase Crashlytics, Firebase Analytics,WorkManager, Navigation, Dynamicanimation
 
 
 - https://github.com/nuhkoca/libbra 
@@ -180,6 +213,14 @@
 
     - Tech Stack = Coroutines, Testing, Room, Google Drive, Dropbox, WorkManager, Navigation
         
+
+- https://github.com/CalvinNor/MovieMan/
+
+    - An open-source Android app for viewing Movies / TV information.
+
+
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Navigation
+
 
 - https://github.com/commonpepper/Photosen
 
