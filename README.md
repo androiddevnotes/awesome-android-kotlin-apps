@@ -69,7 +69,16 @@
     - Tech Stack = Dagger Hilt, Coroutines, Rx, Testing, Retrofit, Room, Paging, Navigation
 
 
-- https://github.com/nahzur-h/awaker/
+- https://github.com/vidit135g/Replify-Messenger [Kotlin + Java]
+
+    - Minimal text messenger with a ton of features.
+
+
+    - Tech Stack = Dagger, Coroutines, Rx, Testing, Realm, ExoPlayer, Conductor, Mixpanel Android, libphonenumber-android, Call Control DataShare, AutoDispose
+
+
+
+- https://github.com/nahzur-h/awaker
 
     - article app for android
 
