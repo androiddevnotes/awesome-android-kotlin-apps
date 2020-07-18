@@ -529,10 +529,10 @@
 
  - https://github.com/KhaledSherifSayed/PopularPeople
 
-    - Popular People is a sample Android application 📱 showing stars of the world 👓 built to demonstrate use of Modern Android development tools. Dedicated to all Android 	       Developers with ❤️.
+    - Popular People is a sample Android application 📱 showing stars of the world 👓 built to demonstrate use of Modern Android development tools. Dedicated to all Android Developers with ❤️.
 
 
-    - Tech Stack = Koin, Coroutines, Flow,Testing, Retrofit, Data Binding, SharedElemnts
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Data Binding, Sandwich
 
 
 
