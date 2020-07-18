@@ -527,6 +527,14 @@
 
     - Tech Stack = Dagger, Coroutines, Rx, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout
 
+ - https://github.com/KhaledSherifSayed/PopularPeople
+
+    - Popular People is a sample Android application 📱 showing stars of the world 👓 built to demonstrate use of Modern Android development tools. Dedicated to all Android 	       Developers with ❤️.
+
+
+    - Tech Stack = Koin, Coroutines, Flow,Testing, Retrofit, Data Binding, SharedElemnts
+
+
 
 ### MVI
 
