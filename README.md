@@ -45,6 +45,15 @@
 
 ### MVVM 
 
+- https://github.com/TheCodeMonks/NYTimes-App
+
+    - **🗽 NY Times App** is an Minimal News 🗞 Android application built to describe the use of JSoup with Modern Android development tools.
+
+
+    - Tech Stack = JSoup, Coroutines, Room, Navigation
+
+
+
 - https://github.com/satyamurti/LetsChat
 
     - **An opensource Indian chat app** with new cool concepts.
