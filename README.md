@@ -594,6 +594,14 @@
     - Tech Stack = Dagger, Rx, Retrofit, Room, Clean Architecture
 
 
+- https://github.com/mitchtabian/Clean-Notes
+
+    - Android example with Clean Architecture by layer.
+
+
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firestore, Firebase Auth, Firebase Analytics, Firebase Crashlytics, Navigation, Markdown Processor
+
+
 
 ### MVP
 
