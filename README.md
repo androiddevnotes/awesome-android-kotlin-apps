@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/66?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/70?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -45,6 +45,14 @@
 
 ### MVVM 
 
+- https://github.com/satyamurti/LetsChat
+
+    - **An opensource Indian chat app** with new cool concepts.
+
+
+    - Tech Stack = Coroutines, Retrofit, Firestore, Firebase Auth, Firebase Messaging, Firebase Storage, Cloud Functions, Data Binding, Navigation
+
+
 - https://github.com/bernaferrari/ChangeDetection
 
     - Automatically track websites changes on Android in background.
@@ -76,6 +84,21 @@
 
     - Tech Stack = Dagger, Coroutines, Rx, Testing, Realm, ExoPlayer, Conductor, Mixpanel Android, libphonenumber-android, Call Control DataShare, AutoDispose
 
+
+- https://github.com/jnkforks/PokemonGo
+
+    - Jetpack 实战项目 PokemonGo（神奇宝贝）基于 MVVM 架构和 Repository 设计模式
+
+
+    - Tech Stack = Dagger Hilt, Koin, Coroutines, Rx, Testing, Retrofit, Room, WorkManager, App Startup, Paging
+
+
+- https://github.com/andyb129/AppDevToolbox
+
+    - Collection of tools for Android app development in one place 🔧 🔨
+
+
+    - Dagger, Coroutines, Rx, Room, Venom
 
 
 - https://github.com/nahzur-h/awaker
@@ -526,6 +549,14 @@
 
 
     - Tech Stack = Dagger, Coroutines, Rx, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout
+
+ - https://github.com/KhaledSherifSayed/PopularPeople
+
+    - Popular People is a sample Android application 📱 showing stars of the world 👓 built to demonstrate use of Modern Android development tools. Dedicated to all Android Developers with ❤️.
+
+
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Data Binding, Sandwich
+
 
 
 ### MVI
