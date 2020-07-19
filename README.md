@@ -45,6 +45,16 @@
 
 ### MVVM 
 
+- https://github.com/satyamurti/LetsChat
+
+    - **An opensource Indian chat app** with new cool concepts.
+
+
+    - Tech Stack = Kotlin, MVVM, Coroutines, Data Binding, Lifecycles, LiveData, Navigation, ViewModel, Firebase Authentication, Cloud Firestore, Cloud Functions, Cloud Messaging, Cloud Storage, Glide, Retrofit 2  
+
+
+
+
 - https://github.com/bernaferrari/ChangeDetection
 
     - Automatically track websites changes on Android in background.
