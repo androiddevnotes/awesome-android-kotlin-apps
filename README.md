@@ -50,9 +50,7 @@
     - **An opensource Indian chat app** with new cool concepts.
 
 
-    - Tech Stack = Kotlin, MVVM, Coroutines, Data Binding, Lifecycles, LiveData, Navigation, ViewModel, Firebase Authentication, Cloud Firestore, Cloud Functions, Cloud Messaging, Cloud Storage, Glide, Retrofit 2  
-
-
+    - Tech Stack = Coroutines, Retrofit, Firestore, Firebase Auth, Firebase Messaging, Firebase Storage, Cloud Functions, Data Binding, Navigation
 
 
 - https://github.com/bernaferrari/ChangeDetection
