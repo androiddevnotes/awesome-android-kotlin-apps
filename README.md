@@ -566,7 +566,10 @@
 
     - Tech Stack = Koin, Coroutines, Testing, Retrofit, Data Binding, Sandwich
 
+ - https://github.com/alisonthemonster/Presently
 
+    - Android app for recording gratitude journal entries.
+    - Tech Stack = Dagger, Coroutines, Rx, Testing, Room, Firebase Messaging, Firebase Crashlytics, Firebase Analytics, WorkManager, Dropbox, Calendar view, Paging, Biometric
 
 ### MVI
 
