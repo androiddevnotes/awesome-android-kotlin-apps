@@ -45,6 +45,12 @@
 
 ### MVVM 
 
+- https://github.com/PHELAT/Tedu
+
+    - **📝 Tedu** Todo app, but minimal, open-source and free. It lets you to sync your todos on your cloud provider. This project is architected in a modular structure and you can learn a lot from it.
+    
+    - Tech Stack = Extended version of the `dagger-android`, Extended version of the Navigation Component, Room, Coroutines, Flow, Firebase Crashlytics, and Firebase Cloud Messaging.
+
 - https://github.com/abhinav0612/PasswordVault
 
     - **:lock: Password Vault** is an all in one offline password storing application where you can also store debit/credit cards and bank details with one :key: Master PIN .
