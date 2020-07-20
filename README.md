@@ -578,6 +578,11 @@
     - Android app for recording gratitude journal entries.
     - Tech Stack = Dagger, Coroutines, Rx, Testing, Room, Firebase Messaging, Firebase Crashlytics, Firebase Analytics, WorkManager, Dropbox, Calendar view, Paging, Biometric
 
+ - https://github.com/fibelatti/raffler-kotlin
+  
+    - Raffler is a simple raffling app which intends to make decision making easier
+    - Tech Stack = Dagger, Coroutines, Testing, Room
+
 ### MVI
 
 - https://github.com/HadySalhab/NewsFeed-MVI-Dagger 
