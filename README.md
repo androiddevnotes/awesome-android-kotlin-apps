@@ -595,6 +595,10 @@
   
     - Raffler is a simple raffling app which intends to make decision making easier
     - Tech Stack = Dagger, Coroutines, Testing, Room
+    
+- https://github.com/sanmiAde/Yet_Another_Anime_List
+   - Yet Another Anime List is an app that allows you to view upcoming and trending animes on MAL. It also allows you to favourite animes. 
+   - Tech Stack = Dagger2, RxJava, Testing using Fakes, MockWebserver, RxRetrofit, Room, Navigation Components, Lottie.
 
 ### MVI
 
