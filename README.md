@@ -45,6 +45,13 @@
 
 ### MVVM 
 
+- https://github.com/abhinav0612/PasswordVault
+
+    - **:lock: Password Vault** is an all in one offline password storing application where you can also store debit/credit cards and bank details with one :key: Master PIN .
+    
+    - Tech Stack = Hilt, Room, Navigation Component, View Binding, and Live Data.
+    
+
 - https://github.com/TheCodeMonks/NYTimes-App
 
     - **🗽 NY Times App** is an Minimal News 🗞 Android application built to describe the use of JSoup with Modern Android development tools.
