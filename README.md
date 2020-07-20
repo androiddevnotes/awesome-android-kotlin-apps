@@ -45,6 +45,13 @@
 
 ### MVVM 
 
+- https://github.com/DheerajKotwani/GithubVisualizer
+
+    - **Github Visualizer** Android Application to track any user activity on Github built using the Github Developers Api. Implementation for almost all methods Github Developers Api.🔥🔥
+    
+    - Tech Stack = Github pi, Retrofit, Firebase Analytics, Firebase Auth, Live Data, Coroutines.
+    
+
 - https://github.com/PHELAT/Tedu
 
     - **📝 Tedu** Todo app, but minimal, open-source and free. It lets you to sync your todos on your cloud provider. This project is architected in a modular structure and you can learn a lot from it.
