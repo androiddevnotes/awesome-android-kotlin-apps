@@ -605,7 +605,10 @@
    - Simple application for tracking Covid-19 info. Stay safe.😷
    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, MPAndroidChart
 
+- https://github.com/ashwini009/TvFlix
 
+  - TVFlix connects with TVDB API to give you popular shows and let you mark anyone as favorite.
+  - Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation
 ### MVI
 
 - https://github.com/HadySalhab/NewsFeed-MVI-Dagger
