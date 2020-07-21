@@ -622,6 +622,19 @@
     - Pet project using Clean Architecture + MVVM + Reactive Extensions + Android Architecture Components. The data are fetched from LondonTheatreDirect API. performing_arts
 
     - Tech Stack = Dagger, Rx, Testing, Retrofit, Room, Navigation, Data Binding
+
+- https://github.com/KevinGitonga/TukoNewsClient
+
+    - A simple and sleek Android client consuming the Tuko News Api.. Data is fetched from the official tuko.co.ke news API.
+    
+    - Tech Stack = Kotlin, Coroutines, Architecture Components, MVVM, Room, Retrofit, Material Components.
+    
+- https://github.com/KevinGitonga/NewsFeed
+
+    - A localized News reader Android app powered by newsapi.org. Will Automatically localize your news based on your location if its supported by API.  
+    
+    - Tech Stack = Kotlin, Coroutines, Architecture Components, MVVM, Room, Retrofit, Material Components, Pretty Time.
+    
     
 ### MVI
 
