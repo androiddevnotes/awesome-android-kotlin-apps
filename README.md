@@ -608,16 +608,20 @@
 - https://github.com/ashwini009/TvFlix
 
   - TVFlix connects with TVDB API to give you popular shows and let you mark anyone as favorite.
-  - Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation
+  - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation
   
 - https://github.com/odaridavid/Clean-MVVM-ArchComponents
 
-    -A Star Wars API app that lets you search for characters ,view details about them  and save your favorite
+    - A Star Wars API app that lets you search for characters, view details about them and save your favorite
      characters.
 
+    - Tech Stack = Koin, Coroutines,Unit Testing & UI testing, Retrofit, Data Binding, Kotlin Flows, Room, Motion Layout
+    
+- https://github.com/andremion/Theatre
 
-    - Tech Stack = Koin, Coroutines,Unit Testing & UI testing, Retrofit, Data Binding, Kotlin Flows,Room
-    ,Motion Layout  
+    - Pet project using Clean Architecture + MVVM + Reactive Extensions + Android Architecture Components. The data are fetched from LondonTheatreDirect API. performing_arts
+
+    - Tech Stack = Dagger, Rx, Testing, Retrofit, Room, Navigation, Data Binding
     
 ### MVI
 
