@@ -29,13 +29,13 @@
 :art: [**Pattern**](#art-pattern)
 
 
-- [MVVM](#mvvm)
+- [Model View ViewModel (MVVM)](#mvvm)
 
-- [MVI](#mvi)
+- [Model View Intent (MVI)](#mvi)
 
-- [MVP](#mvp)
+- [Model View Presenter (MVP)](#mvp)
 
-- [Other](#other)
+- [Model View Controller (MVC) and Other Patterns](#other)
 
 
 :memo: [**Contributing**](#memo-contributing)
