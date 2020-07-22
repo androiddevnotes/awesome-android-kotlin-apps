@@ -628,12 +628,6 @@
     
     - Tech Stack = Coroutines, Retrofit, Room, Pretty Time.
     
-- https://github.com/igorescodro/alkaa
-
-     - A simple to-do app created to study the latest components, architecture, tools, and APIs released in Android Platform. The project evolved a lot in the last year and now is available on Google Play! :heart:
-
-     - Tech Stack = Coroutines, Architecture Components, Navigation, Room, ListAdapter, ConstraintLayout, MotionLayout, KTX, Modularization, Dynamic Delivery, Dark Theme, Koin, klint, detekt, lint, codebeat, CodeFactor, Codacy, Espresso, UiAutomator, Mockk, Coroutines Test   
-    
     
 ### MVI
 
