@@ -45,6 +45,12 @@
 
 ### MVVM
 
+- https://github.com/GeorgCantor/WallpaperApp
+    
+    - **WallpaperApp** App for viewing and downloading wallpapers.
+    
+    - Tech Stack = Koin, Coroutines, Retrofit, Room, Lottie, Zoomy, Navigation.
+
 - https://github.com/DheerajKotwani/GithubVisualizer
 
     - **Github Visualizer** Android Application to track any user activity on Github built using the Github Developers Api. Implementation for almost all methods Github Developers Api.🔥🔥
