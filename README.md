@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/70?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/85?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -55,20 +55,20 @@
 
     - **Github Visualizer** Android Application to track any user activity on Github built using the Github Developers Api. Implementation for almost all methods Github Developers Api.🔥🔥
 
-    - Tech Stack = Github pi, Retrofit, Firebase Analytics, Firebase Auth, Live Data, Coroutines.
+    - Tech Stack = Retrofit, Firebase Auth, Coroutines.
 
 
 - https://github.com/PHELAT/Tedu
 
     - **📝 Tedu** Todo app, but minimal, open-source and free. It lets you to sync your todos on your cloud provider. This project is architected in a modular structure and you can learn a lot from it.
 
-    - Tech Stack = Extended version of the `dagger-android`, Extended version of the Navigation Component, Room, Coroutines, Flow, Firebase Crashlytics, and Firebase Cloud Messaging.
+    - Tech Stack = Dagger, Room, Coroutines, Firebase Messaging, Navigation
 
 - https://github.com/abhinav0612/PasswordVault
 
     - **:lock: Password Vault** is an all in one offline password storing application where you can also store debit/credit cards and bank details with one :key: Master PIN .
 
-    - Tech Stack = Hilt, Room, Navigation Component, View Binding, and Live Data.
+    - Tech Stack = Dagger Hilt, Room, Navigation
 
 
 - https://github.com/TheCodeMonks/NYTimes-App
@@ -76,7 +76,7 @@
     - **🗽 NY Times App** is an Minimal News 🗞 Android application built to describe the use of JSoup with Modern Android development tools.
 
 
-    - Tech Stack = JSoup, Coroutines, Room, Navigation
+    - Tech Stack = Coroutines, Room, JSoup, Navigation
 
 
 
@@ -93,7 +93,7 @@
     - Automatically track websites changes on Android in background.
 
 
-    - Tech Stack = Dagger, Coroutines, Rx, Retrofit, Room, Firestore, Firebase Crashlytics, WorkManager, Paging, Data Binding, Navigation, JSoup, js-evaluator-for-android
+    - Tech Stack = Dagger, Coroutines, Rx, Retrofit, Room, Firestore, WorkManager, Paging, Data Binding, Navigation, JSoup, js-evaluator-for-android
 
 
 - https://github.com/mayokunthefirst/Instant-Weather
@@ -204,7 +204,7 @@
     - Stay up to date on the latest AndroidX library releases.
 
 
-    - Tech Stack = Coroutines, Testing, Fuel, Room, Firebase Analytics, Firebase Crashlytics, WorkManager, Data Binding, Navigation
+    - Tech Stack = Coroutines, Testing, Fuel, Room,  WorkManager, Data Binding, Navigation
 
 
 - https://github.com/willowtreeapps/vocable-android
@@ -246,7 +246,7 @@
     - Showly 2.0 is modern, slick, open-sourced and completely free Android TV Shows Tracker.
 
 
-    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, Firebase Crashlytics, Firebase Analytics,WorkManager, Navigation, Dynamicanimation
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation
 
 
 - https://github.com/nuhkoca/libbra
@@ -326,7 +326,7 @@
     - Calorie tracker for android that supports recipes and products search.
 
 
-    - Tech Stack = Dagger, Coroutines, Rx, Testing, Retrofit, Room, Firestore, Firebase Auth, Firebase analytics, Facebook Login, WorkManager, MPAndroidChart, Data Binding, Navigation
+    - Tech Stack = Dagger, Coroutines, Rx, Testing, Retrofit, Room, Firestore, Firebase Auth, Facebook Login, WorkManager, MPAndroidChart, Data Binding, Navigation
 
 
 - https://github.com/phicdy/MyCuration
@@ -334,7 +334,7 @@
     - RSS Reader for Android with article filtering and curation.
 
 
-    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Firebase analytics, Firebase crashlytics, Jsoup, WorkManager, Data Binding, Navigation
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit,  Jsoup, WorkManager, Data Binding, Navigation
 
 
 - https://github.com/droidconKE/droidconKE2020App
@@ -342,7 +342,7 @@
     - Android app fully written in Kotlin for droidconKE2020
 
 
-    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Firebase analytics, Firebase crashlytics, Google Auth, Data Binding, Navigation
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room,  Google Auth, Data Binding, Navigation
 
 
 - https://github.com/fossasia/open-event-attendee-android
@@ -358,7 +358,7 @@
     - The Movie DB app using Kotlin with updated Android features.
 
 
-    - Tech Stack = Koin, Coroutines, Rx, Testing, Retrofit, Room, Firebase analytics, Firebase crashlytics, Paging, Data Binding, Easy Permissions Navigation
+    - Tech Stack = Koin, Coroutines, Rx, Testing, Retrofit, Room,  Paging, Data Binding, Easy Permissions Navigation
 
 
 - https://github.com/ferPrieto/Coroutines-Flows-Modularised
@@ -382,7 +382,7 @@
     - A SpaceX companion app for Android
 
 
-    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firebase Crashlytics, WorkManager,  Navigation
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation
 
 
 - https://github.com/ganainy/Our_chat
@@ -390,7 +390,7 @@
     - Private chat app with realtime notification and support audio messages, image sharing, file sharing.
 
 
-    - Tech Stack = Coroutines, Retrofit, Room, Firestore, Firebase Auth, Firebase Messaging, Firebase Analytics, Firebase Crashlytics, Facebook Login, WorkManager, Dexter, Data Binding, Navigation
+    - Tech Stack = Coroutines, Retrofit, Room, Firestore, Firebase Auth, Firebase Messaging,  Facebook Login, WorkManager, Dexter, Data Binding, Navigation
 
 
 - https://github.com/flexbooru/flexbooru
@@ -398,7 +398,7 @@
     - A booru client for Android, support Danbooru, Moebooru, Gelbooru, Sankaku, etc
 
 
-    - Tech Stack = Kodein, Coroutines, Testing, Retrofit, Room, Firebase Crashlytics, WorkManager, Exoplayer, Navigation, Tikxml
+    - Tech Stack = Kodein, Coroutines, Testing, Retrofit, Room, WorkManager, Exoplayer, Navigation, Tikxml
 
 
 - https://github.com/flexbooru/flexbooru-ap
@@ -422,7 +422,7 @@
     - Android client for Software Engineering Daily
 
 
-    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Firebase Crashlytics, WorkManager, Exoplayer, Navigation, Android-Permissions
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, WorkManager, Exoplayer, Navigation, Android-Permissions
 
 
 - https://github.com/GreyLabsDev/PexWalls
@@ -438,29 +438,26 @@
     - 🔐 Open source app locker, vault, call blocker application
 
 
-    - Tech Stack = Dagger, Rx, Room, Firebase Analytics, Firebase Crashlytics, WorkManager, Data Binding, RxPermissions  
+    - Tech Stack = Dagger, Rx, Room,  WorkManager, Data Binding, RxPermissions  
 
 
 - https://github.com/xiprox/Upgur
 
     - An offline-first Imgur client app that lets you view your albums and photos and upload new ones even if you are offline.
 
-
-    - Tech Stack = Dagger, retrofit, Room, WorkManager, Navigation, android-upload-service  
+    - Tech Stack = Dagger, Retrofit, Room, WorkManager, Navigation, android-upload-service  
 
 
 - https://github.com/AbduallahAtta/Social-Note
 
     - Social Note - Note-taking, sharing, time & location reminder
 
-
-    - Tech Stack = Koin, Rx, Room, Firestore, Firebase Auth, Firebase Storage, Firebase Messaging, Firebase Analytics, Firebase Crashlytics, WorkManager, Data Binding, Paging
+    - Tech Stack = Koin, Rx, Room, Firestore, Firebase Auth, Firebase Storage, Firebase Messaging,  WorkManager, Data Binding, Paging
 
 
 - https://github.com/kacperczyk-dev/ExchangeRateApp
 
     - Exchange Rates application
-
 
     - Tech Stack = Dagger, Coroutines, Retrofit, Room, WorkManager, Data Binding, MPAndroidChart, Navigation
 
@@ -469,14 +466,12 @@
 
     - 📦📦Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites
 
-
     - Tech Stack = Dagger, Rx, Testing, Retrofit, Room, Data Binding
 
 
 - https://github.com/PhilippeBoisney/ArchApp
 
     - Simple Android app to show how to design a multi-modules MVVM Android app (fully tested)
-
 
     - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Data Binding, Navigation
 
@@ -485,14 +480,12 @@
 
     - ☁️ Unofficial file.io Android App 📱
 
-
-    - Tech Stack = Testing, Fuel, Room, Firebase Crashlytics, WorkManager, Navigation, PermissionsDispatcher
+    - Tech Stack = Testing, Fuel, Room, WorkManager, Navigation, PermissionsDispatcher
 
 
 - https://github.com/skydoves/Pokedex
 
     - 🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
-
 
     - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Data Binding
 
@@ -501,46 +494,40 @@
 
     - Wiqaytna is the official Moroccan exposure notification app. (Covid19)
 
-
-    - Tech Stack = Rx, Testing, Room, Firebase Storage, Firebase Auth, Firebase Messaging, Firebase Perf, Firebase Functions, Firebase Analytics, Firebase Crashlytics, Navigation
+    - Tech Stack = Rx, Testing, Room, Firebase Storage, Firebase Auth, Firebase Messaging, Firebase Perf, Firebase Functions,  Navigation
 
 
 - https://github.com/ZahraHeydari/MusicPlayer
 
     - A Simple Audio Player to play (online/offline) songs by running a service in the background and displaying a notification at top of the screen.
 
-
-    - Tech Stack = Koin, Testing, Room, Firebase Storage, Firebase Auth, Firebase Messaging, Firebase Perf, Firebase Functions, Firebase Analytics, Firebase Crashlytics, Navigation
+    - Tech Stack = Koin, Testing, Room, Firebase Storage, Firebase Auth, Firebase Messaging, Firebase Perf, Firebase Functions,  Navigation
 
 
 - https://github.com/google/iosched
 
     - The Google I/O 2019 Android App
 
-
-    - Tech Stack = Dagger Hilt, Coroutines, Testing, Room, Firestore, Firebase Auth, Firebase Messaging, Firebase Functions, Firebase Analytics, Navigation, ARCore
+    - Tech Stack = Dagger Hilt, Coroutines, Testing, Room, Firestore, Firebase Auth, Firebase Messaging, Firebase Functions, Navigation, ARCore
 
 
 - https://github.com/romannurik/muzei
 
     - Muzei Live Wallpaper for Android
 
-
-    - Tech Stack = Coroutines, Testing, Retrofit, Room, Firebase Perf, Firebase Analytics, Firebase Crashlytics, WorkManager, Paging, Navigation
+    - Tech Stack = Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation
 
 
 - https://github.com/mozilla-mobile/fenix
 
     - Firefox Preview
 
-
-    - Tech Stack = Coroutines, Testing, Retrofit, Room, Firebase Perf, Firebase Analytics, Firebase Crashlytics, WorkManager, Paging, Navigation
+    - Tech Stack = Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation
 
 
 - https://github.com/rumboalla/apkupdater
 
     - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
-
 
     - Tech Stack = Koin, JSoup, Navigation
 
@@ -549,14 +536,12 @@
 
     - 📚 Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
 
-
     - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Navigation, Paging, Data Binding
 
 
 - https://github.com/moezbhatti/qksms
 
     - The most beautiful SMS messenger for Android
-
 
     - Tech Stack = Dagger, Coroutines, Rx, Testing, Retrofit, Realm, ExoPlayer, Conductor, Data Binding, ShortcutBadger
 
@@ -565,15 +550,12 @@
 
     - Apturi Covid Android lietotne
 
-
-
-    - Tech Stack = Dagger, Coroutines, Rx, Testing, Retrofit, Room, Firebase Crashlytics, Firebase Analytics, WorkManager, Data Binding, ShortcutBadger
+    - Tech Stack = Dagger, Coroutines, Rx, Testing, Retrofit, Room,  WorkManager, Data Binding, ShortcutBadger
 
 
 - https://github.com/idisfkj/AwesomeGithub
 
     - Android Github客户端，基于组件化开发，支持账户密码与认证登陆。使用Kotlin语言进行开发，项目架构是基于JetPack&DataBinding的MVVM；同时支持组件开发，使用Arouter进行组件间的跳转；网络框架使用了Retrofit&Coroutine。项目持续更新中，为了防止走失，请做好start准备！😊😊
-
 
     - Tech Stack = Coroutines, Rx, Retrofit, Room, WorkManager, Paging, Navigation, Data Binding, ARouter
 
@@ -582,38 +564,41 @@
 
     - Native Android app for Habitica
 
-
     - Tech Stack = Dagger, Coroutines, Rx, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout
 
  - https://github.com/KhaledSherifSayed/PopularPeople
 
     - Popular People is a sample Android application 📱 showing stars of the world 👓 built to demonstrate use of Modern Android development tools. Dedicated to all Android Developers with ❤️.
 
-
     - Tech Stack = Koin, Coroutines, Testing, Retrofit, Data Binding, Sandwich
 
  - https://github.com/alisonthemonster/Presently
 
     - Android app for recording gratitude journal entries.
-    - Tech Stack = Dagger, Coroutines, Rx, Testing, Room, Firebase Messaging, Firebase Crashlytics, Firebase Analytics, WorkManager, Dropbox, Calendar view, Paging, Biometric
+
+    - Tech Stack = Dagger, Coroutines, Rx, Testing, Room, Firebase Messaging,  WorkManager, Dropbox, Calendar view, Paging, Biometric
 
  - https://github.com/fibelatti/raffler-kotlin
 
     - Raffler is a simple raffling app which intends to make decision making easier
+
     - Tech Stack = Dagger, Coroutines, Testing, Room
 
 - https://github.com/sanmiAde/Yet_Another_Anime_List
    - Yet Another Anime List is an app that allows you to view upcoming and trending animes on MAL. It also allows you to favourite animes.
-   - Tech Stack = Dagger2, RxJava, Testing using Fakes, MockWebserver, RxRetrofit, Room, Navigation Components, Lottie.
+
+   - Tech Stack = Dagger, Rx, Testing using Fakes, MockWebserver, RxRetrofit, Room, Navigation Components, Lottie.
 
 - https://github.com/OMIsie11/CovidNow
 
    - Simple application for tracking Covid-19 info. Stay safe.😷
+
    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, MPAndroidChart
 
 - https://github.com/ashwini009/TvFlix
 
   - TVFlix connects with TVDB API to give you popular shows and let you mark anyone as favorite.
+
   - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation
   
 - https://github.com/odaridavid/Clean-MVVM-ArchComponents
@@ -621,7 +606,7 @@
     - A Star Wars API app that lets you search for characters, view details about them and save your favorite
      characters.
 
-    - Tech Stack = Koin, Coroutines,Unit Testing & UI testing, Retrofit, Data Binding, Kotlin Flows, Room, Motion Layout
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Data Binding, Motion Layout
     
 - https://github.com/andremion/Theatre
 
@@ -633,13 +618,13 @@
 
     - A simple and sleek Android client consuming the Tuko News Api.. Data is fetched from the official tuko.co.ke news API.
     
-    - Tech Stack = Kotlin, Coroutines, Architecture Components, MVVM, Room, Retrofit, Material Components.
+    - Tech Stack = Coroutines, Retrofit, Room
     
 - https://github.com/KevinGitonga/NewsFeed
 
     - A localized News reader Android app powered by newsapi.org. Will Automatically localize your news based on your location if its supported by API.  
     
-    - Tech Stack = Kotlin, Coroutines, Architecture Components, MVVM, Room, Retrofit, Material Components, Pretty Time.
+    - Tech Stack = Coroutines, Retrofit, Room, Pretty Time.
     
     
 ### MVI
@@ -648,15 +633,12 @@
 
     - NewsFeed, provides live top and breaking headlines for a country, specific category in a country, single source, or multiple sources, by interacting to News API.
 
-
-    - Tech Stack = Kotlin, MVI, Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation
 
 
 - https://github.com/hoc081098/ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack
 
     - ⚡️Comic reader app 📘. Learning MVVM / MVI with 🌀 RxKotlin, Retrofit, Kotlin Coroutine, Work Manager, Room, Firebase ... ❄️
-
-
 
     - Tech Stack = Koin, Coroutines, Rx, Retrofit, Room, Firestore, Firebase Auth, Firebase Storage, WorkManager, Navigation, Paging
 
@@ -665,14 +647,12 @@
 
     - Application that interacts with the website open-api.xyz.
 
-
     - Tech Stack = Dagger, Coroutines, Retrofit, Room, Navigation
 
 
 - https://github.com/lopspower/CleanRxArchitecture
 
     - Clean Rx Kotlin Architecture sample on GitHub Api 🚀
-
 
     - Tech Stack = Dagger, Rx, Retrofit, Room, Clean Architecture
 
@@ -681,8 +661,7 @@
 
     - Android example with Clean Architecture by layer.
 
-
-    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firestore, Firebase Auth, Firebase Analytics, Firebase Crashlytics, Navigation, Markdown Processor
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firestore, Firebase Auth, Navigation, Markdown Processor
 
 
 
@@ -703,7 +682,7 @@
     - A shadowsocks client for Android
 
 
-    - Tech Stack = Testing, Room, Firebase Analytics, Firebase Crashlytics, Firebase Ads, WorkManager
+    - Tech Stack = Testing, Room,  Firebase Ads, WorkManager
 
 
 - https://github.com/BijoySingh/Scarlet-Notes
