@@ -26,19 +26,21 @@
 
 ## Contents
 
-:art: [**Pattern**](#art-pattern)
+:art: [**Pattern**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#art-pattern)
 
 
-- [Model View ViewModel (MVVM)](#mvvm)
+- [Model View ViewModel (MVVM)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm)
 
-- [Model View Intent (MVI)](#mvi)
+- [Model View Intent (MVI)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvi)
 
-- [Model View Presenter (MVP)](#mvp)
+- [Model View Presenter (MVP)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvp)
 
-- [Model View Controller (MVC) and Other Patterns](#other)
+- [Model View Controller (MVC) and Other Patterns](https://github.com/androiddevnotes/awesome-android-kotlin-apps#other)
 
 
-:memo: [**Contributing**](#memo-contributing)
+:books: [**Tech Stack/Libraries**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#books-tech-stacklibraries)
+
+:memo: [**Contributing**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#memo-contributing)
 
 
 ## :art: Pattern
@@ -117,7 +119,7 @@
     - Minimal text messenger with a ton of features.
 
 
-    - Tech Stack = Dagger, Coroutines, Rx, Testing, Realm, ExoPlayer, Conductor, Mixpanel Android, libphonenumber-android, Call Control DataShare, AutoDispose
+    - Tech Stack = Dagger, Coroutines, Rx, Testing, Realm, ExoPlayer, Conductor, Mixpanel Android, libphonenumber-android, Call Control DataShare
 
 
 - https://github.com/jnkforks/PokemonGo
@@ -125,7 +127,7 @@
     - Jetpack 实战项目 PokemonGo（神奇宝贝）基于 MVVM 架构和 Repository 设计模式
 
 
-    - Tech Stack = Dagger Hilt, Koin, Coroutines, Rx, Testing, Retrofit, Room, WorkManager, App Startup, Paging
+    - Tech Stack = Dagger Hilt, Koin, Coroutines, Rx, Testing, Retrofit, Room, WorkManager, Paging
 
 
 - https://github.com/andyb129/AppDevToolbox
@@ -358,7 +360,7 @@
     - The Movie DB app using Kotlin with updated Android features.
 
 
-    - Tech Stack = Koin, Coroutines, Rx, Testing, Retrofit, Room,  Paging, Data Binding, Easy Permissions Navigation
+    - Tech Stack = Koin, Coroutines, Rx, Testing, Retrofit, Room,  Paging, Data Binding, Easy Permissions, Navigation
 
 
 - https://github.com/ferPrieto/Coroutines-Flows-Modularised
@@ -690,8 +692,12 @@
     - Simple yet powerful rich note taking android application, with a lot of flexibilty of usage
 
 
-    - Tech Stack = Dagger, Coroutines, Room, Firebase Auth, Firebase Database Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric
+    - Tech Stack = Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric
 
+
+## :books: Tech Stack/Libraries
+
+- [Dagger](https://github.com/google/dagger), Koin, Kodein, Inorichi Injekt, Coroutines, Rx, Testing, Retrofit, Fuel, Room, Realm, Firebase Products, WorkManager, ExoPlayer, Paging, Navigation, Lottie, Zoomy, JSoup, js-evaluator-for-android, Algolia Search, Conductor, Call Control DataShare, libphonenumber-android, Mixpanel Android, Venom, FlowLayout, ARCore, GSYVideoPlayer, PermissionX, EventBus, Dynamicanimation, Google Drive, Dropbox, MPAndroidChart, Facebook Products, PayPal, Stripe, Easy Permissions, socketIO, Dexter, Tikxml, Markwon, Scarlet, Android-Permissions, RxPermissions, android-upload-service, PermissionsDispatcher, ShortcutBadger, ARouter, Sandwich, Calendar view, Biometric, Pretty Time, Markdown Processor, DiskLruCache, Duktape Android, Evernote android-job, Facebook Litho, Facebook SoLoader, Data Binding
 
 ## :memo: Contributing
 
