@@ -60,7 +60,7 @@
     - An Android app for viewing and predicting the latest World Rugby rankings 🏉
 
     
-    - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation, insetter
+    - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, insetter
 
 
 
