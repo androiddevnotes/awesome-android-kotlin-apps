@@ -47,11 +47,19 @@
 
 ### MVVM
 
+- https://github.com/akoufa/CoolWeather
+
+    - Weather App that uses Android best practices. Android Jetpack, clean architecture. Written in Kotlin
+
+
+    - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation
+    
+
 - https://github.com/GeorgCantor/WallpaperApp
     
     - **WallpaperApp** App for viewing and downloading wallpapers.
     
-    - Tech Stack = Koin, Coroutines, Retrofit, Room, Lottie, Zoomy, Navigation.
+    - Tech Stack = Koin, Coroutines, Retrofit, Room, Lottie, Zoomy, Navigation
 
 - https://github.com/DheerajKotwani/GithubVisualizer
 
@@ -68,7 +76,7 @@
 
 - https://github.com/abhinav0612/PasswordVault
 
-    - **:lock: Password Vault** is an all in one offline password storing application where you can also store debit/credit cards and bank details with one :key: Master PIN .
+    - **:lock: Password Vault** is an all in one offline password storing application where you can also store debit/credit cards and bank details with one :key: Master PIN.
 
     - Tech Stack = Dagger Hilt, Room, Navigation
 
