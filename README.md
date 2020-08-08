@@ -47,10 +47,23 @@
 
 ### MVVM
 
+- https://github.com/bernaferrari/ChangeDetection
+
+    - Automatically track websites changes on Android in background.
+
+    - Tech Stack = Dagger, Coroutines, Rx, Retrofit, Room, Firestore, WorkManager, Paging, Data Binding, Navigation, JSoup, js-evaluator-for-android
+
+
+- https://github.com/igorwojda/android-showcase
+
+    - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+
+    - Tech Stack = Kodein, Coroutines, Testing, Retrofit, KAndroid, Lottie, Detekt, Navigation, Dynamic Feature Modules
+
+
 - https://github.com/HariKulhari06/Covid-19-Tracker
 
     - A Sample to track COVID-19 cases in India and globally.
-
 
     - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Room, Firestore, WorkManager, Navigation, MPAndroidChart
 
@@ -58,7 +71,6 @@
 - https://github.com/akoufa/CoolWeather
 
     - Weather App that uses Android best practices. Android Jetpack, clean architecture. Written in Kotlin
-
 
     - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation
 
@@ -71,12 +83,13 @@
     - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, insetter
 
 
-
 - https://github.com/GeorgCantor/WallpaperApp
     
     - **WallpaperApp** App for viewing and downloading wallpapers.
     
     - Tech Stack = Koin, Coroutines, Retrofit, Room, Lottie, Zoomy, Navigation
+
+
 
 - https://github.com/DheerajKotwani/GithubVisualizer
 
@@ -113,14 +126,6 @@
 
 
     - Tech Stack = Coroutines, Retrofit, Firestore, Firebase Auth, Firebase Messaging, Firebase Storage, Cloud Functions, Data Binding, Navigation
-
-
-- https://github.com/bernaferrari/ChangeDetection
-
-    - Automatically track websites changes on Android in background.
-
-
-    - Tech Stack = Dagger, Coroutines, Rx, Retrofit, Room, Firestore, WorkManager, Paging, Data Binding, Navigation, JSoup, js-evaluator-for-android
 
 
 - https://github.com/mayokunthefirst/Instant-Weather
