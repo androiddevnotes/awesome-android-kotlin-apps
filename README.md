@@ -63,10 +63,10 @@
 
 - https://github.com/igorescodro/alkaa
 
-    - Open-source app to manage your tasks quickly and easily
+    - A simple to-do app created to study the latest components, architecture, tools, and APIs released in Android Platform. The project evolved a lot in the last year and now is available on Google Play! :heart:
 
 
-    - Tech Stack = Koin, Coroutines, Testing, Room, MPAndroidChart, Groupie, Detekt, Navigation
+    - Tech Stack = Koin, Espresso, UiAutomator, Mockk, Coroutines, Navigation, Room, MotionLayout, KTX, Modularization, Dynamic Delivery, Dark Theme, klint, Detekt, codebeat, CodeFactor, Codacy, MPAndroidChart, Groupie
 
 - https://github.com/HariKulhari06/Covid-19-Tracker
 
