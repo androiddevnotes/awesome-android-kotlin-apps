@@ -61,6 +61,13 @@
     - Tech Stack = Kodein, Coroutines, Testing, Retrofit, KAndroid, Lottie, Detekt, Navigation, Dynamic Feature Modules
 
 
+- https://github.com/igorescodro/alkaa
+
+    - Open-source app to manage your tasks quickly and easily
+
+
+    - Tech Stack = Koin, Coroutines, Testing, Room, MPAndroidChart, Groupie, Detekt, Navigation
+
 - https://github.com/HariKulhari06/Covid-19-Tracker
 
     - A Sample to track COVID-19 cases in India and globally.
