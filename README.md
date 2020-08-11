@@ -61,6 +61,13 @@
     - Tech Stack = Kodein, Coroutines, Testing, Retrofit, KAndroid, Lottie, Detekt, Navigation, Dynamic Feature Modules
 
 
+- https://github.com/YahiaAngelo/Noted-Android
+
+    - Notes and Tasks app where you can add notes and tasks with Reminders also with categories.
+
+    - Tech Stack = Koin dependency injection, Coroutines, Realm db, Material Components, Markdown, Navigation
+
+
 - https://github.com/igorescodro/alkaa
 
     - A simple to-do app created to study the latest components, architecture, tools, and APIs released in Android Platform. The project evolved a lot in the last year and now is available on Google Play! :heart:
