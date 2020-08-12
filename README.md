@@ -28,11 +28,16 @@
 
 :art: [**Pattern**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#art-pattern)
 
-- [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#clean-architecture)
 
 - [Model View ViewModel (MVVM)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm)
 
+    - [Normal](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm-normal)
+    - [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm-clean-architecture)
+
 - [Model View Intent (MVI)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvi)
+
+    - [Normal](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvi-normal)
+    - [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvi-clean-architecture)
 
 - [Model View Presenter (MVP)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvp)
 
@@ -46,28 +51,15 @@
 
 ## :art: Pattern
 
-### CLEAN ARCHITECTURE 
-
-- https://github.com/happysingh23828/Android-Clean-Architecture
-    - This is a sample movie list  Android application 📱 built to demonstrate use of [**Clean Architecture**](https://github.com/happysingh23828/Android-Clean-Architecture#what-is-clean-architecture) tools with [**80% code coverage**](https://github.com/happysingh23828/Android-Clean-Architecture#--code-coverage-reports). Dedicated to all Android Developers with ❤️. 
-
-    - Tech Stack = Kotlin, MVVM, Rx-Java, CI-CD, Dagger-2, SOLID, Code Coverage, Unit Testing for modules, LiveData , ViewModel, Room, Retrofit , Jacoco, Detekt, ktlint, Mockito, Stetho....
-
-
 ### MVVM
+
+#### Normal
 
 - https://github.com/bernaferrari/ChangeDetection
 
     - Automatically track websites changes on Android in background.
 
     - Tech Stack = Dagger, Coroutines, Rx, Retrofit, Room, Firestore, WorkManager, Paging, Data Binding, Navigation, JSoup, js-evaluator-for-android
-
-
-- https://github.com/igorwojda/android-showcase
-
-    - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
-
-    - Tech Stack = Kodein, Coroutines, Testing, Retrofit, KAndroid, Lottie, Detekt, Navigation, Dynamic Feature Modules
 
 
 - https://github.com/YahiaAngelo/Noted-Android
@@ -89,13 +81,6 @@
     - A Sample to track COVID-19 cases in India and globally.
 
     - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Room, Firestore, WorkManager, Navigation, MPAndroidChart
-
-
-- https://github.com/akoufa/CoolWeather
-
-    - Weather App that uses Android best practices. Android Jetpack, clean architecture. Written in Kotlin
-
-    - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation
 
 
 - https://github.com/ricknout/rugby-ranker
@@ -416,14 +401,6 @@
     - Tech Stack = Koin, Coroutines, Rx, Testing, Retrofit, Room,  Paging, Data Binding, Easy Permissions, Navigation
 
 
-- https://github.com/ferPrieto/Coroutines-Flows-Modularised
-
-    - Clean Architecture Modular Project.
-
-
-    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Data Binding, Navigation
-
-
 - https://github.com/CharlieChristensen/Cryptotracker
 
     - Displays live prices of many types of cryptocoins as well as create a wallet to track total portfolio value.
@@ -656,18 +633,6 @@
 
   - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation
   
-- https://github.com/odaridavid/Clean-MVVM-ArchComponents
-
-    - A Star Wars API app that lets you search for characters, view details about them and save your favorite
-     characters.
-
-    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Data Binding, Motion Layout
-    
-- https://github.com/andremion/Theatre
-
-    - Pet project using Clean Architecture + MVVM + Reactive Extensions + Android Architecture Components. The data are fetched from LondonTheatreDirect API. performing_arts
-
-    - Tech Stack = Dagger, Rx, Testing, Retrofit, Room, Navigation, Data Binding
 
 - https://github.com/KevinGitonga/TukoNewsClient
 
@@ -680,9 +645,52 @@
     - A localized News reader Android app powered by newsapi.org. Will Automatically localize your news based on your location if its supported by API.  
     
     - Tech Stack = Coroutines, Retrofit, Room, Pretty Time.
+
+#### Clean Architecture
+
+- https://github.com/happysingh23828/Android-Clean-Architecture
+    - This is a sample movie list  Android application 📱 built to demonstrate use of [**Clean Architecture**](https://github.com/happysingh23828/Android-Clean-Architecture#what-is-clean-architecture) tools with [**80% code coverage**](https://github.com/happysingh23828/Android-Clean-Architecture#--code-coverage-reports). Dedicated to all Android Developers with ❤️. 
+
+    - Tech Stack = Dagger, Unit Testing for modules, Mockito, Rx, Retrofit, Room, CI-CD, SOLID, Code Coverage, Jacoco, Detekt, ktlint, Stetho
+
+
+- https://github.com/igorwojda/android-showcase
+
+    - 💎 Android application following best practices: Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+
+    - Tech Stack = Kodein, Coroutines, Testing, Retrofit, KAndroid, Lottie, Detekt, Navigation, Dynamic Feature Modules
+
+
+- https://github.com/ferPrieto/Coroutines-Flows-Modularised
+
+    - Clean Architecture Modular Project.
+
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Data Binding, Navigation
+
+
+- https://github.com/akoufa/CoolWeather
+
+    - Weather App that uses Android best practices. Android Jetpack, clean architecture. Written in Kotlin
+
+    - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation
+
+- https://github.com/odaridavid/Clean-MVVM-ArchComponents
+
+    - A Star Wars API app that lets you search for characters, view details about them and save your favorite
+     characters.
+
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Data Binding, Motion Layout
+    
+- https://github.com/andremion/Theatre
+
+    - Pet project using Clean Architecture + MVVM + Reactive Extensions + Android Architecture Components. The data are fetched from LondonTheatreDirect API. performing_arts
+
+    - Tech Stack = Dagger, Rx, Testing, Retrofit, Room, Navigation, Data Binding
     
     
 ### MVI
+
+#### Normal
 
 - https://github.com/HadySalhab/NewsFeed-MVI-Dagger
 
@@ -704,6 +712,7 @@
 
     - Tech Stack = Dagger, Coroutines, Retrofit, Room, Navigation
 
+#### Clean Architecture
 
 - https://github.com/lopspower/CleanRxArchitecture
 
@@ -726,7 +735,6 @@
 
     - Tachiyomi is a free and open source manga reader for Android 5.0 and above.
 
-
     - Tech Stack = Inorichi injekt, Coroutines, Rx, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor
 
 
@@ -735,7 +743,6 @@
 - https://github.com/shadowsocks/shadowsocks-android
 
     - A shadowsocks client for Android
-
 
     - Tech Stack = Testing, Room,  Firebase Ads, WorkManager
 
