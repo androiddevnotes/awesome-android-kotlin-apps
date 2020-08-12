@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/90?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/91?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -28,6 +28,7 @@
 
 :art: [**Pattern**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#art-pattern)
 
+- [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#clean-architecture)
 
 - [Model View ViewModel (MVVM)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm)
 
@@ -44,6 +45,14 @@
 
 
 ## :art: Pattern
+
+### CLEAN ARCHITECTURE 
+
+- https://github.com/happysingh23828/Android-Clean-Architecture
+    - This is a sample movie list  Android application 📱 built to demonstrate use of [**Clean Architecture**](https://github.com/happysingh23828/Android-Clean-Architecture#what-is-clean-architecture) tools with [**80% code coverage**](https://github.com/happysingh23828/Android-Clean-Architecture#--code-coverage-reports). Dedicated to all Android Developers with ❤️. 
+
+    - Tech Stack = Kotlin, MVVM, Rx-Java, CI-CD, Dagger-2, SOLID, Code Coverage, Unit Testing for modules, LiveData , ViewModel, Room, Retrofit , Jacoco, Detekt, ktlint, Mockito, Stetho....
+
 
 ### MVVM
 
