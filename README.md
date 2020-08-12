@@ -645,6 +645,12 @@
     - A localized News reader Android app powered by newsapi.org. Will Automatically localize your news based on your location if its supported by API.  
     
     - Tech Stack = Coroutines, Retrofit, Room, Pretty Time.
+    
+- https://github.com/auron567/Gallerit
+
+    - A sample Android gallery to search images posted on Reddit built using modern Android development tools.
+    
+    - Tech Stack = Coroutines, Navigation, Data Binding, Retrofit, Room, Koin, Testing.
 
 #### Clean Architecture
 
