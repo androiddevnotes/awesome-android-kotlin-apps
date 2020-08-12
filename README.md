@@ -31,13 +31,13 @@
 
 - [Model View ViewModel (MVVM)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm)
 
-    - [Normal](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm-normal)
-    - [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm-clean-architecture)
+    - [Normal](https://github.com/androiddevnotes/awesome-android-kotlin-apps#normal)
+    - [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#clean-architecture)
 
 - [Model View Intent (MVI)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvi)
 
-    - [Normal](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvi-normal)
-    - [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvi-clean-architecture)
+    - [Normal](https://github.com/androiddevnotes/awesome-android-kotlin-apps#normal-1)
+    - [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#clean-architecture-1)
 
 - [Model View Presenter (MVP)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvp)
 
