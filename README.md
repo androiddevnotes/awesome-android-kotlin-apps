@@ -652,6 +652,12 @@
     
     - Tech Stack = Coroutines, Navigation, Data Binding, Retrofit, Room, Koin, Testing.
 
+- https://github.com/enginebai/MovieHunt
+
+    - 🍿Movie Android App written in Kotlin, MVVM, RxJava, Android Architecture Components. It showcases the app development with well-designed architecture and up-to-date Android tech stacks.
+    
+    - Tech Stack = 100% Kotlin, RxJava, Room, Paging, ViewModel, LiveData, Navigation, Koin, Epoxy.
+
 #### Clean Architecture
 
 - https://github.com/happysingh23828/Android-Clean-Architecture
