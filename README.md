@@ -657,6 +657,12 @@
     - 🍿Movie Android App written in Kotlin, MVVM, RxJava, Android Architecture Components. It showcases the app development with well-designed architecture and up-to-date Android tech stacks.
     
     - Tech Stack = 100% Kotlin, RxJava, Room, Paging, ViewModel, LiveData, Navigation, Koin, Epoxy.
+    
+- https://github.com/Shivamdhuria/flows_guide
+
+    - An Android app with Offline first approach, powered by dog.ceo. Build with amazing transition and animations, following material design principles and modern tech stack.
+    
+    - Tech Stack = 100% Kotlin, Coroutines, Flows, Retrofit, Room, Hilt, Live Data, Viewmodel , Material Design Components, Navigation
 
 #### Clean Architecture
 
