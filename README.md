@@ -48,7 +48,7 @@
 
 - https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps
 
-    - ** A curated list of awesome Jetpack Compose android apps by open-source contributors.
+    - **A curated list of awesome Jetpack Compose android apps by open-source contributors.
     
     - Awesome Jetpack Compose Android Apps aims to be the starting point for developers to find an Android
 app with a Jetpack Compose suite of libraries.
