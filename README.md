@@ -28,7 +28,7 @@
 
 :art: [**Pattern**](#art-pattern)
 
-- [Jetpack Compose Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps#jetpack-compose-apps)
+- [Jetpack Compose Apps](#jetpack-compose-apps)
 
 - [MVVM](#mvvm)
 
@@ -46,7 +46,7 @@
 
 ### Jetpack Compose Apps
 
-- https://github.com/androidevnotes/awesome-jetpack-compose-android-apps
+- https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps
 
     - ** A curated list of awesome Jetpack Compose android apps by open-source contributors.
     
