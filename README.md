@@ -29,7 +29,7 @@
 :art: [**Pattern**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#art-pattern)
 
 
-- [Jetpack Compose Apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps#jetpack-compose-apps)
+- [Jetpack Compose Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps#jetpack-compose-apps)
 
 - [Model View ViewModel (MVVM)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm)
 
