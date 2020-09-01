@@ -715,6 +715,12 @@
 
     - Tech Stack = Dagger, RxJava, Testing, Retrofit, Room, Navigation, Data Binding, LiveData, ViewModel
     
+- https://github.com/HamdiBoumaiza/CoronavirusWorldStatus
+
+    - An Android App that shows the stats of coronavirus worldwide and per country .
+    
+    - Tech Stack = Dagger, Coroutines, Retrofit, Room, LiveData, ViewModel , Stetho
+    
     
 ### MVI
 
