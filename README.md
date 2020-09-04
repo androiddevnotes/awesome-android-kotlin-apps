@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/95?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/97?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -65,102 +65,12 @@
 
 #### Normal
 
-- https://github.com/bernaferrari/ChangeDetection
+- https://github.com/ashwini009/TvFlix
 
-    - Automatically track websites changes on Android in background.
+  - TVFlix connects with TVDB API to give you popular shows and let you mark anyone as favorite.
 
-    - Tech Stack = Dagger, Coroutines, RxJava, Retrofit, Room, Firestore, WorkManager, Paging, Data Binding, Navigation, JSoup, js-evaluator-for-android, LiveData, ViewModel
-
-
-- https://github.com/YahiaAngelo/Noted-Android
-
-    - Notes and Tasks app where you can add notes and tasks with Reminders also with categories.
-
-    - Tech Stack = Koin dependency injection, Coroutines, Realm db, Material Components, Markdown, Navigation, LiveData, ViewModel
-
-
-- https://github.com/igorescodro/alkaa
-
-    - A simple to-do app created to study the latest components, architecture, tools, and APIs released in Android Platform. The project evolved a lot in the last year and now is available on Google Play! :heart:
-
-
-    - Tech Stack = Koin, Espresso, UiAutomator, Mockk, Coroutines, Navigation, Room, MotionLayout, KTX, Modularization, Dynamic Delivery, Dark Theme, klint, Detekt, codebeat, CodeFactor, Codacy, MPAndroidChart, Groupie, LiveData, ViewModel
-
-- https://github.com/HariKulhari06/Covid-19-Tracker
-
-    - A Sample to track COVID-19 cases in India and globally.
-
-    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Room, Firestore, WorkManager, Navigation, MPAndroidChart, LiveData, ViewModel
-
-
-- https://github.com/ricknout/rugby-ranker
-
-    - An Android app for viewing and predicting the latest World Rugby rankings 🏉
-
-    
-    - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, insetter, LiveData, ViewModel
-
-
-- https://github.com/GeorgCantor/WallpaperApp
-    
-    - **WallpaperApp** App for viewing and downloading wallpapers.
-    
-    - Tech Stack = Koin, Coroutines, Retrofit, Room, Lottie, Zoomy, Navigation, LiveData, ViewModel
-
-
-
-- https://github.com/DheerajKotwani/GithubVisualizer
-
-    - **Github Visualizer** Android Application to track any user activity on Github built using the Github Developers Api. Implementation for almost all methods Github Developers Api.🔥🔥
-
-    - Tech Stack = Retrofit, Firebase Auth, Coroutines, LiveData, ViewModel
-
-
-- https://github.com/PHELAT/Tedu
-
-    - **📝 Tedu** Todo app, but minimal, open-source and free. It lets you to sync your todos on your cloud provider. This project is architected in a modular structure and you can learn a lot from it.
-
-    - Tech Stack = Dagger, Room, Coroutines, Firebase Messaging, Navigation, LiveData, ViewModel
-
-- https://github.com/abhinav0612/PasswordVault
-
-    - **:lock: Password Vault** is an all in one offline password storing application where you can also store debit/credit cards and bank details with one :key: Master PIN.
-
-    - Tech Stack = Dagger Hilt, Room, Navigation, LiveData, ViewModel
-
-
-- https://github.com/TheCodeMonks/NYTimes-App
-
-    - **🗽 NY Times App** is an Minimal News 🗞 Android application built to describe the use of JSoup with Modern Android development tools.
-
-
-    - Tech Stack = Coroutines, Room, JSoup, Navigation, LiveData, ViewModel
-
-
-
-- https://github.com/satyamurti/LetsChat
-
-    - **An opensource Indian chat app** with new cool concepts.
-
-
-    - Tech Stack = Coroutines, Retrofit, Firestore, Firebase Auth, Firebase Messaging, Firebase Storage, Cloud Functions, Data Binding, Navigation, LiveData, ViewModel
-
-
-- https://github.com/mayokunthefirst/Instant-Weather
-
-    - Instant Weather fetches data from the OpenWeatherMap API.
-
-
-    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Paging, Data Binding, Navigation, Algolia Search, LiveData, ViewModel
-
-
-- https://github.com/qingmei2/MVVM-Architecture
-
-    - The practice of MVVM + Jetpack architecture in Android.
-
-
-    - Tech Stack = Dagger Hilt, Coroutines, RxJava, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel
-
+  - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel
+  
 
 - https://github.com/vidit135g/Replify-Messenger [Kotlin + Java]
 
@@ -262,7 +172,6 @@
     - Vocable AAC allows those with conditions such as MS, stroke, ALS, or spinal cord injuries to communicate using an app that tracks head movements, without the need to spend tens of thousands of dollars on technology to do so.
 
 
-
     - Tech Stack = Koin, Coroutines, Testing, Room, Data Binding, AR, LiveData, ViewModel
 
 
@@ -297,6 +206,108 @@
 
 
     - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel
+
+- https://github.com/bernaferrari/ChangeDetection
+
+    - Automatically track websites changes on Android in background.
+
+    - Tech Stack = Dagger, Coroutines, RxJava, Retrofit, Room, Firestore, WorkManager, Paging, Data Binding, Navigation, JSoup, js-evaluator-for-android, LiveData, ViewModel
+
+
+- https://github.com/YahiaAngelo/Noted-Android
+
+    - Notes and Tasks app where you can add notes and tasks with Reminders also with categories.
+
+    - Tech Stack = Koin dependency injection, Coroutines, Realm db, Material Components, Markdown, Navigation, LiveData, ViewModel
+
+
+- https://github.com/igorescodro/alkaa
+
+    - A simple to-do app created to study the latest components, architecture, tools, and APIs released in Android Platform. The project evolved a lot in the last year and now is available on Google Play! :heart:
+
+
+    - Tech Stack = Koin, Espresso, UiAutomator, Mockk, Coroutines, Navigation, Room, MotionLayout, KTX, Modularization, Dynamic Delivery, Dark Theme, klint, Detekt, codebeat, CodeFactor, Codacy, MPAndroidChart, Groupie, LiveData, ViewModel
+
+- https://github.com/HariKulhari06/Covid-19-Tracker
+
+    - A Sample to track COVID-19 cases in India and globally.
+
+    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Room, Firestore, WorkManager, Navigation, MPAndroidChart, LiveData, ViewModel
+
+
+- https://github.com/zedlabs/WallPortal
+
+    - Minimal Wallpapers for Android. The goal of this project is to create a responsive application and with optimized networking, a good place to see implementation. moved to wallhaven.cc api from unsplashed api due to rate limits.
+
+    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Room, Paging, Navigation, LiveData, ViewModel
+
+
+- https://github.com/ricknout/rugby-ranker
+
+    - An Android app for viewing and predicting the latest World Rugby rankings 🏉
+
+    
+    - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, insetter, LiveData, ViewModel
+
+
+- https://github.com/GeorgCantor/WallpaperApp
+    
+    - **WallpaperApp** App for viewing and downloading wallpapers.
+    
+    - Tech Stack = Koin, Coroutines, Retrofit, Room, Lottie, Zoomy, Navigation, LiveData, ViewModel
+
+
+
+- https://github.com/DheerajKotwani/GithubVisualizer
+
+    - **Github Visualizer** Android Application to track any user activity on Github built using the Github Developers Api. Implementation for almost all methods Github Developers Api.🔥🔥
+
+    - Tech Stack = Retrofit, Firebase Auth, Coroutines, LiveData, ViewModel
+
+
+- https://github.com/PHELAT/Tedu
+
+    - **📝 Tedu** Todo app, but minimal, open-source and free. It lets you to sync your todos on your cloud provider. This project is architected in a modular structure and you can learn a lot from it.
+
+    - Tech Stack = Dagger, Room, Coroutines, Firebase Messaging, Navigation, LiveData, ViewModel
+
+- https://github.com/abhinav0612/PasswordVault
+
+    - **:lock: Password Vault** is an all in one offline password storing application where you can also store debit/credit cards and bank details with one :key: Master PIN.
+
+    - Tech Stack = Dagger Hilt, Room, Navigation, LiveData, ViewModel
+
+
+- https://github.com/TheCodeMonks/NYTimes-App
+
+    - **🗽 NY Times App** is an Minimal News 🗞 Android application built to describe the use of JSoup with Modern Android development tools.
+
+
+    - Tech Stack = Coroutines, Room, JSoup, Navigation, LiveData, ViewModel
+
+
+- https://github.com/satyamurti/LetsChat
+
+    - **An opensource Indian chat app** with new cool concepts.
+
+
+    - Tech Stack = Coroutines, Retrofit, Firestore, Firebase Auth, Firebase Messaging, Firebase Storage, Cloud Functions, Data Binding, Navigation, LiveData, ViewModel
+
+
+- https://github.com/mayokunthefirst/Instant-Weather
+
+    - Instant Weather fetches data from the OpenWeatherMap API.
+
+
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Paging, Data Binding, Navigation, Algolia Search, LiveData, ViewModel
+
+
+- https://github.com/qingmei2/MVVM-Architecture
+
+    - The practice of MVVM + Jetpack architecture in Android.
+
+
+    - Tech Stack = Dagger Hilt, Coroutines, RxJava, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel
 
 
 - https://github.com/nuhkoca/libbra
@@ -637,12 +648,6 @@
 
    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, MPAndroidChart, LiveData, ViewModel
 
-- https://github.com/ashwini009/TvFlix
-
-  - TVFlix connects with TVDB API to give you popular shows and let you mark anyone as favorite.
-
-  - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel
-  
 
 - https://github.com/KevinGitonga/TukoNewsClient
 
