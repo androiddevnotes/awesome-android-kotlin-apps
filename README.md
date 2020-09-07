@@ -805,7 +805,7 @@ See [contributing.md](contributing.md)
 ## :computer: Find us on
 
 <div align="center">
-	<a href="https://github.com/androiddevnotes"> GitHub </a> / <a href="https://www.instagram.com/androiddevnotes"> Instagram </a> / <a href="https://twitter.com/androiddevnotes"> Twitter </a>
+	<a href="https://github.com/androiddevnotes"> GitHub </a> / <a href="https://discord.gg/vBnEhuC"> Discord </a> / <a href="https://twitter.com/androiddevnotes"> Twitter </a> / <a href="https://www.instagram.com/androiddevnotes"> Instagram </a> / <a href="https://www.youtube.com/channel/UCQATLaT0xKkSm-KKVQzpu0Q"> YouTube </a> / <a href="https://medium.com/@androiddevnotes"> Medium </a>
 	<br><br>
-    <img width="320px" src="assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
+    <img width="320px" src="https://raw.githubusercontent.com/androiddevnotes/androiddevnotes/master/assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
 </div>
