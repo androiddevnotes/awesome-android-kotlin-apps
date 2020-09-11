@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/97?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/98?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -126,6 +126,12 @@
 
 
     - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, LiveData, ViewModel
+
+- https://github.com/ardakazanci/Heyyoo
+
+    - Heyyoo is a sample social media Android application 📱 built to demonstrate use of Modern Android development tools.
+
+    - Tech Stack = Coroutines, Retrofit, Room, Algolia, LocGetter, EasyValidation, Dexter, Splashy, secure-preferences, Paging, Data Binding, Navigation, LiveData, ViewModel
 
 
 - https://github.com/lulululbj/wanandroid/
