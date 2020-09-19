@@ -794,6 +794,12 @@
 
     - Tech Stack = Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor
 
+- https://github.com/inorichi/tachiyomi
+
+    - Android Clean Architecture + MVP Sample written in Kotlin
+
+    - Tech Stack = Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso)
+
 
 ## Other
 
