@@ -65,6 +65,12 @@
 
 #### Normal
 
+- https://github.com/utsmannn/hiya-hiya-hiya
+
+    - Whatsapp Clone base on Firebase Cloud Messaging
+
+    - Tech Stack = Koin, Coroutines, Retrofit, Room, Firebase Messaging, Firebase Auth, WorkManager, Google Maps, Paging,  JSoup, vanniktech/Emoji, afollestad/inline-activity-result, LiveData, ViewModel
+
 - https://github.com/ashwini009/TvFlix
 
   - TVFlix connects with TVDB API to give you popular shows and let you mark anyone as favorite.
