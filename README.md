@@ -702,10 +702,16 @@
     - 🦠 Simple COVID19 data monitoring worldwide with interactive chart and map 
     
     - Tech Stack = MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, Spek2Framwework for Unit Testing, etc
+    
+  - https://github.com/Tristankluivert/Knote
+      
+      - Knote is a standard note taking application with cool features like adding images, urls, text to speech, etc
+      - Tech Stack = Room persistence library, LiveData, ViewModel, ViewBinding, Koin, Coroutines
 
 #### Clean Architecture
 
 - https://github.com/happysingh23828/Android-Clean-Architecture
+
     - This is a sample movie list  Android application 📱 built to demonstrate use of [**Clean Architecture**](https://github.com/happysingh23828/Android-Clean-Architecture#what-is-clean-architecture) tools with [**80% code coverage**](https://github.com/happysingh23828/Android-Clean-Architecture#--code-coverage-reports). Dedicated to all Android Developers with ❤️. 
 
     - Tech Stack = Dagger, Unit Testing for modules, Mockito, RxJava, Retrofit, Room, CI-CD, SOLID, Code Coverage, Jacoco, Detekt, ktlint, Stetho, LiveData, ViewModel
