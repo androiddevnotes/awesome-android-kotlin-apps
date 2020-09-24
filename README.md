@@ -696,6 +696,12 @@
     - An Android app with Offline first approach, powered by dog.ceo. Build with amazing transition and animations, following material design principles and modern tech stack.
     
     - Tech Stack = Dagger Hilt, Coroutines, Flows, Retrofit, Room, Material Design Components, Navigation, LiveData, ViewModel
+    
+- https://github.com/rizmaulana/kotlin-mvvm-covid19
+
+    - 🦠 Simple COVID19 data monitoring worldwide with interactive chart and map 
+    
+    - Tech Stack = MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, Spek2Framwework for Unit Testing, etc
 
 #### Clean Architecture
 
