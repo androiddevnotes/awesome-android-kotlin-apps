@@ -707,7 +707,7 @@
       
      - Knote app is a simple yet standard note taking app with features like image addition, ocr, text to speech and more
     
-     - Tech Stack = MVVM, Live Data, Koin, Room db, Coroutines etc
+     - Tech Stack = ViewModel, Live Data, Koin, Room db, Coroutines etc
       
       
 #### Clean Architecture
