@@ -703,7 +703,7 @@
     
     - Tech Stack = MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, Spek2Framwework for Unit Testing, etc
     
-  - https://github.com/Tristankluivert/Knote
+- https://github.com/Tristankluivert/Knote
       
       - Knote is a standard note taking application with cool features like adding images, urls, text to speech, etc
       - Tech Stack = Room persistence library, LiveData, ViewModel, ViewBinding, Koin, Coroutines
