@@ -705,9 +705,11 @@
     
 - https://github.com/Tristankluivert/Knote
       
-      - Knote is a standard note taking application with cool features like adding images, urls, text to speech, etc
-      - Tech Stack = Room persistence library, LiveData, ViewModel, ViewBinding, Koin, Coroutines
-
+     - Knote app is a simple yet standard note taking app with features like image addition, ocr, text to speech and more
+    
+     - Tech Stack = MVVM, Live Data, Koin, Room db, Coroutines etc
+      
+      
 #### Clean Architecture
 
 - https://github.com/happysingh23828/Android-Clean-Architecture
