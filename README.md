@@ -758,6 +758,11 @@
     
     - Tech Stack = Dagger, Coroutines, Retrofit, Room, LiveData, ViewModel , Stetho
     
+- https://github.com/SmartToolFactory/PropertyFindAR
+
+    - 🏘 Real Estate App with many screens written with RxJava3+Flow with offline first/last using dynamic feature modules, and TDD, used ConcatAdapter to have RV with different layouts.
+     
+    - Tech Stack = RxJava3, Coroutines Flow, Retrofit, Room, Dagger Hilt, Dynamic Feature Modules, ConcatAdapter, LiveData, ViewModel, SavedStateHandle, WorkManager, Glide, Lottie, MpCharts, MockWebServer, MockK, FlowTestObserver, ktLint, detekt, Git Hooks, Git Flow
     
 ### MVI
 
