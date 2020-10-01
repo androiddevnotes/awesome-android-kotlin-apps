@@ -764,6 +764,13 @@
      
     - Tech Stack = RxJava3, Coroutines Flow, Retrofit, Room, Dagger Hilt, Dynamic Feature Modules, ConcatAdapter, LiveData, ViewModel, SavedStateHandle, WorkManager, Glide, Lottie, MpCharts, MockWebServer, MockK, FlowTestObserver, ktLint, detekt, Git Hooks, Git Flow
     
+- https://github.com/sansets/android-clean-architecture
+
+    - Food recipe app that uses Modularization, Single Activity Architecture, and Clean Architecture.
+    
+    - Tech Stack = Navigation Component, Dagger, Coroutines Flow, Room, Retrofit, LiveData, ViewModel, View Binding, Dynamic Feature Modules.
+    
+    
 ### MVI
 
 #### Normal
