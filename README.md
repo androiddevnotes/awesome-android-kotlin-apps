@@ -775,6 +775,11 @@
     
     - Tech Stack = Navigation Component, Dagger, Coroutines Flow, Room, Retrofit, LiveData, ViewModel, View Binding, Dynamic Feature Modules.
     
+- https://github.com/VladimirWrites/BLTaxi
+
+    - 🚕 BL Taxi is a simple app for calling a taxi in the city Banja Luka built using modern Android development tools (Clean Architecture, Kotlin, Coroutines, MVVM, Testing)
+
+    - Tech Stack = Koin, Retrofit, Room, Data Binding, Live Data, View Model, Work Manager, Material Components
     
 ### MVI
 
