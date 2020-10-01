@@ -69,7 +69,7 @@
 
     - Unofficial Unsplash Android App
 
-    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Firestore, Firebase In-App Messaging, Paging, Navigation, Google Play Billing, Muzei, LiveData, ViewModel
+    - Tech Stack = Koin, Coroutines, Testing, Retrofit, Room, Firestore, Firebase In-App Messaging, Paging, Navigation, Google Play Billing, Muzei, LiveData, ViewModel  
 
 - https://github.com/utsmannn/hiya-hiya-hiya
 
@@ -82,8 +82,13 @@
   - TVFlix connects with TVDB API to give you popular shows and let you mark anyone as favorite.
 
   - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel
-  
 
+- https://github.com/fevziomurtekin/DeezerClone
+
+    - Deezer Clone application. Fetching data from the network and integrating local data in the database via repository pattern.
+
+    - Tech Stack = Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel,Navigation LiveData), Retrofit, Paging, Testing
+  
 - https://github.com/vidit135g/Replify-Messenger [Kotlin + Java]
 
     - Minimal text messenger with a ton of features.
