@@ -713,6 +713,11 @@
      - Knote app is a simple yet standard note taking app with features like image addition, ocr, text to speech and more
     
      - Tech Stack = ViewModel, Live Data, Koin, Room db, Coroutines etc
+     
+ - https://github.com/Devansh-Maurya/PukaPuka
+     - An Android app to identify books from their covers and give info, built using ML Kit's Text Recognition API, Android Jetpack Libraries and Google Books API
+     
+     - Tech Stack = MVVM, Kotlin, LiveData, ViewModel, Navigation Components, CameraKit, Firebase ML Kit Text Recognition API, Glide, Volley, Lottie
       
       
 #### Clean Architecture
