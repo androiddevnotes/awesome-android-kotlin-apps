@@ -719,6 +719,9 @@
      
      - Tech Stack = MVVM, Kotlin, LiveData, ViewModel, Navigation Components, CameraKit, Firebase ML Kit Text Recognition API, Glide, Volley, Lottie
       
+- https://github.com/ryanrvldo/MovieCatalogue
+  - Movie catalogue is android application that using some architecture components stuff and fetch API from TMDB. This application can show some movie and tv show that available in TMDB API. Also user can search some related stuff here.
+  - Tech Stack = MVVM, ViewModel, LiveData, Coroutines, Firebase Cloud Messaging, Retrofit, Room, Glide, Dagger Hilt, and Google Material.
       
 #### Clean Architecture
 
