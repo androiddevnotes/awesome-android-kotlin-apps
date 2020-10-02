@@ -719,6 +719,11 @@
      
      - Tech Stack = MVVM, Kotlin, LiveData, ViewModel, Navigation Components, CameraKit, Firebase ML Kit Text Recognition API, Glide, Volley, Lottie
       
+ - https://github.com/fionicholas/Football-App
+     - Football App is an application to show Football Match, List Football Team, and Standing in Leagues from TheSportsDB API
+     
+     - Tech Stack = MVVM, Kotlin, LiveData, ViewModel, Retrofit, Room, Koin, RxJava, etc
+      
       
 #### Clean Architecture
 
