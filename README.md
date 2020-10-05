@@ -842,7 +842,14 @@
     - Android MVI clean architecture sample that shows a list of recipes, their ingredients and hands-on videos for making them.
 
     - Tech Stack = Dagger hilt, Kotlin Coroutines & StateFlow, Unit Testing, Retrofit, DFM Navigation, FlowBinding, Exoplayer
+    
 
+- https://github.com/Ezike/MVI_UIComponents
+
+    - Android project showcasing the use of View components for rendering UI. 
+
+    - Tech Stack = Jetpack, Dagger hilt, Kotlin Coroutines & StateFlow, Room, Retrofit, FlowBinding 
+    
 
 ### MVP
 
