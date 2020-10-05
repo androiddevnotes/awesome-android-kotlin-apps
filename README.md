@@ -835,7 +835,13 @@
     - Android example with Clean Architecture by layer.
 
     - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firestore, Firebase Auth, Navigation, Markdown Processor, LiveData, ViewModel
+    
 
+- https://github.com/Ezike/Baking-App-Kotlin
+
+    - Android MVI clean architecture sample that shows a list of recipes, their ingredients and hands-on videos for making them.
+
+    - Tech Stack = Dagger hilt, Kotlin Coroutines & StateFlow, Unit Testing, Retrofit, DFM Navigation, FlowBinding, Exoplayer
 
 
 ### MVP
