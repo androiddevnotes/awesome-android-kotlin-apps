@@ -819,7 +819,7 @@
 
     - A non-official Android client for IsThereAnyDeal.com, it uses its API to retrieve/search for deals and compare prices.
     
-    - Tech Stack = Kotlin, Coroutines, ViewModel
+    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, acra, fastAdapter, Paging, JSoup, dropbox/Store, LiveData, ViewModel
 
 
 - https://github.com/mitchtabian/Open-API-Android-App
