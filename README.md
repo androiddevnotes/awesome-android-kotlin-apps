@@ -815,6 +815,13 @@
     - Tech Stack = Koin, Coroutines, RxJava, Retrofit, Room, Firestore, Firebase Auth, Firebase Storage, WorkManager, Navigation, Paging, LiveData, ViewModel
 
 
+- https://github.com/R4md4c/GameDealz
+
+    - A non-official Android client for IsThereAnyDeal.com, it uses its API to retrieve/search for deals and compare prices.
+    
+    - Tech Stack = Kotlin, Coroutines, ViewModel
+
+
 - https://github.com/mitchtabian/Open-API-Android-App
 
     - Application that interacts with the website open-api.xyz.
