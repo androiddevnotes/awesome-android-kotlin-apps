@@ -729,6 +729,15 @@
 - https://github.com/ryanrvldo/MovieCatalogue
   - Movie catalogue is android application that using some architecture components stuff and fetch API from TMDB. This application can show some movie and tv show that available in TMDB API. Also user can search some related stuff here.
   - Tech Stack = MVVM, ViewModel, LiveData, Coroutines, Firebase Cloud Messaging, Retrofit, Room, Glide, Dagger Hilt, and Google Material.
+  
+  
+- https://github.com/mutualmobile/Praxis
+
+    - sample app written in Kotlin which fetches random jokes and displays it.
+
+
+    - Tech Stack = MVVM architecture, Dagger, Retrofit,Kotlin Coroutines, RXJava2, View Models, Data Binding
+
 
       
 #### Clean Architecture
@@ -888,7 +897,8 @@
 
 
     - Tech Stack = Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric
-
+    
+   
 
 ## :books: Tech Stack/Libraries
 
