@@ -736,7 +736,7 @@
     - Sample app written in Kotlin which fetches random jokes and displays it.
 
 
-    - Tech Stack = MVVM architecture, Dagger, Retrofit, Kotlin Coroutines, RXJava2, View Models, Data Binding
+    - Tech Stack = MVVM architecture, Dagger, Retrofit, Kotlin Coroutines, RXJava2, ViewModel, Data Binding
 
 
       
