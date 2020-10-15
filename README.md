@@ -739,7 +739,12 @@
     - Tech Stack = MVVM architecture, Dagger, Retrofit, Kotlin Coroutines, RXJava2, ViewModel, Data Binding
 
 
-      
+- https://github.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners
+
+    - Sample app that implements MVVM architecture using Kotlin.
+
+    - Tech Stack = MVVM architecture, Dagger, Kotlin Coroutines, RXJava2, ViewModel, Data Binding, Live Data.
+
 #### Clean Architecture
 
 - https://github.com/happysingh23828/Android-Clean-Architecture
