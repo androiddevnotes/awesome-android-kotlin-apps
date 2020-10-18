@@ -745,6 +745,14 @@
 
     - Tech Stack = MVVM architecture, Dagger, Kotlin Coroutines, RXJava2, ViewModel, Data Binding, Live Data.
 
+
+- https://github.com/veerbhadrasolanki/FoodKart
+
+    - A Demo food ordering app written in kotlin which fetches list of Restaurants, Dishes, order of history and let you mark anyone as favorite.
+
+    - Tech Stack = ViewModel, Room, Navigation, LiveData, Kotlin.
+
+
 #### Clean Architecture
 
 - https://github.com/happysingh23828/Android-Clean-Architecture
