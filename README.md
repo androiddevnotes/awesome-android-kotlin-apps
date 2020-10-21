@@ -747,6 +747,12 @@
 
 #### Clean Architecture
 
+- https://github.com/mrsegev/MovieNight
+
+    - MovieNight is a sample Movie list Android application that uses the clean architecture approach and is written in Kotlin.
+	
+    - Tech Stack = RxJava2, RxAndroid, Retrofit2, AndroidTagView, Picasso, Leakcanary, Android architecture components, Room Persistence Library
+
 - https://github.com/happysingh23828/Android-Clean-Architecture
 
     - This is a sample movie list  Android application 📱 built to demonstrate use of [**Clean Architecture**](https://github.com/happysingh23828/Android-Clean-Architecture#what-is-clean-architecture) tools with [**80% code coverage**](https://github.com/happysingh23828/Android-Clean-Architecture#--code-coverage-reports). Dedicated to all Android Developers with ❤️. 
