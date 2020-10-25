@@ -745,6 +745,13 @@
 
     - Tech Stack = MVVM architecture, Dagger, Kotlin Coroutines, RXJava2, ViewModel, Data Binding, Live Data.
 
+- https://github.com/mrcsxsiq/Kotlin-Pokedex
+
+    - Sample app that implements MVVM architecture using Kotlin.
+
+    - Tech Stack = MVVM,  Kotlin, LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint
+
+
 #### Clean Architecture
 
 - https://github.com/happysingh23828/Android-Clean-Architecture
