@@ -65,6 +65,12 @@
 
 #### Normal
 
+- https://github.com/PatilShreyas/NotyKT
+
+    - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation.
+
+    - Tech Stack = Backend - Ktor, PostgreSQL; Android = Coroutines, Flow, Navigation Architecture, MVVM, LiveData, ViewModel, Room DB, DataStore, Jetpack Security, WorkManager, Dagger Hilt DI, Jetpack Compose, Material UI, Retrofit, Moshi
+
 - https://github.com/Sharkaboi/DrawingsApp
 
     - An app to add and manage floor plan drawings with markers.
