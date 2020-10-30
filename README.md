@@ -65,6 +65,12 @@
 
 #### Normal
 
+- https://github.com/Sharkaboi/DrawingsApp
+
+    - An app to add and manage floor plan drawings with markers.
+
+    - Tech Stack = Dagger Hilt, Coroutines, Room, Dhaval2404/ImagePicker, Subsampling Scale Image View, Navigation, LiveData, ViewModel 
+
 - https://github.com/b-lam/Resplash
 
     - Unofficial Unsplash Android App
