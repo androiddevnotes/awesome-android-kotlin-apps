@@ -1,0 +1,19 @@
+[
+  {
+    "pattern": "Jetpack Compose Apps",
+    "projects": [
+      {
+        "github_url": "https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps"
+      }
+    ]
+  },
+  {
+    "pattern": "MVVM - Normal",
+    "projects": [
+      {
+        "github_url": "https://github.com/PatilShreyas/NotyKT",
+        "stack": "Tech Stack = Backend - Ktor, PostgreSQL; Android = Coroutines, Flow, Navigation Architecture, MVVM, LiveData, ViewModel, Room DB, DataStore, Jetpack Security, WorkManager, Dagger Hilt DI, Jetpack Compose, Material UI, Retrofit, Moshi"
+      }
+    ]
+  }
+]
