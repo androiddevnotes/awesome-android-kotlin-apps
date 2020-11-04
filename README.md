@@ -53,6 +53,11 @@
 
 ## :art: Pattern
 
+| Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                | Stack 📚                                                         |
+|--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----------------------------------------------------------------|
+| [NotyKT](https://github.com/PatilShreyas/NotyKT) | [PatilShreyas](https://github.com/PatilShreyas) | NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation. | 🌟 188 </br> 🍴 14 </br> 👁️ 9  | <ul><li>Ktor</li><li>Flow</li></ul><ul><li>Coroutines</li></ul> |
+
+
 ### Jetpack Compose Apps
 
 - https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps
