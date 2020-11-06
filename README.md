@@ -68,7 +68,9 @@
 
 ### MVVM
 
+#### Normal
 
+$MVVM_NORMAL_REPOS
 
 #### Clean Architecture
 
