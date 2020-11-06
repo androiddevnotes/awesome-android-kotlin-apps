@@ -1,5 +1,6 @@
 package com.github.aaka
 
+import com.github.aaka.core.ReadMeGenerator
 import com.github.aaka.data.repo.GitHubRepo
 import com.github.aaka.data.repo.InputDataRepo
 import com.github.aaka.di.DaggerAppComponent
@@ -8,7 +9,6 @@ import com.github.aaka.data.local.Project
 import com.github.aaka.data.repo.ReadMeRepo
 import kotlinx.coroutines.runBlocking
 import retrofit2.HttpException
-import java.lang.StringBuilder
 import javax.inject.Inject
 
 fun main(args: Array<String>) = runBlocking {
@@ -48,53 +48,12 @@ class App {
         }
 
         // Now let's go build the README.md
-        val updatedReadMe = generateReadMe(inputProjectCategories, projectMap)
+        val readMeModel = readMeRepo.getReadMeModel()
+        val updatedReadMe = ReadMeGenerator.generateReadMe(readMeModel, inputProjectCategories, projectMap)
         readMeRepo.saveReadMe(updatedReadMe)
         println("Done!")
-
     }
 
-    private fun generateReadMe(
-        inputProjectCategories: List<InputProjectCategory>,
-        projectMap: Map<String, Project>
-    ): String {
-
-        var readMeModel = readMeRepo.getReadMeModel()
-
-        for (category in inputProjectCategories) {
-            val tableBuilder = StringBuilder(
-                """
-                | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
-                |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-            """.trimIndent()
-            )
-            for (inputProject in category.inputProjects) {
-
-                val project =
-                    projectMap[inputProject.githubUrl] ?: error("Couldn't find ${inputProject.githubUrl} in projectMap")
-
-                var description = ""
-                if (project.description != null) {
-                    description = project.description
-                }
-
-                if (project.stack != null) {
-                    description += "</br> <b>Tech Stack</b> : ${project.stack} "
-                }
-
-                tableBuilder.append(
-                    """
-                    
-                    | [${project.repo}](${project.repoUrl}) | [${project.owner}](${project.ownerUrl}) | $description | 🌟 ${project.reputation.stars} </br> 🍴 ${project.reputation.fork} </br> 👁️ ${project.reputation.watchers}  |
-                """.trimIndent()
-                )
-            }
-
-            readMeModel = readMeModel.replace(category.key, tableBuilder.toString())
-        }
-
-        return readMeModel
-    }
 
     /**
      * To convert all projects into one single map with all details collected from GitHub API
