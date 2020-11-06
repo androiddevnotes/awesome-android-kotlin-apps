@@ -1,6 +1,7 @@
 [
   {
     "pattern": "Jetpack Compose Apps",
+    "key": "$JETPACK_COMPOSE_REPOS",
     "projects": [
       {
         "github_url": "https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps"
@@ -9,6 +10,7 @@
   },
   {
     "pattern": "MVVM - Normal",
+    "key": "$MVVM_NORMAL_REPOS",
     "projects": [
       {
         "github_url": "https://github.com/PatilShreyas/NotyKT",
@@ -402,6 +404,7 @@
   },
   {
     "pattern": "MVVM - Clean Architecture",
+    "key": "$MVVM_CLEAN_ARCH_REPOS",
     "projects": [
       {
         "github_url": "https://github.com/happysingh23828/Android-Clean-Architecture",
@@ -447,6 +450,7 @@
   },
   {
     "pattern": "MVI - Normal",
+    "key": "$MVI_NORMAL_REPOS",
     "projects": [
       {
         "github_url": "https://github.com/HadySalhab/NewsFeed-MVI-Dagger",
@@ -468,6 +472,7 @@
   },
   {
     "pattern": "MVI - Clean Architecture",
+    "key": "$MVI_CLEAN_ARCH_REPOS",
     "projects": [
       {
         "github_url": "https://github.com/lopspower/CleanRxArchitecture",
@@ -489,6 +494,7 @@
   },
   {
     "pattern": "MVP",
+    "key": "$MVP_REPOS",
     "projects": [
       {
         "github_url": "https://github.com/inorichi/tachiyomi",
@@ -502,6 +508,7 @@
   },
   {
     "pattern": "Other",
+    "key": "$OTHER_REPOS",
     "projects": [
       {
         "github_url": "https://github.com/shadowsocks/shadowsocks-android",
