@@ -37,7 +37,7 @@
         "stack": "Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel,Navigation LiveData), Retrofit, Paging, Testing"
       },
       {
-        "github_url": "https://github.com/vidit135g/Replify-Messenger [Kotlin + Java]",
+        "github_url": "https://github.com/vidit135g/Replify-Messenger",
         "stack": "Dagger, Coroutines, RxJava, Testing, Realm, ExoPlayer, Conductor, Mixpanel Android, libphonenumber-android, Call Control DataShare, LiveData, ViewModel"
       },
       {
@@ -69,7 +69,7 @@
         "stack": "Coroutines, Retrofit, Room, Algolia, LocGetter, EasyValidation, Dexter, Splashy, secure-preferences, Paging, Data Binding, Navigation, LiveData, ViewModel"
       },
       {
-        "github_url": "https://github.com/lulululbj/wanandroid/",
+        "github_url": "https://github.com/lulululbj/wanandroid",
         "stack": "Koin, Coroutines, Testing, Retrofit, Navigation, FlowLayout, LiveData, ViewModel"
       },
       {

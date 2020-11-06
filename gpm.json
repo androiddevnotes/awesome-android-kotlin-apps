@@ -1,0 +1,74 @@
+{
+ "added": [
+  {
+   "id": 1,
+   "type": "implementation",
+   "installed_name": "moshi",
+   "gpm_dep": {
+    "artifact_id": "moshi",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.moshi/moshi",
+    "get_from": "Central",
+    "group_id": "com.squareup.moshi",
+    "name": "Moshi",
+    "description": "A modern JSON API for Android and Java"
+   }
+  },
+  {
+   "id": 2,
+   "type": "kapt",
+   "installed_name": "moshi-codegen",
+   "gpm_dep": {
+    "artifact_id": "moshi-kotlin-codegen",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.moshi/moshi-kotlin-codegen",
+    "get_from": "Central",
+    "group_id": "com.squareup.moshi",
+    "name": "Moshi Kotlin Codegen",
+    "description": "A modern JSON API for Android and Java"
+   }
+  },
+  {
+   "id": 3,
+   "type": "implementation",
+   "installed_name": "egit-github",
+   "gpm_dep": {
+    "artifact_id": "org.eclipse.egit.github.core",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/org.eclipse.mylyn.github/org.eclipse.egit.github.core",
+    "get_from": "Central",
+    "group_id": "org.eclipse.mylyn.github",
+    "name": "Eclipse EGit GitHub API Core",
+    "description": "Eclipse EGit GitHub API Core"
+   }
+  },
+  {
+   "id": 4,
+   "type": "implementation",
+   "installed_name": "okhttp",
+   "gpm_dep": {
+    "artifact_id": "okhttp",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp",
+    "get_from": "Central",
+    "group_id": "com.squareup.okhttp3",
+    "name": "OkHttp",
+    "description": "Square’s meticulous HTTP client for Java and Kotlin."
+   }
+  },
+  {
+   "id": 5,
+   "type": "implementation",
+   "installed_name": "json",
+   "gpm_dep": {
+    "artifact_id": "json",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/org.json/json",
+    "get_from": "Central",
+    "group_id": "org.json",
+    "name": "JSON In Java",
+    "description": "JSON is a light-weight, language independent, data interchange format.See http://www.JSON.org/The files in this package implement JSON encoders/decoders in Java.It also includes the capability to convert between JSON and XML, HTTPheaders, Cookies, and CDL.This is a reference implementation. There is a large number of JSON packagesin Java. Perhaps someday the Java community will standardize on one. Untilthen, choose carefully.The license includes this restriction: \"The software ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,1561 @@
+{
+  "https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps": {
+    "repo": "awesome-jetpack-compose-android-apps",
+    "repo_url": "https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps",
+    "description": "[Hacktoberfest] 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
+    "owner": "androiddevnotes",
+    "owner_url": "https://github.com/androiddevnotes",
+    "reputation": {
+      "fork": 9,
+      "stars": 83,
+      "watchers": 83
+    }
+  },
+  "https://github.com/PatilShreyas/NotyKT": {
+    "repo": "NotyKT",
+    "repo_url": "https://github.com/PatilShreyas/NotyKT",
+    "description": "📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.",
+    "owner": "PatilShreyas",
+    "owner_url": "https://github.com/PatilShreyas",
+    "reputation": {
+      "fork": 14,
+      "stars": 196,
+      "watchers": 196
+    },
+    "stack": "Backend - Ktor, PostgreSQL; Android"
+  },
+  "https://github.com/Sharkaboi/DrawingsApp": {
+    "repo": "DrawingsApp",
+    "repo_url": "https://github.com/Sharkaboi/DrawingsApp",
+    "description": "An app to add and manage floor plan drawings with markers.",
+    "owner": "Sharkaboi",
+    "owner_url": "https://github.com/Sharkaboi",
+    "reputation": {
+      "fork": 2,
+      "stars": 9,
+      "watchers": 9
+    },
+    "stack": "Dagger Hilt, Coroutines, Room, Dhaval2404/ImagePicker, Subsampling Scale Image View, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/b-lam/Resplash": {
+    "repo": "Resplash",
+    "repo_url": "https://github.com/b-lam/Resplash",
+    "description": "Unofficial Unsplash Android App",
+    "owner": "b-lam",
+    "owner_url": "https://github.com/b-lam",
+    "reputation": {
+      "fork": 71,
+      "stars": 366,
+      "watchers": 366
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room, Firestore, Firebase In-App Messaging, Paging, Navigation, Google Play Billing, Muzei, LiveData, ViewModel"
+  },
+  "https://github.com/utsmannn/hiya-hiya-hiya": {
+    "repo": "hiya-hiya-hiya",
+    "repo_url": "https://github.com/utsmannn/hiya-hiya-hiya",
+    "description": "Whatsapp Clone base on Firebase Cloud Messaging",
+    "owner": "utsmannn",
+    "owner_url": "https://github.com/utsmannn",
+    "reputation": {
+      "fork": 22,
+      "stars": 117,
+      "watchers": 117
+    },
+    "stack": "Koin, Coroutines, Retrofit, Room, Firebase Messaging, Firebase Auth, WorkManager, Google Maps, Paging,  JSoup, vanniktech/Emoji, afollestad/inline-activity-result, LiveData, ViewModel"
+  },
+  "https://github.com/ashwini009/TvFlix": {
+    "repo": "TvFlix",
+    "repo_url": "https://github.com/reactivedroid/TvFlix",
+    "description": "TvFlix android app using Dagger Hilt, Coroutines, Jetpack(Room, ViewModel, Paging, LiveData) based on MVVM architecture purely written in Kotlin",
+    "owner": "reactivedroid",
+    "owner_url": "https://github.com/reactivedroid",
+    "reputation": {
+      "fork": 42,
+      "stars": 233,
+      "watchers": 233
+    },
+    "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/fevziomurtekin/DeezerClone": {
+    "repo": "DeezerClone",
+    "repo_url": "https://github.com/fevziomurtekin/DeezerClone",
+    "description": "This Application using Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData),Navigation based on MVVM architecture. ",
+    "owner": "fevziomurtekin",
+    "owner_url": "https://github.com/fevziomurtekin",
+    "reputation": {
+      "fork": 2,
+      "stars": 26,
+      "watchers": 26
+    },
+    "stack": "Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel,Navigation LiveData), Retrofit, Paging, Testing"
+  },
+  "https://github.com/vidit135g/Replify-Messenger": {
+    "repo": "Replify-Messenger",
+    "repo_url": "https://github.com/vidit135g/Replify-Messenger",
+    "description": "Minimal text messenger with a ton of features.",
+    "owner": "vidit135g",
+    "owner_url": "https://github.com/vidit135g",
+    "reputation": {
+      "fork": 4,
+      "stars": 19,
+      "watchers": 19
+    },
+    "stack": "Dagger, Coroutines, RxJava, Testing, Realm, ExoPlayer, Conductor, Mixpanel Android, libphonenumber-android, Call Control DataShare, LiveData, ViewModel"
+  },
+  "https://github.com/jnkforks/PokemonGo": {
+    "repo": "PokemonGo",
+    "repo_url": "https://github.com/jnkforks/PokemonGo",
+    "description": "Jetpack 实战项目 PokemonGo（神奇宝贝）基于 MVVM 架构和 Repository 设计模式，如果这个仓库对你有帮助，请仓库右上角帮我 star 一下，非常感谢。",
+    "owner": "jnkforks",
+    "owner_url": "https://github.com/jnkforks",
+    "reputation": {
+      "fork": 0,
+      "stars": 0,
+      "watchers": 0
+    },
+    "stack": "Dagger Hilt, Koin, Coroutines, RxJava, Testing, Retrofit, Room, WorkManager, Paging, LiveData, ViewModel"
+  },
+  "https://github.com/andyb129/AppDevToolbox": {
+    "repo": "AppDevToolbox",
+    "repo_url": "https://github.com/andyb129/AppDevToolbox",
+    "description": "Collection of tools for Android app development in one place 🔧 🔨",
+    "owner": "andyb129",
+    "owner_url": "https://github.com/andyb129",
+    "reputation": {
+      "fork": 3,
+      "stars": 17,
+      "watchers": 17
+    },
+    "stack": "Dagger, Coroutines, RxJava, Room, Venom, LiveData, ViewModel"
+  },
+  "https://github.com/nahzur-h/awaker": {
+    "repo": "awaker",
+    "repo_url": "https://github.com/nahzur-h/awaker",
+    "description": "article app for android",
+    "owner": "nahzur-h",
+    "owner_url": "https://github.com/nahzur-h",
+    "reputation": {
+      "fork": 86,
+      "stars": 520,
+      "watchers": 520
+    },
+    "stack": "RxJava, Testing, Retrofit, Room, ExoPlayer, LiveData, ViewModel"
+  },
+  "https://github.com/theapache64/topcorn": {
+    "repo": "topcorn",
+    "repo_url": "https://github.com/theapache64/topcorn",
+    "description": "A minimalistic movie listing app to browse IMDB's top 250 movies, built to demonstrate MVVM with latest hot-trending Android development tools.",
+    "owner": "theapache64",
+    "owner_url": "https://github.com/theapache64",
+    "reputation": {
+      "fork": 12,
+      "stars": 101,
+      "watchers": 101
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel"
+  },
+  "https://github.com/vmiklos/plees-tracker": {
+    "repo": "plees-tracker",
+    "repo_url": "https://github.com/vmiklos/plees-tracker",
+    "description": "Plees Tracker is a simple sleep tracker for your Android phone.",
+    "owner": "vmiklos",
+    "owner_url": "https://github.com/vmiklos",
+    "reputation": {
+      "fork": 13,
+      "stars": 28,
+      "watchers": 28
+    },
+    "stack": "Room, LiveData, ViewModel"
+  },
+  "https://github.com/Chesire/Nekome": {
+    "repo": "Nekome",
+    "repo_url": "https://github.com/Chesire/Nekome",
+    "description": "Android application to manage tracked Anime and Manga lists. This is a complete rewrite from the initial application Malime",
+    "owner": "Chesire",
+    "owner_url": "https://github.com/Chesire",
+    "reputation": {
+      "fork": 8,
+      "stars": 28,
+      "watchers": 28
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/ardakazanci/Heyyoo": {
+    "repo": "Heyyoo",
+    "repo_url": "https://github.com/ardakazanci/Heyyoo",
+    "description": "Heyyoo is a sample social media  Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Architecture Components, MVVM, Room, Retrofit, Material Components).",
+    "owner": "ardakazanci",
+    "owner_url": "https://github.com/ardakazanci",
+    "reputation": {
+      "fork": 3,
+      "stars": 35,
+      "watchers": 35
+    },
+    "stack": "Coroutines, Retrofit, Room, Algolia, LocGetter, EasyValidation, Dexter, Splashy, secure-preferences, Paging, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/lulululbj/wanandroid": {
+    "repo": "wanandroid",
+    "repo_url": "https://github.com/lulululbj/wanandroid",
+    "description": "Jetpack MVVM For Wanandroid 最佳实践 ！",
+    "owner": "lulululbj",
+    "owner_url": "https://github.com/lulululbj",
+    "reputation": {
+      "fork": 174,
+      "stars": 910,
+      "watchers": 910
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Navigation, FlowLayout, LiveData, ViewModel"
+  },
+  "https://github.com/SIKV/Photos": {
+    "repo": "Photos",
+    "repo_url": "https://github.com/SIKV/Photos",
+    "description": "",
+    "owner": "SIKV",
+    "owner_url": "https://github.com/SIKV",
+    "reputation": {
+      "fork": 3,
+      "stars": 19,
+      "watchers": 19
+    },
+    "stack": "Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase-ML, Firebase-Analytics, Paging, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/ValterKasper/space-app": {
+    "repo": "space-app",
+    "repo_url": "https://github.com/ValterKasper/space-app",
+    "description": "An Android app which shows timeline of upcoming rocket launches and showcases architecture of real application.",
+    "owner": "ValterKasper",
+    "owner_url": "https://github.com/ValterKasper",
+    "reputation": {
+      "fork": 10,
+      "stars": 90,
+      "watchers": 90
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/nominalista/expenses": {
+    "repo": "expenses",
+    "repo_url": "https://github.com/nominalista/expenses",
+    "description": "App written in Kotlin for budget tracking.",
+    "owner": "nominalista",
+    "owner_url": "https://github.com/nominalista",
+    "reputation": {
+      "fork": 52,
+      "stars": 260,
+      "watchers": 260
+    },
+    "stack": "Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase Auth, Firebase Messaging, WorkManager, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/lmj0011/jetpack-release-tracker": {
+    "repo": "jetpack-release-tracker",
+    "repo_url": "https://github.com/lmj0011/jetpack-release-tracker",
+    "description": "Stay up to date on the latest AndroidX library releases.",
+    "owner": "lmj0011",
+    "owner_url": "https://github.com/lmj0011",
+    "reputation": {
+      "fork": 10,
+      "stars": 70,
+      "watchers": 70
+    },
+    "stack": "Coroutines, Testing, Fuel, Room,  WorkManager, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/willowtreeapps/vocable-android": {
+    "repo": "vocable-android",
+    "repo_url": "https://github.com/willowtreeapps/vocable-android",
+    "description": "Vocable for Android",
+    "owner": "willowtreeapps",
+    "owner_url": "https://github.com/willowtreeapps",
+    "reputation": {
+      "fork": 5,
+      "stars": 78,
+      "watchers": 78
+    },
+    "stack": "Koin, Coroutines, Testing, Room, Data Binding, AR, LiveData, ViewModel"
+  },
+  "https://github.com/Shashank02051997/GitExplorer-Android": {
+    "repo": "GitExplorer-Android",
+    "repo_url": "https://github.com/Shashank02051997/GitExplorer-Android",
+    "description": "Find the right git commands 🔥 without digging through the web.😊😊😉",
+    "owner": "Shashank02051997",
+    "owner_url": "https://github.com/Shashank02051997",
+    "reputation": {
+      "fork": 12,
+      "stars": 68,
+      "watchers": 68
+    },
+    "stack": "Kotlin, LiveData, ViewModel"
+  },
+  "https://github.com/VIPyinzhiwei/Eyepetizer": {
+    "repo": "Eyepetizer",
+    "repo_url": "https://github.com/VIPyinzhiwei/Eyepetizer",
+    "description": "🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。",
+    "owner": "VIPyinzhiwei",
+    "owner_url": "https://github.com/VIPyinzhiwei",
+    "reputation": {
+      "fork": 196,
+      "stars": 770,
+      "watchers": 770
+    },
+    "stack": "Coroutines, Testing, Retrofit, WorkManager, GSYVideoPlayer, Data Binding, PermissionX, EventBus, LiveData, ViewModel"
+  },
+  "https://github.com/PatilShreyas/Foodium": {
+    "repo": "Foodium",
+    "repo_url": "https://github.com/PatilShreyas/Foodium",
+    "description": " 🍲Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).",
+    "owner": "PatilShreyas",
+    "owner_url": "https://github.com/PatilShreyas",
+    "reputation": {
+      "fork": 230,
+      "stars": 1528,
+      "watchers": 1528
+    },
+    "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel"
+  },
+  "https://github.com/michaldrabik/Showly-2.0": {
+    "repo": "showly-2.0",
+    "repo_url": "https://github.com/michaldrabik/showly-2.0",
+    "description": "Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.",
+    "owner": "michaldrabik",
+    "owner_url": "https://github.com/michaldrabik",
+    "reputation": {
+      "fork": 9,
+      "stars": 57,
+      "watchers": 57
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel"
+  },
+  "https://github.com/bernaferrari/ChangeDetection": {
+    "repo": "ChangeDetection",
+    "repo_url": "https://github.com/bernaferrari/ChangeDetection",
+    "description": "Automatically track websites changes on Android in background.",
+    "owner": "bernaferrari",
+    "owner_url": "https://github.com/bernaferrari",
+    "reputation": {
+      "fork": 64,
+      "stars": 531,
+      "watchers": 531
+    },
+    "stack": "Dagger, Coroutines, RxJava, Retrofit, Room, Firestore, WorkManager, Paging, Data Binding, Navigation, JSoup, js-evaluator-for-android, LiveData, ViewModel"
+  },
+  "https://github.com/YahiaAngelo/Noted-Android": {
+    "repo": "Noted-Android",
+    "repo_url": "https://github.com/YahiaAngelo/Noted-Android",
+    "description": "Noted app for android ",
+    "owner": "YahiaAngelo",
+    "owner_url": "https://github.com/YahiaAngelo",
+    "reputation": {
+      "fork": 6,
+      "stars": 36,
+      "watchers": 36
+    },
+    "stack": "Koin dependency injection, Coroutines, Realm db, Material Components, Markdown, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/igorescodro/alkaa": {
+    "repo": "alkaa",
+    "repo_url": "https://github.com/igorescodro/alkaa",
+    "description": "Open-source app to manage your tasks quickly and easily",
+    "owner": "igorescodro",
+    "owner_url": "https://github.com/igorescodro",
+    "reputation": {
+      "fork": 20,
+      "stars": 184,
+      "watchers": 184
+    },
+    "stack": "Koin, Espresso, UiAutomator, Mockk, Coroutines, Navigation, Room, MotionLayout, KTX, Modularization, Dynamic Delivery, Dark Theme, klint, Detekt, codebeat, CodeFactor, Codacy, MPAndroidChart, Groupie, LiveData, ViewModel"
+  },
+  "https://github.com/HariKulhari06/Covid-19-Tracker": {
+    "repo": "Covid-19-Tracker",
+    "repo_url": "https://github.com/HariKulhari06/Covid-19-Tracker",
+    "description": "A Sample to track COVID-19  cases in India and globally. ",
+    "owner": "HariKulhari06",
+    "owner_url": "https://github.com/HariKulhari06",
+    "reputation": {
+      "fork": 15,
+      "stars": 49,
+      "watchers": 49
+    },
+    "stack": "Dagger Hilt, Coroutines, Retrofit, Room, Firestore, WorkManager, Navigation, MPAndroidChart, LiveData, ViewModel"
+  },
+  "https://github.com/zedlabs/WallPortal": {
+    "repo": "WallPortal",
+    "repo_url": "https://github.com/zedlabs/WallPortal",
+    "description": "Minimal Wallpapers for Android using Kotlin+MVVM+Hilt+Coroutines+Jetpack(Room, Paging, Navigation)",
+    "owner": "zedlabs",
+    "owner_url": "https://github.com/zedlabs",
+    "reputation": {
+      "fork": 19,
+      "stars": 66,
+      "watchers": 66
+    },
+    "stack": "Dagger Hilt, Coroutines, Retrofit, Room, Paging, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/ricknout/rugby-ranker": {
+    "repo": "rugby-ranker",
+    "repo_url": "https://github.com/ricknout/rugby-ranker",
+    "description": "An Android app for viewing and predicting the latest World Rugby rankings 🏉",
+    "owner": "ricknout",
+    "owner_url": "https://github.com/ricknout",
+    "reputation": {
+      "fork": 33,
+      "stars": 183,
+      "watchers": 183
+    },
+    "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, insetter, LiveData, ViewModel"
+  },
+  "https://github.com/GeorgCantor/WallpaperApp": {
+    "repo": "WallpaperApp",
+    "repo_url": "https://github.com/GeorgCantor/WallpaperApp",
+    "description": "App for viewing and downloading wallpapers",
+    "owner": "GeorgCantor",
+    "owner_url": "https://github.com/GeorgCantor",
+    "reputation": {
+      "fork": 2,
+      "stars": 17,
+      "watchers": 17
+    },
+    "stack": "Koin, Coroutines, Retrofit, Room, Lottie, Zoomy, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/DheerajKotwani/GithubVisualizer": {
+    "repo": "GithubVisualizer",
+    "repo_url": "https://github.com/dheerajkotwani/GithubVisualizer",
+    "description": "📲  Android Application to track any user activity on Github built using the Github Developers Api. Used Retrofit to fetch data and MVVM Architecture.",
+    "owner": "dheerajkotwani",
+    "owner_url": "https://github.com/dheerajkotwani",
+    "reputation": {
+      "fork": 5,
+      "stars": 31,
+      "watchers": 31
+    },
+    "stack": "Retrofit, Firebase Auth, Coroutines, LiveData, ViewModel"
+  },
+  "https://github.com/PHELAT/Tedu": {
+    "repo": "Tedu",
+    "repo_url": "https://github.com/PHELAT/Tedu",
+    "description": "Todo app but minimal, open-source, and free.",
+    "owner": "PHELAT",
+    "owner_url": "https://github.com/PHELAT",
+    "reputation": {
+      "fork": 9,
+      "stars": 52,
+      "watchers": 52
+    },
+    "stack": "Dagger, Room, Coroutines, Firebase Messaging, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/abhinav0612/PasswordVault": {
+    "repo": "PasswordVault",
+    "repo_url": "https://github.com/abhinav0612/PasswordVault",
+    "description": "An application where you can store all your password, bank details, card details in one place and access everything with only one master PIN. The application works totally offline.",
+    "owner": "abhinav0612",
+    "owner_url": "https://github.com/abhinav0612",
+    "reputation": {
+      "fork": 4,
+      "stars": 16,
+      "watchers": 16
+    },
+    "stack": "Dagger Hilt, Room, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/TheCodeMonks/NYTimes-App": {
+    "repo": "NYTimes-App",
+    "repo_url": "https://github.com/TheCodeMonks/NYTimes-App",
+    "description": "🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥",
+    "owner": "TheCodeMonks",
+    "owner_url": "https://github.com/TheCodeMonks",
+    "reputation": {
+      "fork": 20,
+      "stars": 130,
+      "watchers": 130
+    },
+    "stack": "Coroutines, Room, JSoup, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/satyamurti/LetsChat": {
+    "repo": "LetsChat",
+    "repo_url": "https://github.com/satyamurti/LetsChat",
+    "description": "🇮🇳 Open source Indian Chat application with new cool concepts.",
+    "owner": "satyamurti",
+    "owner_url": "https://github.com/satyamurti",
+    "reputation": {
+      "fork": 11,
+      "stars": 48,
+      "watchers": 48
+    },
+    "stack": "Coroutines, Retrofit, Firestore, Firebase Auth, Firebase Messaging, Firebase Storage, Cloud Functions, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/mayokunthefirst/Instant-Weather": {
+    "repo": "Instant-Weather",
+    "repo_url": "https://github.com/mayokunthefirst/Instant-Weather",
+    "description": "An Android weather application implemented using the MVVM pattern, Retrofit2, LiveData, ViewModel, Coroutines, Room, Navigation Components, Data Binding and some other libraries from the Android Jetpack.",
+    "owner": "mayokunthefirst",
+    "owner_url": "https://github.com/mayokunthefirst",
+    "reputation": {
+      "fork": 63,
+      "stars": 397,
+      "watchers": 397
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Paging, Data Binding, Navigation, Algolia Search, LiveData, ViewModel"
+  },
+  "https://github.com/qingmei2/MVVM-Architecture": {
+    "repo": "MVVM-Architecture",
+    "repo_url": "https://github.com/qingmei2/MVVM-Architecture",
+    "description": "The practice of MVVM + Jetpack architecture in Android.",
+    "owner": "qingmei2",
+    "owner_url": "https://github.com/qingmei2",
+    "reputation": {
+      "fork": 208,
+      "stars": 1330,
+      "watchers": 1330
+    },
+    "stack": "Dagger Hilt, Coroutines, RxJava, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/nuhkoca/libbra": {
+    "repo": "libbra",
+    "repo_url": "https://github.com/nuhkoca/libbra",
+    "description": "A currency tracker app demonstration.",
+    "owner": "nuhkoca",
+    "owner_url": "https://github.com/nuhkoca",
+    "reputation": {
+      "fork": 4,
+      "stars": 26,
+      "watchers": 26
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/adityam49/Updoot": {
+    "repo": "Updoot",
+    "repo_url": "https://github.com/adityam49/Updoot",
+    "description": "A reddit client built for android ",
+    "owner": "adityam49",
+    "owner_url": "https://github.com/adityam49",
+    "reputation": {
+      "fork": 2,
+      "stars": 10,
+      "watchers": 10
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/weylar/Movie": {
+    "repo": "Movie",
+    "repo_url": "https://github.com/weylar/Movie",
+    "description": "A simple movie app",
+    "owner": "weylar",
+    "owner_url": "https://github.com/weylar",
+    "reputation": {
+      "fork": 3,
+      "stars": 7,
+      "watchers": 7
+    },
+    "stack": "Dagger, Coroutines, Retrofit, Room, WorkManager, Paging, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/xiaoyanger0825/wanandroid": {
+    "repo": "wanandroid",
+    "repo_url": "https://github.com/jianjunxiao/wanandroid",
+    "description": "Kotlin+JetPack+协程实现的MVVM架构Wanandroid客户端",
+    "owner": "jianjunxiao",
+    "owner_url": "https://github.com/jianjunxiao",
+    "reputation": {
+      "fork": 26,
+      "stars": 161,
+      "watchers": 161
+    },
+    "stack": "Coroutines, Retrofit, Room, LiveData, ViewModel"
+  },
+  "https://github.com/gs-ts/TrackMyPath": {
+    "repo": "TrackMyPath",
+    "repo_url": "https://github.com/gs-ts/TrackMyPath",
+    "description": "An Android app written in Kotlin that demonstrates a clean architecture with MVVM, Fused Location Provider, LifecycleService, and Coroutines. It is used as lab to test new Android features.",
+    "owner": "gs-ts",
+    "owner_url": "https://github.com/gs-ts",
+    "reputation": {
+      "fork": 2,
+      "stars": 20,
+      "watchers": 20
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel"
+  },
+  "https://github.com/KumarManas04/NotesSync": {
+    "repo": "NotesSync",
+    "repo_url": "https://github.com/KumarManas04/NotesSync",
+    "description": "Notes Sync is the answer to your everyday note taking requirements. It can encrypt and sync everything to the user's own Google Drive or Dropbox accounts",
+    "owner": "KumarManas04",
+    "owner_url": "https://github.com/KumarManas04",
+    "reputation": {
+      "fork": 8,
+      "stars": 26,
+      "watchers": 26
+    },
+    "stack": "Coroutines, Testing, Room, Google Drive, Dropbox, WorkManager, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/CalvinNor/MovieMan/": {
+    "repo": "MovieMan",
+    "repo_url": "https://github.com/CalvinNor/MovieMan",
+    "description": "An open-source Android app for viewing Movies / TV information.",
+    "owner": "CalvinNor",
+    "owner_url": "https://github.com/CalvinNor",
+    "reputation": {
+      "fork": 12,
+      "stars": 59,
+      "watchers": 59
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/commonpepper/Photosen": {
+    "repo": "Photosen",
+    "repo_url": "https://github.com/commonpepper/Photosen",
+    "description": "Android app for viewing and downloading Flickr photos.",
+    "owner": "commonpepper",
+    "owner_url": "https://github.com/commonpepper",
+    "reputation": {
+      "fork": 2,
+      "stars": 3,
+      "watchers": 3
+    },
+    "stack": "Retrofit, Room, Paging, LiveData, ViewModel"
+  },
+  "https://github.com/OMIsie11/SpaceXFollower": {
+    "repo": "SpaceXFollower",
+    "repo_url": "https://github.com/OMIsie11/SpaceXFollower",
+    "description": "Android app that helps You keep up with SpaceX 🚀",
+    "owner": "OMIsie11",
+    "owner_url": "https://github.com/OMIsie11",
+    "reputation": {
+      "fork": 6,
+      "stars": 25,
+      "watchers": 25
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room, WorkManager, MPAndroidChart, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/dievskiy/feedapp": {
+    "repo": "feedapp",
+    "repo_url": "https://github.com/dievskiy/feedapp",
+    "description": "Calorie tracker for android that supports recipes and products search. ",
+    "owner": "dievskiy",
+    "owner_url": "https://github.com/dievskiy",
+    "reputation": {
+      "fork": 5,
+      "stars": 16,
+      "watchers": 16
+    },
+    "stack": "Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase Auth, Facebook Login, WorkManager, MPAndroidChart, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/phicdy/MyCuration": {
+    "repo": "MyCuration",
+    "repo_url": "https://github.com/phicdy/MyCuration",
+    "description": "RSS Reader for Android with article filtering and curation",
+    "owner": "phicdy",
+    "owner_url": "https://github.com/phicdy",
+    "reputation": {
+      "fork": 5,
+      "stars": 4,
+      "watchers": 4
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit,  Jsoup, WorkManager, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/droidconKE/droidconKE2020App": {
+    "repo": "droidconKE2020App",
+    "repo_url": "https://github.com/droidconKE/droidconKE2020App",
+    "description": "Android app fully written in Kotlin for droidconKE2020",
+    "owner": "droidconKE",
+    "owner_url": "https://github.com/droidconKE",
+    "reputation": {
+      "fork": 35,
+      "stars": 81,
+      "watchers": 81
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room,  Google Auth, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/fossasia/open-event-attendee-android": {
+    "repo": "open-event-attendee-android",
+    "repo_url": "https://github.com/fossasia/open-event-attendee-android",
+    "description": "Open Event Attendee Android General App https://github.com/fossasia/open-event-android/blob/apk/open-event-dev-app-playStore-debug.apk",
+    "owner": "fossasia",
+    "owner_url": "https://github.com/fossasia",
+    "reputation": {
+      "fork": 528,
+      "stars": 1618,
+      "watchers": 1618
+    },
+    "stack": "Koin, RxJava, Testing, Retrofit, Room, Stripe, PayPal, Mapbox, Paging, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/dangquanuet/The-Movie-DB-Kotlin": {
+    "repo": "The-Movie-DB-Kotlin",
+    "repo_url": "https://github.com/dangquanuet/The-Movie-DB-Kotlin",
+    "description": "The Movie DB app using Kotlin with updated Android features",
+    "owner": "dangquanuet",
+    "owner_url": "https://github.com/dangquanuet",
+    "reputation": {
+      "fork": 44,
+      "stars": 143,
+      "watchers": 143
+    },
+    "stack": "Koin, Coroutines, RxJava, Testing, Retrofit, Room,  Paging, Data Binding, Easy Permissions, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/CharlieChristensen/Cryptotracker": {
+    "repo": "Cryptotracker",
+    "repo_url": "https://github.com/CharlieChristensen/Cryptotracker",
+    "description": "",
+    "owner": "CharlieChristensen",
+    "owner_url": "https://github.com/CharlieChristensen",
+    "reputation": {
+      "fork": 1,
+      "stars": 1,
+      "watchers": 1
+    },
+    "stack": "Dagger, Coroutines, Testing, socketIO, Retrofit, Room, MPAndroidChart, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/haroldadmin/MoonShot": {
+    "repo": "MoonShot",
+    "repo_url": "https://github.com/haroldadmin/MoonShot",
+    "description": "A SpaceX companion app for Android",
+    "owner": "haroldadmin",
+    "owner_url": "https://github.com/haroldadmin",
+    "reputation": {
+      "fork": 17,
+      "stars": 137,
+      "watchers": 137
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/ganainy/Our_chat": {
+    "repo": "Our_chat",
+    "repo_url": "https://github.com/ganainy/Our_chat",
+    "description": "Private chat app with realtime notification and support audio messages,image sharing,file sharing using MVVM architecture,Firebase authentication firestore,storage,FCM,cloud functions and facebook login",
+    "owner": "ganainy",
+    "owner_url": "https://github.com/ganainy",
+    "reputation": {
+      "fork": 3,
+      "stars": 7,
+      "watchers": 7
+    },
+    "stack": "Coroutines, Retrofit, Room, Firestore, Firebase Auth, Firebase Messaging,  Facebook Login, WorkManager, Dexter, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/flexbooru/flexbooru": {
+    "repo": "flexbooru",
+    "repo_url": "https://github.com/flexbooru/flexbooru",
+    "description": "A booru client for Android, support Danbooru, Moebooru, Gelbooru, Sankaku, etc.",
+    "owner": "flexbooru",
+    "owner_url": "https://github.com/flexbooru",
+    "reputation": {
+      "fork": 39,
+      "stars": 359,
+      "watchers": 359
+    },
+    "stack": "Kodein, Coroutines, Testing, Retrofit, Room, WorkManager, Exoplayer, Navigation, Tikxml, LiveData, ViewModel"
+  },
+  "https://github.com/flexbooru/flexbooru-ap": {
+    "repo": "flexbooru-ap",
+    "repo_url": "https://github.com/flexbooru/flexbooru-ap",
+    "description": "An anime-pictures.net client for Android.",
+    "owner": "flexbooru",
+    "owner_url": "https://github.com/flexbooru",
+    "reputation": {
+      "fork": 7,
+      "stars": 39,
+      "watchers": 39
+    },
+    "stack": "Kodein, Coroutines, Retrofit, Room, WorkManager, Navigation, Markwon, LiveData, ViewModel"
+  },
+  "https://github.com/gs-ts/BitfinexClient": {
+    "repo": "BitfinexClient",
+    "repo_url": "https://github.com/gs-ts/BitfinexClient",
+    "description": "An Android app written in Kotlin that demonstrates a clean architecture with MVVM, websockets using WebScoket client Scarlet, and RxAndroid/RxKotlin.",
+    "owner": "gs-ts",
+    "owner_url": "https://github.com/gs-ts",
+    "reputation": {
+      "fork": 2,
+      "stars": 8,
+      "watchers": 8
+    },
+    "stack": "Koin, RxJava, Testing, Scarlet, Room, Data Binding, LiveData, ViewModel"
+  },
+  "https://github.com/SoftwareEngineeringDaily/software-engineering-daily-android": {
+    "repo": "software-engineering-daily-android",
+    "repo_url": "https://github.com/SoftwareEngineeringDaily/software-engineering-daily-android",
+    "description": "Android client for Software Engineering Daily",
+    "owner": "SoftwareEngineeringDaily",
+    "owner_url": "https://github.com/SoftwareEngineeringDaily",
+    "reputation": {
+      "fork": 22,
+      "stars": 73,
+      "watchers": 73
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room, WorkManager, Exoplayer, Navigation, Android-Permissions, LiveData, ViewModel"
+  },
+  "https://github.com/GreyLabsDev/PexWalls": {
+    "repo": "PexWalls",
+    "repo_url": "https://github.com/GreyLabsDev/PexWalls",
+    "description": "Wallpaper app based on pexels.com API. Kotlin/Clean/MVVM-like/SingleActivity",
+    "owner": "GreyLabsDev",
+    "owner_url": "https://github.com/GreyLabsDev",
+    "reputation": {
+      "fork": 4,
+      "stars": 7,
+      "watchers": 7
+    },
+    "stack": "Koin, Coroutines, RxJava, Retrofit, Room, Navigation, Markwon, LiveData, ViewModel"
+  },
+  "https://github.com/iammert/AppLocker": {
+    "repo": "AppLocker",
+    "repo_url": "https://github.com/iammert/AppLocker",
+    "description": "🔐 Open source app locker, vault, call blocker application",
+    "owner": "iammert",
+    "owner_url": "https://github.com/iammert",
+    "reputation": {
+      "fork": 61,
+      "stars": 267,
+      "watchers": 267
+    },
+    "stack": "Dagger, RxJava, Room,  WorkManager, Data Binding, RxPermissions, LiveData, ViewModel"
+  },
+  "https://github.com/xiprox/Upgur": {
+    "repo": "Upgur",
+    "repo_url": "https://github.com/xiprox/Upgur",
+    "description": "A very simple offline-first Imgur client app",
+    "owner": "xiprox",
+    "owner_url": "https://github.com/xiprox",
+    "reputation": {
+      "fork": 2,
+      "stars": 8,
+      "watchers": 8
+    },
+    "stack": "Dagger, Retrofit, Room, WorkManager, Navigation, android-upload-service, LiveData, ViewModel"
+  },
+  "https://github.com/AbduallahAtta/Social-Note": {
+    "repo": "Social-Note",
+    "repo_url": "https://github.com/mars-amn/Social-Note",
+    "description": "Social Note - Note-taking, sharing, time & location reminder",
+    "owner": "mars-amn",
+    "owner_url": "https://github.com/mars-amn",
+    "reputation": {
+      "fork": 7,
+      "stars": 34,
+      "watchers": 34
+    },
+    "stack": "Koin, RxJava, Room, Firestore, Firebase Auth, Firebase Storage, Firebase Messaging,  WorkManager, Data Binding, Paging, LiveData, ViewModel"
+  },
+  "https://github.com/kacperczyk-dev/ExchangeRateApp": {
+    "repo": "ExchangeRateApp",
+    "repo_url": "https://github.com/kacperczyk-dev-old-projects/ExchangeRateApp",
+    "description": "Exchange Rates application written in Kotlin using Android Architecture Components (MVVM), Dagger 2, Retrofit, Room, Lottie, Coroutines and WorkManager",
+    "owner": "kacperczyk-dev-old-projects",
+    "owner_url": "https://github.com/kacperczyk-dev-old-projects",
+    "reputation": {
+      "fork": 1,
+      "stars": 0,
+      "watchers": 0
+    },
+    "stack": "Dagger, Coroutines, Retrofit, Room, WorkManager, Data Binding, MPAndroidChart, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/cuongpm/youtube-dl-android": {
+    "repo": "youtube-dl-android",
+    "repo_url": "https://github.com/cuongpm/youtube-dl-android",
+    "description": "📦📦Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites",
+    "owner": "cuongpm",
+    "owner_url": "https://github.com/cuongpm",
+    "reputation": {
+      "fork": 99,
+      "stars": 280,
+      "watchers": 280
+    },
+    "stack": "Dagger, RxJava, Testing, Retrofit, Room, Data Binding, LiveData, ViewModel"
+  },
+  "https://github.com/PhilippeBoisney/ArchApp": {
+    "repo": "ArchApp",
+    "repo_url": "https://github.com/PhilippeBoisney/ArchApp",
+    "description": "Simple Android app to show how to design a multi-modules MVVM Android app (fully tested)",
+    "owner": "PhilippeBoisney",
+    "owner_url": "https://github.com/PhilippeBoisney",
+    "reputation": {
+      "fork": 93,
+      "stars": 513,
+      "watchers": 513
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/rumaan/file.io-Android-Client": {
+    "repo": "file.io-Android-Client",
+    "repo_url": "https://github.com/rumaan/file.io-Android-Client",
+    "description": "☁️ Unofficial file.io Android App 📱",
+    "owner": "rumaan",
+    "owner_url": "https://github.com/rumaan",
+    "reputation": {
+      "fork": 11,
+      "stars": 15,
+      "watchers": 15
+    },
+    "stack": "Testing, Fuel, Room, WorkManager, Navigation, PermissionsDispatcher, LiveData, ViewModel"
+  },
+  "https://github.com/skydoves/Pokedex": {
+    "repo": "Pokedex",
+    "repo_url": "https://github.com/skydoves/Pokedex",
+    "description": "🗡️ Android Pokedex using Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+    "owner": "skydoves",
+    "owner_url": "https://github.com/skydoves",
+    "reputation": {
+      "fork": 291,
+      "stars": 3417,
+      "watchers": 3417
+    },
+    "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, Data Binding, LiveData, ViewModel"
+  },
+  "https://github.com/Wiqaytna-app/wiqaytna_android": {
+    "repo": "wiqaytna_android",
+    "repo_url": "https://github.com/Wiqaytna-app/wiqaytna_android",
+    "description": "",
+    "owner": "Wiqaytna-app",
+    "owner_url": "https://github.com/Wiqaytna-app",
+    "reputation": {
+      "fork": 74,
+      "stars": 163,
+      "watchers": 163
+    },
+    "stack": "RxJava, Testing, Room, Firebase Storage, Firebase Auth, Firebase Messaging, Firebase Perf, Firebase Functions, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/ZahraHeydari/MusicPlayer": {
+    "repo": "MusicPlayer",
+    "repo_url": "https://github.com/ZahraHeydari/MusicPlayer",
+    "description": "Implemented using Clean Arch, MVVM, LiveData, Room, Koin, Coil, Service, Notification and ExoPlayer",
+    "owner": "ZahraHeydari",
+    "owner_url": "https://github.com/ZahraHeydari",
+    "reputation": {
+      "fork": 43,
+      "stars": 324,
+      "watchers": 324
+    },
+    "stack": "Koin, Testing, Room, Firebase Storage, Firebase Auth, Firebase Messaging, Firebase Perf, Firebase Functions,  Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/google/iosched": {
+    "repo": "iosched",
+    "repo_url": "https://github.com/google/iosched",
+    "description": "The Google I/O 2019 Android App",
+    "owner": "google",
+    "owner_url": "https://github.com/google",
+    "reputation": {
+      "fork": 6103,
+      "stars": 20199,
+      "watchers": 20199
+    },
+    "stack": "Dagger Hilt, Coroutines, Testing, Room, Firestore, Firebase Auth, Firebase Messaging, Firebase Functions, Navigation, ARCore, LiveData, ViewModel"
+  },
+  "https://github.com/romannurik/muzei": {
+    "repo": "muzei",
+    "repo_url": "https://github.com/romannurik/muzei",
+    "description": "Muzei Live Wallpaper for Android",
+    "owner": "romannurik",
+    "owner_url": "https://github.com/romannurik",
+    "reputation": {
+      "fork": 932,
+      "stars": 4112,
+      "watchers": 4112
+    },
+    "stack": "Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/mozilla-mobile/fenix": {
+    "repo": "fenix",
+    "repo_url": "https://github.com/mozilla-mobile/fenix",
+    "description": "Firefox for Android",
+    "owner": "mozilla-mobile",
+    "owner_url": "https://github.com/mozilla-mobile",
+    "reputation": {
+      "fork": 624,
+      "stars": 4254,
+      "watchers": 4254
+    },
+    "stack": "Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/rumboalla/apkupdater": {
+    "repo": "apkupdater",
+    "repo_url": "https://github.com/rumboalla/apkupdater",
+    "description": "APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.",
+    "owner": "rumboalla",
+    "owner_url": "https://github.com/rumboalla",
+    "reputation": {
+      "fork": 119,
+      "stars": 911,
+      "watchers": 911
+    },
+    "stack": "Koin, JSoup, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/VMadalin/android-modular-architecture": {
+    "repo": "android-modular-architecture",
+    "repo_url": "https://github.com/VMadalin/android-modular-architecture",
+    "description": "📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.",
+    "owner": "VMadalin",
+    "owner_url": "https://github.com/VMadalin",
+    "reputation": {
+      "fork": 230,
+      "stars": 1529,
+      "watchers": 1529
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, Navigation, Paging, Data Binding, LiveData, ViewModel"
+  },
+  "https://github.com/moezbhatti/qksms": {
+    "repo": "qksms",
+    "repo_url": "https://github.com/moezbhatti/qksms",
+    "description": "The most beautiful SMS messenger for Android",
+    "owner": "moezbhatti",
+    "owner_url": "https://github.com/moezbhatti",
+    "reputation": {
+      "fork": 886,
+      "stars": 3005,
+      "watchers": 3005
+    },
+    "stack": "Dagger, Coroutines, RxJava, Testing, Retrofit, Realm, ExoPlayer, Conductor, Data Binding, ShortcutBadger, LiveData, ViewModel"
+  },
+  "https://github.com/ApturiCOVID/apturicovid-android": {
+    "repo": "apturicovid-android",
+    "repo_url": "https://github.com/ApturiCOVID/apturicovid-android",
+    "description": "Apturi Covid Android lietotne",
+    "owner": "ApturiCOVID",
+    "owner_url": "https://github.com/ApturiCOVID",
+    "reputation": {
+      "fork": 4,
+      "stars": 24,
+      "watchers": 24
+    },
+    "stack": "Dagger, Coroutines, RxJava, Testing, Retrofit, Room,  WorkManager, Data Binding, ShortcutBadger, LiveData, ViewModel"
+  },
+  "https://github.com/idisfkj/AwesomeGithub": {
+    "repo": "AwesomeGithub",
+    "repo_url": "https://github.com/idisfkj/AwesomeGithub",
+    "description": "🔥Android Github客户端，基于组件化开发，支持账户密码与认证登陆。使用Kotlin语言进行开发，项目架构是基于JetPack&DataBinding的MVVM；项目中使用了Arouter、Retrofit、Coroutine、Glide、Dagger与Hilt等流行开源技术。",
+    "owner": "idisfkj",
+    "owner_url": "https://github.com/idisfkj",
+    "reputation": {
+      "fork": 8,
+      "stars": 96,
+      "watchers": 96
+    },
+    "stack": "Coroutines, RxJava, Retrofit, Room, WorkManager, Paging, Navigation, Data Binding, ARouter, LiveData, ViewModel"
+  },
+  "https://github.com/HabitRPG/habitica-android": {
+    "repo": "habitica-android",
+    "repo_url": "https://github.com/HabitRPG/habitica-android",
+    "description": "Native Android app for Habitica",
+    "owner": "HabitRPG",
+    "owner_url": "https://github.com/HabitRPG",
+    "reputation": {
+      "fork": 366,
+      "stars": 801,
+      "watchers": 801
+    },
+    "stack": "Dagger, Coroutines, RxJava, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout, LiveData, ViewModel"
+  },
+  "https://github.com/KhaledSherifSayed/PopularPeople": {
+    "repo": "PopularPeople",
+    "repo_url": "https://github.com/KhaledSherifSayed/PopularPeople",
+    "description": "A 📱 Popular People app using Shared Elements between fragments with transformation motions based on MVVM (ViewModel, Coroutines, LiveData, Repository, Koin) architecture.",
+    "owner": "KhaledSherifSayed",
+    "owner_url": "https://github.com/KhaledSherifSayed",
+    "reputation": {
+      "fork": 3,
+      "stars": 9,
+      "watchers": 9
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Data Binding, Sandwich, LiveData, ViewModel"
+  },
+  "https://github.com/alisonthemonster/Presently": {
+    "repo": "Presently",
+    "repo_url": "https://github.com/alisonthemonster/Presently",
+    "description": "Android app for recording gratitude journal entries [IN PROGRESS]",
+    "owner": "alisonthemonster",
+    "owner_url": "https://github.com/alisonthemonster",
+    "reputation": {
+      "fork": 30,
+      "stars": 77,
+      "watchers": 77
+    },
+    "stack": "Dagger, Coroutines, RxJava, Testing, Room, Firebase Messaging,  WorkManager, Dropbox, Calendar view, Paging, Biometric, LiveData, ViewModel"
+  },
+  "https://github.com/fibelatti/raffler-kotlin": {
+    "repo": "raffler-kotlin",
+    "repo_url": "https://github.com/fibelatti/raffler-kotlin",
+    "description": " A raffling app developed as a playground to study many topics related to Android. Kotlin + Coroutines + MVVM",
+    "owner": "fibelatti",
+    "owner_url": "https://github.com/fibelatti",
+    "reputation": {
+      "fork": 2,
+      "stars": 42,
+      "watchers": 42
+    },
+    "stack": "Dagger, Coroutines, Testing, Room, LiveData, ViewModel"
+  },
+  "https://github.com/sanmiAde/Yet_Another_Anime_List": {
+    "repo": "Yet_Another_Anime_List",
+    "repo_url": "https://github.com/sanmiAde/Yet_Another_Anime_List",
+    "description": "A personal anime list app that shows currently airing animes, upcoming animes developed using TDD. That's the plan anyway. Essential dependencies are Dagger2 , RxKotlin with RxAndroid, Room, Retrofit, Junit, mockito, mockwebserver, Truth, MVVM , bitrise, Firebase",
+    "owner": "sanmiAde",
+    "owner_url": "https://github.com/sanmiAde",
+    "reputation": {
+      "fork": 1,
+      "stars": 6,
+      "watchers": 6
+    },
+    "stack": "Dagger, RxJava, Testing using Fakes, MockWebserver, RxRetrofit, Room, Navigation Components, Lottie, LiveData, ViewModel"
+  },
+  "https://github.com/OMIsie11/CovidNow": {
+    "repo": "CovidNow",
+    "repo_url": "https://github.com/OMIsie11/CovidNow",
+    "description": "Simple application for tracking Covid-19 info. Stay safe.😷",
+    "owner": "OMIsie11",
+    "owner_url": "https://github.com/OMIsie11",
+    "reputation": {
+      "fork": 5,
+      "stars": 17,
+      "watchers": 17
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room, MPAndroidChart, LiveData, ViewModel"
+  },
+  "https://github.com/KevinGitonga/TukoNewsClient": {
+    "repo": "TukoNewsClient",
+    "repo_url": "https://github.com/KevinGitonga/TukoNewsClient",
+    "description": "A simple and sleek Android client consuming the Tuko News Api..I built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Architecture Components, MVVM, Room, Retrofit, Material Components). !! https://www.tuko.co.ke/",
+    "owner": "KevinGitonga",
+    "owner_url": "https://github.com/KevinGitonga",
+    "reputation": {
+      "fork": 0,
+      "stars": 5,
+      "watchers": 5
+    },
+    "stack": "Coroutines, Retrofit, Room, LiveData, ViewModel"
+  },
+  "https://github.com/KevinGitonga/NewsFeed": {
+    "repo": "NewsFeed",
+    "repo_url": "https://github.com/KevinGitonga/NewsFeed",
+    "description": "A localized News reader Android app powered by newsapi.org",
+    "owner": "KevinGitonga",
+    "owner_url": "https://github.com/KevinGitonga",
+    "reputation": {
+      "fork": 0,
+      "stars": 4,
+      "watchers": 4
+    },
+    "stack": "Coroutines, Retrofit, Room, Pretty Time, LiveData, ViewModel"
+  },
+  "https://github.com/auron567/Gallerit": {
+    "repo": "Gallerit",
+    "repo_url": "https://github.com/auron567/Gallerit",
+    "description": "A sample Android gallery to search images posted on Reddit built using modern Android development tools (Architecture Components, MVVM, Coroutines, Flow, Navigation, Retrofit, Room, Koin)",
+    "owner": "auron567",
+    "owner_url": "https://github.com/auron567",
+    "reputation": {
+      "fork": 4,
+      "stars": 104,
+      "watchers": 104
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room, Navigation, Data Binding, LiveData, ViewModel"
+  },
+  "https://github.com/enginebai/MovieHunt": {
+    "repo": "MovieHunt",
+    "repo_url": "https://github.com/enginebai/MovieHunt",
+    "description": "Movie Android App written in Kotlin, MVVM, RxJava, Android Architecture Components.",
+    "owner": "enginebai",
+    "owner_url": "https://github.com/enginebai",
+    "reputation": {
+      "fork": 17,
+      "stars": 139,
+      "watchers": 139
+    },
+    "stack": "Koin, RxJava, Room, Paging, Navigation, Epoxy, LiveData, ViewModel"
+  },
+  "https://github.com/Shivamdhuria/flows_guide": {
+    "repo": "flows_guide",
+    "repo_url": "https://github.com/Shivamdhuria/flows_guide",
+    "description": "Android Application 🐕 based on offline first approach built using Dagger Hilt, Material Motion, Coroutines + Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+    "owner": "Shivamdhuria",
+    "owner_url": "https://github.com/Shivamdhuria",
+    "reputation": {
+      "fork": 11,
+      "stars": 54,
+      "watchers": 54
+    },
+    "stack": "Dagger Hilt, Coroutines, Flows, Retrofit, Room, Material Design Components, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/rizmaulana/kotlin-mvvm-covid19": {
+    "repo": "kotlin-mvvm-covid19",
+    "repo_url": "https://github.com/rizmaulana/kotlin-mvvm-covid19",
+    "description": "This repository contains simple COVID19 data monitoring with android stack MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, etc",
+    "owner": "rizmaulana",
+    "owner_url": "https://github.com/rizmaulana",
+    "reputation": {
+      "fork": 107,
+      "stars": 335,
+      "watchers": 335
+    },
+    "stack": "MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, Spek2Framwework for Unit Testing, etc"
+  },
+  "https://github.com/Tristankluivert/Knote": {
+    "repo": "Knote",
+    "repo_url": "https://github.com/Tristankluivert/Knote",
+    "description": "Knote is a standard note taking app",
+    "owner": "Tristankluivert",
+    "owner_url": "https://github.com/Tristankluivert",
+    "reputation": {
+      "fork": 0,
+      "stars": 2,
+      "watchers": 2
+    },
+    "stack": "ViewModel, Live Data, Koin, Room db, Coroutines etc"
+  },
+  "https://github.com/Devansh-Maurya/PukaPuka": {
+    "repo": "PukaPuka",
+    "repo_url": "https://github.com/Devansh-Maurya/PukaPuka",
+    "description": "An Android app to identify books from their covers and give info, built using ML Kit's Text Recognition API, Android Jetpack Libraries and Google Books API",
+    "owner": "Devansh-Maurya",
+    "owner_url": "https://github.com/Devansh-Maurya",
+    "reputation": {
+      "fork": 0,
+      "stars": 6,
+      "watchers": 6
+    },
+    "stack": "MVVM, Kotlin, LiveData, ViewModel, Navigation Components, CameraKit, Firebase ML Kit Text Recognition API, Glide, Volley, Lottie"
+  },
+  "https://github.com/fionicholas/Football-App": {
+    "repo": "Football-App",
+    "repo_url": "https://github.com/fionicholas/Football-App",
+    "description": ":soccer: Football App using MVVM, LiveData, RxJava2, DI, Room, Repository Patern",
+    "owner": "fionicholas",
+    "owner_url": "https://github.com/fionicholas",
+    "reputation": {
+      "fork": 3,
+      "stars": 11,
+      "watchers": 11
+    },
+    "stack": "MVVM, Kotlin, LiveData, ViewModel, Retrofit, Room, Koin, RxJava, etc"
+  },
+  "https://github.com/ryanrvldo/MovieCatalogue": {
+    "repo": "MovieCatalogue",
+    "repo_url": "https://github.com/ryanrvldo/MovieCatalogue",
+    "description": "",
+    "owner": "ryanrvldo",
+    "owner_url": "https://github.com/ryanrvldo",
+    "reputation": {
+      "fork": 0,
+      "stars": 0,
+      "watchers": 0
+    },
+    "stack": "MVVM, ViewModel, LiveData, Coroutines, Firebase Cloud Messaging, Retrofit, Room, Glide, Dagger Hilt, and Google Material."
+  },
+  "https://github.com/mutualmobile/Praxis": {
+    "repo": "Praxis",
+    "repo_url": "https://github.com/mutualmobile/Praxis",
+    "description": "Example Android project using MVVM, DaggerAndroid, Jetpack, Data Binding, Retrofit, RxJava and Coroutines",
+    "owner": "mutualmobile",
+    "owner_url": "https://github.com/mutualmobile",
+    "reputation": {
+      "fork": 9,
+      "stars": 53,
+      "watchers": 53
+    },
+    "stack": "MVVM architecture, Dagger, Retrofit, Kotlin Coroutines, RXJava2, ViewModel, Data Binding"
+  },
+  "https://github.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners": {
+    "repo": "MVVM-Architecture-Android-Beginners",
+    "repo_url": "https://github.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners",
+    "description": "This repository contains a sample app that implements MVVM architecture using Kotlin, ViewModel, LiveData, and etc.",
+    "owner": "MindorksOpenSource",
+    "owner_url": "https://github.com/MindorksOpenSource",
+    "reputation": {
+      "fork": 42,
+      "stars": 132,
+      "watchers": 132
+    },
+    "stack": "MVVM architecture, Dagger, Kotlin Coroutines, RXJava2, ViewModel, Data Binding, Live Data."
+  },
+  "https://github.com/mrcsxsiq/Kotlin-Pokedex": {
+    "repo": "Kotlin-Pokedex",
+    "repo_url": "https://github.com/mrcsxsiq/Kotlin-Pokedex",
+    "description": ":cyclone: A Pokedex app using ViewModel, LiveData, Room and Navigation",
+    "owner": "mrcsxsiq",
+    "owner_url": "https://github.com/mrcsxsiq",
+    "reputation": {
+      "fork": 141,
+      "stars": 1085,
+      "watchers": 1085
+    },
+    "stack": "MVVM,  Kotlin, LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint"
+  },
+  "https://github.com/happysingh23828/Android-Clean-Architecture": {
+    "repo": "Android-Clean-Architecture",
+    "repo_url": "https://github.com/happysingh23828/Android-Clean-Architecture",
+    "description": "This is a sample movie list Android application built to demonstrate use of Clean Architecture tools. Dedicated to all Android Developers - (Kotlin, MVVM, Clean Architecture, Rx-Java, Dagger, OkHttp, Unit Testing, SOLID principles, Code Coverage)",
+    "owner": "happysingh23828",
+    "owner_url": "https://github.com/happysingh23828",
+    "reputation": {
+      "fork": 11,
+      "stars": 56,
+      "watchers": 56
+    },
+    "stack": "Dagger, Unit Testing for modules, Mockito, RxJava, Retrofit, Room, CI-CD, SOLID, Code Coverage, Jacoco, Detekt, ktlint, Stetho, LiveData, ViewModel"
+  },
+  "https://github.com/igorwojda/android-showcase": {
+    "repo": "android-showcase",
+    "repo_url": "https://github.com/igorwojda/android-showcase",
+    "description": "💎 Android application following best practices:  Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...",
+    "owner": "igorwojda",
+    "owner_url": "https://github.com/igorwojda",
+    "reputation": {
+      "fork": 513,
+      "stars": 4037,
+      "watchers": 4037
+    },
+    "stack": "Kodein, Coroutines, Testing, Retrofit, KAndroid, Lottie, Detekt, Navigation, Dynamic Feature Modules, LiveData, ViewModel"
+  },
+  "https://github.com/ferPrieto/Coroutines-Flows-Modularised": {
+    "repo": "Coroutines-Flows-Modularised",
+    "repo_url": "https://github.com/ferPrieto/Coroutines-Flows-Modularised",
+    "description": "Clean Architecture Modular Project: MVVM + Coroutines+ Flows + Dagger2 + LiveData + UnitTests + UITests + MockWebServer",
+    "owner": "ferPrieto",
+    "owner_url": "https://github.com/ferPrieto",
+    "reputation": {
+      "fork": 11,
+      "stars": 57,
+      "watchers": 57
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/akoufa/CoolWeather": {
+    "repo": "CoolWeather",
+    "repo_url": "https://github.com/akoufa/CoolWeather",
+    "description": "Weather App that uses Android best practices. Android Jetpack, clean architecture. Written in Kotlin",
+    "owner": "akoufa",
+    "owner_url": "https://github.com/akoufa",
+    "reputation": {
+      "fork": 9,
+      "stars": 138,
+      "watchers": 138
+    },
+    "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/odaridavid/Clean-MVVM-ArchComponents": {
+    "repo": "Clean-MVVM-ArchComponents",
+    "repo_url": "https://github.com/odaridavid/Clean-MVVM-ArchComponents",
+    "description": "👽  Android app consuming Star Wars API.Built with clean architecture ,MVVM pattern, Koin , Coroutines + Flows ,Architecture Components, Data Binding , Firebase , Unit/UI Tests ,Motion Layout",
+    "owner": "odaridavid",
+    "owner_url": "https://github.com/odaridavid",
+    "reputation": {
+      "fork": 45,
+      "stars": 199,
+      "watchers": 199
+    },
+    "stack": "Koin, Coroutines, Testing, Retrofit, Room, Data Binding, Motion Layout, LiveData, ViewModel"
+  },
+  "https://github.com/andremion/Theatre": {
+    "repo": "Theatre",
+    "repo_url": "https://github.com/andremion/Theatre",
+    "description": "Pet project using Clean Architecture + MVVM + Reactive Extensions + Android Architecture Components. The data are fetched from LondonTheatreDirect API. 🎭",
+    "owner": "andremion",
+    "owner_url": "https://github.com/andremion",
+    "reputation": {
+      "fork": 94,
+      "stars": 569,
+      "watchers": 569
+    },
+    "stack": "Dagger, RxJava, Testing, Retrofit, Room, Navigation, Data Binding, LiveData, ViewModel"
+  },
+  "https://github.com/HamdiBoumaiza/CoronavirusWorldStatus": {
+    "repo": "CoronavirusWorldStatus",
+    "repo_url": "https://github.com/HamdiBoumaiza/CoronavirusWorldStatus",
+    "description": "An app to stay up to date with the latest stats of the coronavirus , using Kotlin with MVVM ,Coroutines , Android Architecture Components and Dagger",
+    "owner": "HamdiBoumaiza",
+    "owner_url": "https://github.com/HamdiBoumaiza",
+    "reputation": {
+      "fork": 0,
+      "stars": 10,
+      "watchers": 10
+    },
+    "stack": "Dagger, Coroutines, Retrofit, Room, LiveData, ViewModel , Stetho"
+  },
+  "https://github.com/SmartToolFactory/PropertyFindAR": {
+    "repo": "PropertyFindAR",
+    "repo_url": "https://github.com/SmartToolFactory/PropertyFindAR",
+    "description": "🏘 🎃   Real Estate Sample App with RxJava3+Coroutines Flow, Dynamic Feature Modules, Dagger Hilt, Offline First, ConcatAdapter, Animations and tests for Room, Retrofit, useCase and ViewModels with TDD.",
+    "owner": "SmartToolFactory",
+    "owner_url": "https://github.com/SmartToolFactory",
+    "reputation": {
+      "fork": 7,
+      "stars": 67,
+      "watchers": 67
+    },
+    "stack": "RxJava3, Coroutines Flow, Retrofit, Room, Dagger Hilt, Dynamic Feature Modules, ConcatAdapter, LiveData, ViewModel, SavedStateHandle, WorkManager, Glide, Lottie, MpCharts, MockWebServer, MockK, FlowTestObserver, ktLint, detekt, Git Hooks, Git Flow"
+  },
+  "https://github.com/sansets/android-clean-architecture": {
+    "repo": "android-clean-architecture",
+    "repo_url": "https://github.com/sansets/android-clean-architecture",
+    "description": "Sample for Android Clean Architecture.",
+    "owner": "sansets",
+    "owner_url": "https://github.com/sansets",
+    "reputation": {
+      "fork": 2,
+      "stars": 40,
+      "watchers": 40
+    },
+    "stack": "Navigation Component, Dagger, Coroutines Flow, Room, Retrofit, LiveData, ViewModel, View Binding, Dynamic Feature Modules."
+  },
+  "https://github.com/VladimirWrites/BLTaxi": {
+    "repo": "BLTaxi",
+    "repo_url": "https://github.com/VladimirWrites/BLTaxi",
+    "description": "🚕  BL Taxi is a simple app for calling a taxi in the city Banja Luka built using modern Android development tools",
+    "owner": "VladimirWrites",
+    "owner_url": "https://github.com/VladimirWrites",
+    "reputation": {
+      "fork": 33,
+      "stars": 332,
+      "watchers": 332
+    },
+    "stack": "Koin, Retrofit, Room, Data Binding, Live Data, View Model, Work Manager, Material Components"
+  },
+  "https://github.com/HadySalhab/NewsFeed-MVI-Dagger": {
+    "repo": "NewsFeed-MVI-Dagger",
+    "repo_url": "https://github.com/HadySalhab/NewsFeed-MVI-Dagger",
+    "description": "Android News Application built in kotlin: MVI+Dagger+NetworkBoundResource+ViewModel+Livedata. ",
+    "owner": "HadySalhab",
+    "owner_url": "https://github.com/HadySalhab",
+    "reputation": {
+      "fork": 5,
+      "stars": 9,
+      "watchers": 9
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/hoc081098/ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack": {
+    "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
+    "repo_url": "https://github.com/hoc081098/ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
+    "description": "⚡️Comic reader app 📘. Learning MVVM / MVI with :cyclone: RxKotlin, Retrofit, Kotlin Coroutine, Work Manager, Room, Firebase, AndroidX Startup, Clean Architecture ... ❄️",
+    "owner": "hoc081098",
+    "owner_url": "https://github.com/hoc081098",
+    "reputation": {
+      "fork": 10,
+      "stars": 47,
+      "watchers": 47
+    },
+    "stack": "Koin, Coroutines, RxJava, Retrofit, Room, Firestore, Firebase Auth, Firebase Storage, WorkManager, Navigation, Paging, LiveData, ViewModel"
+  },
+  "https://github.com/R4md4c/GameDealz": {
+    "repo": "GameDealz",
+    "repo_url": "https://github.com/R4md4c/GameDealz",
+    "description": "A non-official Android client for IsThereAnyDeal.com",
+    "owner": "R4md4c",
+    "owner_url": "https://github.com/R4md4c",
+    "reputation": {
+      "fork": 2,
+      "stars": 22,
+      "watchers": 22
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, acra, fastAdapter, Paging, JSoup, dropbox/Store, LiveData, ViewModel"
+  },
+  "https://github.com/mitchtabian/Open-API-Android-App": {
+    "repo": "Open-API-Android-App",
+    "repo_url": "https://github.com/mitchtabian/Open-API-Android-App",
+    "description": "Kotlin, MVI Architecture, Dagger2, Retrofit2, Coroutines, Room Persistence, REST API, Token Authentication",
+    "owner": "mitchtabian",
+    "owner_url": "https://github.com/mitchtabian",
+    "reputation": {
+      "fork": 138,
+      "stars": 277,
+      "watchers": 277
+    },
+    "stack": "Dagger, Coroutines, Retrofit, Room, Navigation, LiveData, ViewModel"
+  },
+  "https://github.com/lopspower/CleanRxArchitecture": {
+    "repo": "CleanRxArchitecture",
+    "repo_url": "https://github.com/lopspower/CleanRxArchitecture",
+    "description": "Clean Rx Kotlin Architecture sample on GitHub Api 🚀",
+    "owner": "lopspower",
+    "owner_url": "https://github.com/lopspower",
+    "reputation": {
+      "fork": 27,
+      "stars": 274,
+      "watchers": 274
+    },
+    "stack": "Dagger, RxJava, Retrofit, Room, Clean Architecture, LiveData, ViewModel"
+  },
+  "https://github.com/mitchtabian/Clean-Notes": {
+    "repo": "Clean-Notes",
+    "repo_url": "https://github.com/mitchtabian/Clean-Notes",
+    "description": "Clean Architecture by layer",
+    "owner": "mitchtabian",
+    "owner_url": "https://github.com/mitchtabian",
+    "reputation": {
+      "fork": 52,
+      "stars": 185,
+      "watchers": 185
+    },
+    "stack": "Dagger, Coroutines, Testing, Retrofit, Room, Firestore, Firebase Auth, Navigation, Markdown Processor, LiveData, ViewModel"
+  },
+  "https://github.com/Ezike/Baking-App-Kotlin": {
+    "repo": "Baking-App-Kotlin",
+    "repo_url": "https://github.com/Ezike/Baking-App-Kotlin",
+    "description": "Android architecture sample with dynamic feature modularisation, clean architecture with MVI (Uni-directional data flow), dagger hilt, DFM Navigation, kotlin coroutines with StateFlow and Exo player.",
+    "owner": "Ezike",
+    "owner_url": "https://github.com/Ezike",
+    "reputation": {
+      "fork": 37,
+      "stars": 146,
+      "watchers": 146
+    },
+    "stack": "Dagger hilt, Kotlin Coroutines & StateFlow, Unit Testing, Retrofit, DFM Navigation, FlowBinding, Exoplayer"
+  },
+  "https://github.com/Ezike/MVI_UIComponents": {
+    "repo": "MVI_UIComponents",
+    "repo_url": "https://github.com/Ezike/MVI_UIComponents",
+    "description": "Android project showcasing the use of View components for rendering UI in Fragments and Activities. Uses Android Jetpack, clean architecture with MVI (Uni-directional data flow), dagger hilt, DFM Navigation, and kotlin coroutines with StateFlow",
+    "owner": "Ezike",
+    "owner_url": "https://github.com/Ezike",
+    "reputation": {
+      "fork": 4,
+      "stars": 48,
+      "watchers": 48
+    },
+    "stack": "Jetpack, Dagger hilt, Kotlin Coroutines & StateFlow, Room, Retrofit, FlowBinding"
+  },
+  "https://github.com/inorichi/tachiyomi": {
+    "repo": "tachiyomi",
+    "repo_url": "https://github.com/inorichi/tachiyomi",
+    "description": "Free and open source manga reader for Android",
+    "owner": "inorichi",
+    "owner_url": "https://github.com/inorichi",
+    "reputation": {
+      "fork": 1176,
+      "stars": 8950,
+      "watchers": 8950
+    },
+    "stack": "Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor"
+  },
+  "https://github.com/ImangazalievM/UTair-MVP-Sample": {
+    "repo": "UTair-MVP-Sample",
+    "repo_url": "https://github.com/ImangazalievM/UTair-MVP-Sample",
+    "description": "Android Clean Architecture + MVP Sample written in Kotlin",
+    "owner": "ImangazalievM",
+    "owner_url": "https://github.com/ImangazalievM",
+    "reputation": {
+      "fork": 1,
+      "stars": 25,
+      "watchers": 25
+    },
+    "stack": "Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso)"
+  },
+  "https://github.com/shadowsocks/shadowsocks-android": {
+    "repo": "shadowsocks-android",
+    "repo_url": "https://github.com/shadowsocks/shadowsocks-android",
+    "description": "A shadowsocks client for Android",
+    "owner": "shadowsocks",
+    "owner_url": "https://github.com/shadowsocks",
+    "reputation": {
+      "fork": 11284,
+      "stars": 30488,
+      "watchers": 30488
+    },
+    "stack": "Testing, Room,  Firebase Ads, WorkManager"
+  },
+  "https://github.com/BijoySingh/Scarlet-Notes": {
+    "repo": "Scarlet-Notes",
+    "repo_url": "https://github.com/BijoySingh/Scarlet-Notes",
+    "description": "Simple yet powerful rich note taking android application, with a lot of flexibilty of usage",
+    "owner": "BijoySingh",
+    "owner_url": "https://github.com/BijoySingh",
+    "reputation": {
+      "fork": 89,
+      "stars": 275,
+      "watchers": 275
+    },
+    "stack": "Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric"
+  }
+}

@@ -1,5 +1,6 @@
+package com.github.aaka.tasks.convert
+
 import java.lang.StringBuilder
-import kotlin.math.log
 
 val input = """
 
@@ -25,22 +26,25 @@ private val urlRegEx = "(?<url>https:\\/\\/github\\.com\\/.+?\\/.+)".toRegex()
 private val techStackRegEx = "Tech Stack = (?<stack>.+)".toRegex()
 
 fun main(args: Array<String>) {
+
+    // Parsing URL
     val urlResults = urlRegEx.findAll(input)
     val urls = mutableListOf<String>()
-    for ((index, url) in urlResults.withIndex()) {
+    for (url in urlResults) {
         urls.add(url.value)
     }
 
+    // Parsing Stack
     val stackResults = techStackRegEx.findAll(input)
     val stacks = mutableListOf<String>()
-    for ((index, stack) in stackResults.withIndex()) {
+    for (stack in stackResults) {
         stacks.add(stack.value)
     }
 
-    println(stacks.size)
-    println(urls.size)
-    // require(stacks.size == urls.size) { "Failed" }
+    // Checking data integrity
+    require(stacks.size == urls.size) { "Failed" }
 
+    // Creating JSON
     val sb = StringBuilder()
     for ((index, url) in urls.withIndex()) {
         val stack = stacks[index]
@@ -53,6 +57,7 @@ fun main(args: Array<String>) {
         sb.append(project)
     }
 
+    // Printing JSON
     println(sb)
 
 }
