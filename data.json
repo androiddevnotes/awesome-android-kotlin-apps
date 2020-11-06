@@ -399,5 +399,50 @@
         "stack": "MVVM,  Kotlin, LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint"
       }
     ]
+  },
+  {
+    "pattern": "MVVM - Clean Architecture",
+    "projects": [
+      {
+        "github_url": "https://github.com/happysingh23828/Android-Clean-Architecture",
+        "stack": "Dagger, Unit Testing for modules, Mockito, RxJava, Retrofit, Room, CI-CD, SOLID, Code Coverage, Jacoco, Detekt, ktlint, Stetho, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/igorwojda/android-showcase",
+        "stack": "Kodein, Coroutines, Testing, Retrofit, KAndroid, Lottie, Detekt, Navigation, Dynamic Feature Modules, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/ferPrieto/Coroutines-Flows-Modularised",
+        "stack": "Dagger, Coroutines, Testing, Retrofit, Data Binding, Navigation, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/akoufa/CoolWeather",
+        "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, Navigation, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/odaridavid/Clean-MVVM-ArchComponents",
+        "stack": "Koin, Coroutines, Testing, Retrofit, Room, Data Binding, Motion Layout, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/andremion/Theatre",
+        "stack": "Dagger, RxJava, Testing, Retrofit, Room, Navigation, Data Binding, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/HamdiBoumaiza/CoronavirusWorldStatus",
+        "stack": "Dagger, Coroutines, Retrofit, Room, LiveData, ViewModel , Stetho"
+      },
+      {
+        "github_url": "https://github.com/SmartToolFactory/PropertyFindAR",
+        "stack": "RxJava3, Coroutines Flow, Retrofit, Room, Dagger Hilt, Dynamic Feature Modules, ConcatAdapter, LiveData, ViewModel, SavedStateHandle, WorkManager, Glide, Lottie, MpCharts, MockWebServer, MockK, FlowTestObserver, ktLint, detekt, Git Hooks, Git Flow"
+      },
+      {
+        "github_url": "https://github.com/sansets/android-clean-architecture",
+        "stack": "Navigation Component, Dagger, Coroutines Flow, Room, Retrofit, LiveData, ViewModel, View Binding, Dynamic Feature Modules."
+      },
+      {
+        "github_url": "https://github.com/VladimirWrites/BLTaxi",
+        "stack": "Koin, Retrofit, Room, Data Binding, Live Data, View Model, Work Manager, Material Components"
+      }
+    ]
   }
 ]
