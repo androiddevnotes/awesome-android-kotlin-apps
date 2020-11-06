@@ -1,6 +1,5 @@
 package com.github.aaka.data.remote
 
-import com.github.aaka.data.repo.GetRepoResponse
 import retrofit2.http.GET
 import retrofit2.http.Header
 import retrofit2.http.Path

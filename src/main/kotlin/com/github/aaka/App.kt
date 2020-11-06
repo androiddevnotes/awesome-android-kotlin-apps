@@ -1,15 +1,13 @@
 package com.github.aaka
 
-import com.github.aaka.data.GitHubRepo
+import com.github.aaka.data.repo.GitHubRepo
 import com.github.aaka.data.repo.InputDataRepo
 import com.github.aaka.di.DaggerAppComponent
 import com.github.aaka.data.local.InputProjectCategory
 import com.github.aaka.data.local.Project
 import com.github.aaka.data.repo.ReadMeRepo
-import com.github.aaka.tasks.convert.input
 import kotlinx.coroutines.runBlocking
 import retrofit2.HttpException
-import java.io.File
 import java.lang.StringBuilder
 import javax.inject.Inject
 

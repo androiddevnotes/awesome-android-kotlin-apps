@@ -5,10 +5,6 @@
     "projects": [
       {
         "github_url": "https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps"
-      },
-      {
-        "github_url": "https://github.com/PatilShreyas/NotyKT",
-        "stack": "Backend - Ktor, PostgreSQL; Android"
       }
     ]
   },

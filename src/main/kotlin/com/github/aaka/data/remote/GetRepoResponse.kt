@@ -1,4 +1,4 @@
-package com.github.aaka.data.repo
+package com.github.aaka.data.remote
 import com.squareup.moshi.JsonClass
 
 import com.squareup.moshi.Json

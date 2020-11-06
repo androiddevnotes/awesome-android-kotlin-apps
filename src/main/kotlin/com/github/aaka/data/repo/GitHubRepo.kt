@@ -1,7 +1,7 @@
-package com.github.aaka.data
+package com.github.aaka.data.repo
 
 import com.github.aaka.data.remote.GitHubApi
-import com.github.aaka.data.repo.GetRepoResponse
+import com.github.aaka.data.remote.GetRepoResponse
 import javax.inject.Inject
 
 class GitHubRepo @Inject constructor(
