@@ -1,4 +1,4 @@
-package com.github.aaka.tasks.generate
+package com.github.aaka.data.local
 
 import com.squareup.moshi.JsonClass
 
@@ -6,7 +6,7 @@ import com.squareup.moshi.Json
 
 
 @JsonClass(generateAdapter = true)
-data class InputDataItem(
+data class InputProjectCategory(
     @Json(name = "key")
     val key: String, // $OTHER_REPOS
     @Json(name = "pattern")

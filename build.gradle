@@ -24,6 +24,22 @@ dependencies {
 
 	// OkHttp:Square’s meticulous HTTP client for Java and Kotlin.
 	implementation 'com.squareup.okhttp3:okhttp:4.10.0-RC1'
+
+	// Retrofit:A type-safe HTTP client for Android and Java.
+	implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+
+    // Dagger
+    implementation 'com.google.dagger:dagger:2.27'
+    kapt 'com.google.dagger:dagger-compiler:2.27'
+
+	// Kotlinx Coroutines Core:Coroutines support libraries for Kotlin
+	implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.1'
+
+	// Converter: Moshi:A Retrofit Converter which uses Moshi for serialization.
+	implementation 'com.squareup.retrofit2:converter-moshi:2.9.0'
+
+	// OkHttp Logging Interceptor:Square’s meticulous HTTP client for Java and Kotlin.
+	implementation 'com.squareup.okhttp3:logging-interceptor:4.10.0-RC1'
 }
 
 compileKotlin {

@@ -1,11 +1,11 @@
-package com.github.aaka.tasks.generate
+package com.github.aaka.data.repo
 import com.squareup.moshi.JsonClass
 
 import com.squareup.moshi.Json
 
 
 @JsonClass(generateAdapter = true)
-data class GithubRepoResponse(
+data class GetRepoResponse(
     @Json(name = "archive_url")
     val archiveUrl: String?, // https://api.github.com/repos/androiddevnotes/awesome-jetpack-compose-android-apps/{archive_format}{/ref}
     @Json(name = "archived")

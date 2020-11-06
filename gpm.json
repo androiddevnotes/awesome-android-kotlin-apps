@@ -69,6 +69,62 @@
     "name": "JSON In Java",
     "description": "JSON is a light-weight, language independent, data interchange format.See http://www.JSON.org/The files in this package implement JSON encoders/decoders in Java.It also includes the capability to convert between JSON and XML, HTTPheaders, Cookies, and CDL.This is a reference implementation. There is a large number of JSON packagesin Java. Perhaps someday the Java community will standardize on one. Untilthen, choose carefully.The license includes this restriction: \"The software ..."
    }
+  },
+  {
+   "id": 6,
+   "type": "implementation",
+   "installed_name": "retrofit2",
+   "gpm_dep": {
+    "artifact_id": "retrofit",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit",
+    "get_from": "Central",
+    "group_id": "com.squareup.retrofit2",
+    "name": "Retrofit",
+    "description": "A type-safe HTTP client for Android and Java."
+   }
+  },
+  {
+   "id": 7,
+   "type": "implementation",
+   "installed_name": "coroutines",
+   "gpm_dep": {
+    "artifact_id": "kotlinx-coroutines-core",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core",
+    "get_from": "Central",
+    "group_id": "org.jetbrains.kotlinx",
+    "name": "Kotlinx Coroutines Core",
+    "description": "Coroutines support libraries for Kotlin"
+   }
+  },
+  {
+   "id": 8,
+   "type": "implementation",
+   "installed_name": "moshi-converter",
+   "gpm_dep": {
+    "artifact_id": "converter-moshi",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-moshi",
+    "get_from": "Central",
+    "group_id": "com.squareup.retrofit2",
+    "name": "Converter: Moshi",
+    "description": "A Retrofit Converter which uses Moshi for serialization."
+   }
+  },
+  {
+   "id": 9,
+   "type": "implementation",
+   "installed_name": "okhttp3-logging",
+   "gpm_dep": {
+    "artifact_id": "logging-interceptor",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.okhttp3/logging-interceptor",
+    "get_from": "Central",
+    "group_id": "com.squareup.okhttp3",
+    "name": "OkHttp Logging Interceptor",
+    "description": "Square’s meticulous HTTP client for Java and Kotlin."
+   }
   }
  ]
 }

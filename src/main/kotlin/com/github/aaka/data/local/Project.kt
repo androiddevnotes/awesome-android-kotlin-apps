@@ -1,4 +1,4 @@
-package com.github.aaka.tasks.generate
+package com.github.aaka.data.local
 
 import com.squareup.moshi.JsonClass
 import com.squareup.moshi.Json
@@ -10,7 +10,7 @@ data class Project(
     @Json(name = "repo_url")
     val repoUrl: String, // https://github.com/PatilShreyas/NotyKT
     @Json(name = "description")
-    val description: String, // NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
+    val description: String?, // NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
     @Json(name = "owner")
     val owner: String, // PatilShreyas
     @Json(name = "owner_url")
