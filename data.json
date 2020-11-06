@@ -444,5 +444,73 @@
         "stack": "Koin, Retrofit, Room, Data Binding, Live Data, View Model, Work Manager, Material Components"
       }
     ]
+  },
+  {
+    "pattern": "MVI - Normal",
+    "projects": [
+      {
+        "github_url": "https://github.com/HadySalhab/NewsFeed-MVI-Dagger",
+        "stack": "Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/hoc081098/ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
+        "stack": "Koin, Coroutines, RxJava, Retrofit, Room, Firestore, Firebase Auth, Firebase Storage, WorkManager, Navigation, Paging, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/R4md4c/GameDealz",
+        "stack": "Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, acra, fastAdapter, Paging, JSoup, dropbox/Store, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/mitchtabian/Open-API-Android-App",
+        "stack": "Dagger, Coroutines, Retrofit, Room, Navigation, LiveData, ViewModel"
+      }
+    ]
+  },
+  {
+    "pattern": "MVI - Clean Architecture",
+    "projects": [
+      {
+        "github_url": "https://github.com/lopspower/CleanRxArchitecture",
+        "stack": "Dagger, RxJava, Retrofit, Room, Clean Architecture, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/mitchtabian/Clean-Notes",
+        "stack": "Dagger, Coroutines, Testing, Retrofit, Room, Firestore, Firebase Auth, Navigation, Markdown Processor, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/Ezike/Baking-App-Kotlin",
+        "stack": "Dagger hilt, Kotlin Coroutines & StateFlow, Unit Testing, Retrofit, DFM Navigation, FlowBinding, Exoplayer"
+      },
+      {
+        "github_url": "https://github.com/Ezike/MVI_UIComponents",
+        "stack": "Jetpack, Dagger hilt, Kotlin Coroutines & StateFlow, Room, Retrofit, FlowBinding"
+      }
+    ]
+  },
+  {
+    "pattern": "MVP",
+    "projects": [
+      {
+        "github_url": "https://github.com/inorichi/tachiyomi",
+        "stack": "Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor"
+      },
+      {
+        "github_url": "https://github.com/ImangazalievM/UTair-MVP-Sample",
+        "stack": "Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso)"
+      }
+    ]
+  },
+  {
+    "pattern": "Other",
+    "projects": [
+      {
+        "github_url": "https://github.com/shadowsocks/shadowsocks-android",
+        "stack": "Testing, Room,  Firebase Ads, WorkManager"
+      },
+      {
+        "github_url": "https://github.com/BijoySingh/Scarlet-Notes",
+        "stack": "Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric"
+      }
+    ]
   }
 ]

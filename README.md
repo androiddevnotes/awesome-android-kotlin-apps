@@ -80,95 +80,19 @@ $MVVM_CLEAN_ARCH_REPOS
 
 #### Normal
 
-- https://github.com/HadySalhab/NewsFeed-MVI-Dagger
-
-    - NewsFeed, provides live top and breaking headlines for a country, specific category in a country, single source, or multiple sources, by interacting to News API.
-
-    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel
-
-
-- https://github.com/hoc081098/ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack
-
-    - ⚡️Comic reader app 📘. Learning MVVM / MVI with 🌀 RxKotlin, Retrofit, Kotlin Coroutine, Work Manager, Room, Firebase ... ❄️
-
-    - Tech Stack = Koin, Coroutines, RxJava, Retrofit, Room, Firestore, Firebase Auth, Firebase Storage, WorkManager, Navigation, Paging, LiveData, ViewModel
-
-
-- https://github.com/R4md4c/GameDealz
-
-    - A non-official Android client for IsThereAnyDeal.com, it uses its API to retrieve/search for deals and compare prices.
-    
-    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, acra, fastAdapter, Paging, JSoup, dropbox/Store, LiveData, ViewModel
-
-
-- https://github.com/mitchtabian/Open-API-Android-App
-
-    - Application that interacts with the website open-api.xyz.
-
-    - Tech Stack = Dagger, Coroutines, Retrofit, Room, Navigation, LiveData, ViewModel
+$MVI_NORMAL_REPOS
 
 #### Clean Architecture
 
-- https://github.com/lopspower/CleanRxArchitecture
-
-    - Clean Rx Kotlin Architecture sample on GitHub Api 🚀
-
-    - Tech Stack = Dagger, RxJava, Retrofit, Room, Clean Architecture, LiveData, ViewModel
-
-
-- https://github.com/mitchtabian/Clean-Notes
-
-    - Android example with Clean Architecture by layer.
-
-    - Tech Stack = Dagger, Coroutines, Testing, Retrofit, Room, Firestore, Firebase Auth, Navigation, Markdown Processor, LiveData, ViewModel
-    
-
-- https://github.com/Ezike/Baking-App-Kotlin
-
-    - Android MVI clean architecture sample that shows a list of recipes, their ingredients and hands-on videos for making them.
-
-    - Tech Stack = Dagger hilt, Kotlin Coroutines & StateFlow, Unit Testing, Retrofit, DFM Navigation, FlowBinding, Exoplayer
-    
-
-- https://github.com/Ezike/MVI_UIComponents
-
-    - Android project showcasing the use of View components for rendering UI. 
-
-    - Tech Stack = Jetpack, Dagger hilt, Kotlin Coroutines & StateFlow, Room, Retrofit, FlowBinding 
-    
+$MVI_CLEAN_ARCH_REPOS
 
 ### MVP
 
-- https://github.com/inorichi/tachiyomi
-
-    - Tachiyomi is a free and open source manga reader for Android 5.0 and above.
-
-    - Tech Stack = Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor
-
-- https://github.com/ImangazalievM/UTair-MVP-Sample
-
-    - Android Clean Architecture + MVP Sample written in Kotlin
-
-    - Tech Stack = Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso)
-
+$MVP_REPOS
 
 ## Other
 
-- https://github.com/shadowsocks/shadowsocks-android
-
-    - A shadowsocks client for Android
-
-    - Tech Stack = Testing, Room,  Firebase Ads, WorkManager
-
-
-- https://github.com/BijoySingh/Scarlet-Notes
-
-    - Simple yet powerful rich note taking android application, with a lot of flexibilty of usage
-
-
-    - Tech Stack = Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric
-    
-   
+$OTHER_REPOS
 
 ## :books: Tech Stack/Libraries
 
