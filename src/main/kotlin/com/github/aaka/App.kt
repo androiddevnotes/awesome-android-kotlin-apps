@@ -76,6 +76,7 @@ class App {
 
                 tableBuilder.append(
                     """
+                    
                     | [${project.repo}](${project.repoUrl}) | [${project.owner}](${project.ownerUrl}) | ${project.description} \n ${project.stack} | 🌟 ${project.reputation.stars} </br> 🍴 ${project.reputation.fork} </br> 👁️ ${project.reputation.watchers}  |
                 """.trimIndent()
                 )
