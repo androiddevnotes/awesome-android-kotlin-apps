@@ -55,49 +55,49 @@
 
 ### Jetpack Compose Apps
 
-| Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
-|--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [awesome-jetpack-compose-android-apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps) | [androiddevnotes](https://github.com/androiddevnotes) | [Hacktoberfest] 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors. | 🌟 83 </br> 🍴 9 </br> 👁️ 1  |
+| Name                                             | Description 🗒️                                                                                                                                                  | Reputation 💪                |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| [awesome-jetpack-compose-android-apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps) | [Hacktoberfest] 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors. | 🌟 83 </br> 🍴 9 </br> 👁️ 1  |
 
 ### MVVM
 
 #### Normal
 
-| Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
-|--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [NotyKT](https://github.com/PatilShreyas/NotyKT) | [PatilShreyas](https://github.com/PatilShreyas) | 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.</br></br> <b>Tech Stack</b> : Backend - Ktor, PostgreSQL; Android  | 🌟 198 </br> 🍴 14 </br> 👁️ 9  |
+| Name                                             | Description 🗒️                                                                                                                                                  | Reputation 💪                |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| [NotyKT](https://github.com/PatilShreyas/NotyKT) | 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.</br></br> <b>Tech Stack</b> : Backend - Ktor, PostgreSQL; Android  | 🌟 198 </br> 🍴 14 </br> 👁️ 9  |
 
 #### Clean Architecture
 
-| Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
-|--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [Android-Clean-Architecture](https://github.com/happysingh23828/Android-Clean-Architecture) | [happysingh23828](https://github.com/happysingh23828) | This is a sample movie list Android application built to demonstrate use of Clean Architecture tools. Dedicated to all Android Developers - (Kotlin, MVVM, Clean Architecture, Rx-Java, Dagger, OkHttp, Unit Testing, SOLID principles, Code Coverage)</br></br> <b>Tech Stack</b> : Dagger, Unit Testing for modules, Mockito, RxJava, Retrofit, Room, CI-CD, SOLID, Code Coverage, Jacoco, Detekt, ktlint, Stetho, LiveData, ViewModel  | 🌟 56 </br> 🍴 11 </br> 👁️ 5  |
+| Name                                             | Description 🗒️                                                                                                                                                  | Reputation 💪                |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| [Android-Clean-Architecture](https://github.com/happysingh23828/Android-Clean-Architecture) | This is a sample movie list Android application built to demonstrate use of Clean Architecture tools. Dedicated to all Android Developers - (Kotlin, MVVM, Clean Architecture, Rx-Java, Dagger, OkHttp, Unit Testing, SOLID principles, Code Coverage)</br></br> <b>Tech Stack</b> : Dagger, Unit Testing for modules, Mockito, RxJava, Retrofit, Room, CI-CD, SOLID, Code Coverage, Jacoco, Detekt, ktlint, Stetho, LiveData, ViewModel  | 🌟 56 </br> 🍴 11 </br> 👁️ 5  |
 
 ### MVI
 
 #### Normal
 
-| Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
-|--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [NewsFeed-MVI-Dagger](https://github.com/HadySalhab/NewsFeed-MVI-Dagger) | [HadySalhab](https://github.com/HadySalhab) | Android News Application built in kotlin: MVI+Dagger+NetworkBoundResource+ViewModel+Livedata. </br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel  | 🌟 9 </br> 🍴 5 </br> 👁️ 1  |
+| Name                                             | Description 🗒️                                                                                                                                                  | Reputation 💪                |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| [NewsFeed-MVI-Dagger](https://github.com/HadySalhab/NewsFeed-MVI-Dagger) | Android News Application built in kotlin: MVI+Dagger+NetworkBoundResource+ViewModel+Livedata. </br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel  | 🌟 9 </br> 🍴 5 </br> 👁️ 1  |
 
 #### Clean Architecture
 
-| Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
-|--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture) | [lopspower](https://github.com/lopspower) | Clean Rx Kotlin Architecture sample on GitHub Api 🚀</br></br> <b>Tech Stack</b> : Dagger, RxJava, Retrofit, Room, Clean Architecture, LiveData, ViewModel  | 🌟 274 </br> 🍴 27 </br> 👁️ 14  |
+| Name                                             | Description 🗒️                                                                                                                                                  | Reputation 💪                |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| [CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture) | Clean Rx Kotlin Architecture sample on GitHub Api 🚀</br></br> <b>Tech Stack</b> : Dagger, RxJava, Retrofit, Room, Clean Architecture, LiveData, ViewModel  | 🌟 274 </br> 🍴 27 </br> 👁️ 14  |
 
 ### MVP
 
-| Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
-|--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [tachiyomi](https://github.com/inorichi/tachiyomi) | [inorichi](https://github.com/inorichi) | Free and open source manga reader for Android</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor  | 🌟 8952 </br> 🍴 1178 </br> 👁️ 431  |
+| Name                                             | Description 🗒️                                                                                                                                                  | Reputation 💪                |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| [tachiyomi](https://github.com/inorichi/tachiyomi) | Free and open source manga reader for Android</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor  | 🌟 8952 </br> 🍴 1178 </br> 👁️ 431  |
 
 ## Other
 
-| Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
-|--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | [shadowsocks](https://github.com/shadowsocks) | A shadowsocks client for Android</br></br> <b>Tech Stack</b> : Testing, Room,  Firebase Ads, WorkManager  | 🌟 30490 </br> 🍴 11284 </br> 👁️ 1652  |
+| Name                                             | Description 🗒️                                                                                                                                                  | Reputation 💪                |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | A shadowsocks client for Android</br></br> <b>Tech Stack</b> : Testing, Room,  Firebase Ads, WorkManager  | 🌟 30490 </br> 🍴 11284 </br> 👁️ 1652  |
 
 ## :books: Tech Stack/Libraries
 

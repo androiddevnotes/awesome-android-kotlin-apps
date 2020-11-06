@@ -17,8 +17,8 @@ object ReadMeGenerator {
         for (category in inputProjectCategories) {
             val tableBuilder = StringBuilder(
                 """
-                | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
-                |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+                | Name                                             | Description 🗒️                                                                                                                                                  | Reputation 💪                |
+                |--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
             """.trimIndent()
             )
             for (inputProject in category.inputProjects) {
@@ -38,7 +38,7 @@ object ReadMeGenerator {
                 tableBuilder.append(
                     """
                     
-                    | [${project.repo}](${project.repoUrl}) | [${project.owner}](${project.ownerUrl}) | $description | 🌟 ${project.reputation.stars} </br> 🍴 ${project.reputation.fork} </br> 👁️ ${project.reputation.watchers}  |
+                    | [${project.repo}](${project.repoUrl}) | $description | 🌟 ${project.reputation.stars} </br> 🍴 ${project.reputation.fork} </br> 👁️ ${project.reputation.watchers}  |
                 """.trimIndent()
                 )
             }
