@@ -51,7 +51,7 @@ class App {
 
         // Now let's go build the README.md
         val updatedReadMe = generateReadMe(inputProjectCategories, projectMap)
-        File("README.md").writeText(updatedReadMe)
+        readMeRepo.saveReadMe(updatedReadMe)
         println("Done!")
 
     }
@@ -72,12 +72,22 @@ class App {
             )
             for (inputProject in category.inputProjects) {
 
-                val project = projectMap[inputProject.githubUrl]!!
+                val project =
+                    projectMap[inputProject.githubUrl] ?: error("Couldn't find ${inputProject.githubUrl} in projectMap")
+
+                var description = ""
+                if (project.description != null) {
+                    description = project.description
+                }
+
+                if (project.stack != null) {
+                    description += "</br> <b>Tech Stack</b> : ${project.stack} "
+                }
 
                 tableBuilder.append(
                     """
                     
-                    | [${project.repo}](${project.repoUrl}) | [${project.owner}](${project.ownerUrl}) | ${project.description} \n ${project.stack} | 🌟 ${project.reputation.stars} </br> 🍴 ${project.reputation.fork} </br> 👁️ ${project.reputation.watchers}  |
+                    | [${project.repo}](${project.repoUrl}) | [${project.owner}](${project.ownerUrl}) | $description | 🌟 ${project.reputation.stars} </br> 🍴 ${project.reputation.fork} </br> 👁️ ${project.reputation.watchers}  |
                 """.trimIndent()
                 )
             }
@@ -89,7 +99,7 @@ class App {
     }
 
     /**
-     * To convert all projects into one single map
+     * To convert all projects into one single map with all details collected from GitHub API
      */
     private suspend fun getProjectsMap(inputProjectCategories: List<InputProjectCategory>): Map<String, Project> {
         val projectsMap = mutableMapOf<String, Project>()

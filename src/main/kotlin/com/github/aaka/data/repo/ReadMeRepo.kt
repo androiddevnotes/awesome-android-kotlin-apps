@@ -7,4 +7,8 @@ class ReadMeRepo @Inject constructor() {
     fun getReadMeModel(): String {
         return File("README.model.md").readText()
     }
+
+    fun saveReadMe(readMe: String) {
+        File("README.md").writeText(readMe)
+    }
 }
