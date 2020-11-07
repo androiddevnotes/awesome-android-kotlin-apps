@@ -948,6 +948,13 @@ If you contributed and are missing in this list, please send a PR including your
 
 <table>
     <tr>
+        <td align="center"><a href="https://github.com/KevinGitonga"><b>KevinGitonga</b></a></td>
+        <td align="center"><a href="https://github.com/HamdiBoumaiza"><b>HamdiBoumaiza</b></a></td>
+        <td align="center"><a href="https://github.com/Devansh-Maurya"><b>Devansh-Maurya</b></a></td>
+        <td align="center"><a href="https://github.com/Annie-Sultana"><b>Annie-Sultana</b></a></td>
+        <td align="center"><a href="https://github.com/iamsurajgiri"><b>iamsurajgiri</b></a></td>
+    </tr>
+    <tr>
         <td align="center"><a href="https://github.com/saifali25"><b>saifali25</b></a></td>
         <td align="center"><a href="https://github.com/Tristankluivert"><b>Tristankluivert</b></a></td>
         <td align="center"><a href="https://github.com/anacoimbrag"><b>anacoimbrag</b></a></td>
@@ -995,12 +1002,6 @@ If you contributed and are missing in this list, please send a PR including your
         <td align="center"><a href="https://github.com/Margu86"><b>Margu86</b></a></td>
         <td align="center"><a href="https://github.com/MageshVS"><b>MageshVS</b></a></td>
         <td align="center"><a href="https://github.com/KhaledSherifSayed"><b>KhaledSherifSayed</b></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/KevinGitonga"><b>KevinGitonga</b></a></td>
-        <td align="center"><a href="https://github.com/HamdiBoumaiza"><b>HamdiBoumaiza</b></a></td>
-        <td align="center"><a href="https://github.com/Devansh-Maurya"><b>Devansh-Maurya</b></a></td>
-        <td align="center"><a href="https://github.com/Annie-Sultana"><b>Annie-Sultana</b></a></td>
     </tr>
 </table>
 
