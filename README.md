@@ -938,6 +938,72 @@
 
 See [contributing.md](contributing.md)
 
+## Contributors
+
+Contributors are cool people.
+
+If you contributed and are missing in this list, please send a PR including your entry in the list below! 🐣
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/saifali25"><b>saifali25</b></a></td>
+        <td align="center"><a href="https://github.com/Tristankluivert"><b>Tristankluivert</b></a></td>
+        <td align="center"><a href="https://github.com/anacoimbrag"><b>anacoimbrag</b></a></td>
+        <td align="center"><a href="https://github.com/alpharomeo911"><b>alpharomeo911</b></a></td>
+        <td align="center"><a href="https://github.com/adityakamath16"><b>adityakamath16</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/ImangazalievM"><b>ImangazalievM</b></a></td>
+        <td align="center"><a href="https://github.com/Ezike"><b>Ezike</b></a></td>
+        <td align="center"><a href="https://github.com/viveksharma2382000"><b>viveksharma2382000</b></a></td>
+        <td align="center"><a href="https://github.com/sridevshenoy"><b>sridevshenoy</b></a></td>
+        <td align="center"><a href="https://github.com/satyamurti"><b>satyamurti</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/sansets"><b>sansets</b></a></td>
+        <td align="center"><a href="https://github.com/sanmiAde"><b>sanmiAde</b></a></td>
+        <td align="center"><a href="https://github.com/saif71"><b>saif71</b></a></td>
+        <td align="center"><a href="https://github.com/ryanrvldo"><b>ryanrvldo</b></a></td>
+        <td align="center"><a href="https://github.com/rizmaulana"><b>rizmaulana</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/pedrofsn"><b>pedrofsn</b></a></td>
+        <td align="center"><a href="https://github.com/odaridavid"><b>odaridavid</b></a></td>
+        <td align="center"><a href="https://github.com/ihilalahmad"><b>ihilalahmad</b></a></td>
+        <td align="center"><a href="https://github.com/igorescodro"><b>igorescodro</b></a></td>
+        <td align="center"><a href="https://github.com/happysingh23828"><b>happysingh23828</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/fionicholas"><b>fionicholas</b></a></td>
+        <td align="center"><a href="https://github.com/enginebai"><b>enginebai</b></a></td>
+        <td align="center"><a href="https://github.com/dheerajkotwani"><b>dheerajkotwani</b></a></td>
+        <td align="center"><a href="https://github.com/auron567"><b>auron567</b></a></td>
+        <td align="center"><a href="https://github.com/abhinav0612"><b>abhinav0612</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/YahiaAngelo"><b>YahiaAngelo</b></a></td>
+        <td align="center"><a href="https://github.com/VladimirWrites"><b>VladimirWrites</b></a></td>
+        <td align="center"><a href="https://github.com/Spikeysanju"><b>Spikeysanju</b></a></td>
+        <td align="center"><a href="https://github.com/SmartToolFactory"><b>SmartToolFactory</b></a></td>
+        <td align="center"><a href="https://github.com/Shivamdhuria"><b>Shivamdhuria</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/PatilShreyas"><b>PatilShreyas</b></a></td>
+        <td align="center"><a href="https://github.com/PHELAT"><b>PHELAT</b></a></td>
+        <td align="center"><a href="https://github.com/Margu86"><b>Margu86</b></a></td>
+        <td align="center"><a href="https://github.com/MageshVS"><b>MageshVS</b></a></td>
+        <td align="center"><a href="https://github.com/KhaledSherifSayed"><b>KhaledSherifSayed</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/KevinGitonga"><b>KevinGitonga</b></a></td>
+        <td align="center"><a href="https://github.com/HamdiBoumaiza"><b>HamdiBoumaiza</b></a></td>
+        <td align="center"><a href="https://github.com/Devansh-Maurya"><b>Devansh-Maurya</b></a></td>
+        <td align="center"><a href="https://github.com/Annie-Sultana"><b>Annie-Sultana</b></a></td>
+    </tr>
+</table>
+
+
+
 ## :computer: Find us on
 
 <div align="center">
