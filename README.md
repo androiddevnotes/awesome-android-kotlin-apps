@@ -908,11 +908,17 @@
 
 ## Other
 
+- https://github.com/DimaBrody/Screenaway
+
+    - Phone Screen Forced Locker
+
+    - Tech Stack = Room, Play Install Referrer Library
+
 - https://github.com/shadowsocks/shadowsocks-android
 
     - A shadowsocks client for Android
 
-    - Tech Stack = Testing, Room,  Firebase Ads, WorkManager
+    - Tech Stack = Testing, Room, Firebase Ads, WorkManager
 
 
 - https://github.com/BijoySingh/Scarlet-Notes
