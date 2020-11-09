@@ -20,11 +20,9 @@
 </p><br>
 
 
-
-
 **Awesome Android Kotlin Apps** aims to be the starting point for developers to find an Android app with a particular Tech Stack / Libraries.
 
-___Last updated : Mon Nov 09 20:08:20 UTC 2020___
+___Last updated : Mon Nov 09 20:10:22 UTC 2020___
 
 ## Contents
 
@@ -67,7 +65,7 @@ ___Last updated : Mon Nov 09 20:08:20 UTC 2020___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [Photos](https://github.com/SIKV/Photos) | [SIKV](https://github.com/SIKV) | </br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase-ML, Firebase-Analytics, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 40 minutes ago</i> | 🌟 20 </br> 🍴 3 </br> 👁️ 6  |
+| [Photos](https://github.com/SIKV/Photos) | [SIKV](https://github.com/SIKV) | </br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase-ML, Firebase-Analytics, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 42 minutes ago</i> | 🌟 20 </br> 🍴 3 </br> 👁️ 6  |
 | [fenix](https://github.com/mozilla-mobile/fenix) | [mozilla-mobile](https://github.com/mozilla-mobile) | Firefox for Android</br></br> <b>Tech Stack</b> : Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 1 hour ago</i> | 🌟 4262 </br> 🍴 630 </br> 👁️ 134  |
 | [Photosen](https://github.com/commonpepper/Photosen) | [commonpepper](https://github.com/commonpepper) | Android app for viewing and downloading Flickr photos.</br></br> <b>Tech Stack</b> : Retrofit, Room, Paging, LiveData, ViewModel </br></br> <i> Last commit: 7 hours ago</i> | 🌟 3 </br> 🍴 2 </br> 👁️ 0  |
 | [showly-2.0](https://github.com/michaldrabik/showly-2.0) | [michaldrabik](https://github.com/michaldrabik) | Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel </br></br> <i> Last commit: 7 hours ago</i> | 🌟 60 </br> 🍴 9 </br> 👁️ 7  |
@@ -116,7 +114,7 @@ ___Last updated : Mon Nov 09 20:08:20 UTC 2020___
 | [MovieCatalogue](https://github.com/ryanrvldo/MovieCatalogue) | [ryanrvldo](https://github.com/ryanrvldo) | </br></br> <b>Tech Stack</b> : MVVM, ViewModel, LiveData, Coroutines, Firebase Cloud Messaging, Retrofit, Room, Glide, Dagger Hilt, and Google Material. </br></br> <i> Last commit: 1 month ago</i> | 🌟 0 </br> 🍴 0 </br> 👁️ 1  |
 | [iosched](https://github.com/google/iosched) | [google](https://github.com/google) | The Google I/O 2019 Android App</br></br> <b>Tech Stack</b> : Dagger Hilt, Coroutines, Testing, Room, Firestore, Firebase Auth, Firebase Messaging, Firebase Functions, Navigation, ARCore, LiveData, ViewModel </br></br> <i> Last commit: 2 months ago</i> | 🌟 20202 </br> 🍴 6106 </br> 👁️ 1531  |
 | [Knote](https://github.com/Tristankluivert/Knote) | [Tristankluivert](https://github.com/Tristankluivert) | Knote is a standard note taking app</br></br> <b>Tech Stack</b> : ViewModel, Live Data, Koin, Room db, Coroutines etc </br></br> <i> Last commit: 2 months ago</i> | 🌟 2 </br> 🍴 0 </br> 👁️ 1  |
-| [topcorn](https://github.com/theapache64/topcorn) | [theapache64](https://github.com/theapache64) | A minimalistic movie listing app to browse IMDB's top 250 movies, built to demonstrate MVVM with latest hot-trending Android development tools.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel </br></br> <i> Last commit: 2 months ago</i> | 🌟 101 </br> 🍴 12 </br> 👁️ 8  |
+| [topcorn](https://github.com/theapache64/topcorn) | [theapache64](https://github.com/theapache64) | A minimalistic movie listing app to browse IMDB's top 250 movies, built to demonstrate MVVM with latest hot-trending Android development tools.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel </br></br> <i> Last commit: 2 months ago</i> | 🌟 100 </br> 🍴 12 </br> 👁️ 8  |
 | [TvFlix](https://github.com/reactivedroid/TvFlix) | [reactivedroid](https://github.com/reactivedroid) | TvFlix android app using Dagger Hilt, Coroutines, Jetpack(Room, ViewModel, Paging, LiveData) based on MVVM architecture purely written in Kotlin</br></br> <b>Tech Stack</b> : Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 2 months ago</i> | 🌟 234 </br> 🍴 42 </br> 👁️ 10  |
 | [Foodium](https://github.com/PatilShreyas/Foodium) | [PatilShreyas](https://github.com/PatilShreyas) |  🍲Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).</br></br> <b>Tech Stack</b> : Dagger Hilt, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel </br></br> <i> Last commit: 2 months ago</i> | 🌟 1530 </br> 🍴 230 </br> 👁️ 52  |
 | [hiya-hiya-hiya](https://github.com/utsmannn/hiya-hiya-hiya) | [utsmannn](https://github.com/utsmannn) | Whatsapp Clone base on Firebase Cloud Messaging</br></br> <b>Tech Stack</b> : Koin, Coroutines, Retrofit, Room, Firebase Messaging, Firebase Auth, WorkManager, Google Maps, Paging,  JSoup, vanniktech/Emoji, afollestad/inline-activity-result, LiveData, ViewModel </br></br> <i> Last commit: 2 months ago</i> | 🌟 118 </br> 🍴 22 </br> 👁️ 2  |
