@@ -22,7 +22,7 @@ jobs:
       - name: Create local changes
         run: java -jar awesome-android-kotlin-apps.main.jar
         env:
-          GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
+          GITHUB_ACCESS_TOKEN: ${{ secrets.THE_GITHUB_ACCESS_TOKEN }}
       - name: Commit files
         run: |
           git config --local user.email "theapache64@gmail.com"
@@ -31,4 +31,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_ACCESS_TOKEN }}
+          github_token: ${{ secrets.THE_GITHUB_ACCESS_TOKEN }}
