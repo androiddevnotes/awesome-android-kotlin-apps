@@ -12,7 +12,7 @@ data class InputProjectCategory(
     @Json(name = "pattern")
     val pattern: String, // Other
     @Json(name = "projects")
-    val inputProjects: List<InputProject>
+    var inputProjects: List<InputProject>
 ) {
     @JsonClass(generateAdapter = true)
     data class InputProject(

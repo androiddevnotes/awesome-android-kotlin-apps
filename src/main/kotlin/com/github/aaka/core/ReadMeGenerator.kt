@@ -7,12 +7,13 @@ import java.lang.StringBuilder
 
 object ReadMeGenerator {
     fun generateReadMe(
-        _readMeModel : String,
+        _readMeModel: String,
         inputProjectCategories: List<InputProjectCategory>,
         projectMap: Map<String, Project>
     ): String {
 
         var readMeModel = _readMeModel
+
 
         for (category in inputProjectCategories) {
             val tableBuilder = StringBuilder(
@@ -21,6 +22,11 @@ object ReadMeGenerator {
                 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
             """.trimIndent()
             )
+
+            // Sorting project by last commit
+            category.inputProjects =
+                category.inputProjects.sortedByDescending { projectMap[it.githubUrl]?.lastCommitInUtcMillis }
+
             for (inputProject in category.inputProjects) {
 
                 val project =
