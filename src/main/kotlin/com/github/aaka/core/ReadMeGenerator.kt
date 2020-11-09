@@ -42,7 +42,7 @@ object ReadMeGenerator {
                     description += "</br></br> <b>Tech Stack</b> : ${project.stack} "
                 }
 
-                description += "</br> <i> Last commit: ${DateTimeUtils.getRelativeTimeSpan(project.lastCommitInUtcMillis)}</i>"
+                description += "</br></br> <i> Last commit: ${DateTimeUtils.getRelativeTimeSpan(project.lastCommitInUtcMillis)}</i>"
 
                 tableBuilder.append(
                     """
