@@ -41,6 +41,8 @@ object ReadMeGenerator {
                     description += "</br></br> <b>Tech Stack</b> : ${project.stack} "
                 }
 
+                description += "</br> <i> Last commit: ${project.lastCommitInUtcMillis}</i>"
+
                 tableBuilder.append(
                     """
                     
