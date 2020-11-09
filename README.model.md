@@ -24,6 +24,8 @@
 
 **Awesome Android Kotlin Apps** aims to be the starting point for developers to find an Android app with a particular Tech Stack / Libraries.
 
+___Last updated : $LAST_UPDATED___
+
 ## Contents
 
 :art: [**Pattern**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#art-pattern)

@@ -5,8 +5,12 @@ import com.github.aaka.data.local.Project
 import com.github.aaka.data.repo.ReadMeRepo
 import com.github.aaka.utils.DateTimeUtils
 import java.lang.StringBuilder
+import java.util.*
 
 object ReadMeGenerator {
+
+    private const val KEY_LAST_UPDATED = "\$LAST_UPDATED"
+
     fun generateReadMe(
         _readMeModel: String,
         inputProjectCategories: List<InputProjectCategory>,
@@ -54,6 +58,9 @@ object ReadMeGenerator {
 
             readMeModel = readMeModel.replace(category.key, tableBuilder.toString())
         }
+
+        // Add last updated date
+        readMeModel = readMeModel.replace(KEY_LAST_UPDATED, Date().toString())
 
         return readMeModel
     }
