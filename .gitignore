@@ -151,3 +151,4 @@ gradle-app.setting
 
 # End of https://www.toptal.com/developers/gitignore/api/kotlin,intellij,gradle
 SecretConstants.kt
+!awesome-android-kotlin-apps.main.jar

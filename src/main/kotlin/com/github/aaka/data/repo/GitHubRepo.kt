@@ -9,7 +9,7 @@ class GitHubRepo @Inject constructor(
 ) {
 
     suspend fun getRepo(username: String, repoName: String): GetRepoResponse {
-        val githubToken = System.getenv("MOVIE_MONK_GITHUB_ACCESS_TOKEN")
+        val githubToken = System.getenv("GITHUB_ACCESS_TOKEN")
         return gitHubApi.getRepo(
             authToken = "token $githubToken",
             username = username,

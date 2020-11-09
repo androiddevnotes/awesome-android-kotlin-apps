@@ -22,7 +22,7 @@ object DateTimeUtils {
             return "Unknown"
         }
 
-        return PrettyTime(Locale.getDefault()).format(Date(lastCommitInUtcMillis))
+        return PrettyTime().format(Date(lastCommitInUtcMillis))
     }
 
     private val utcFormat = SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss", Locale.getDefault()).apply {

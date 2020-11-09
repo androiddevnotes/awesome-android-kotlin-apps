@@ -29,7 +29,7 @@ dependencies {
 	implementation 'com.squareup.retrofit2:retrofit:2.9.0'
 
     // Dagger
-    implementation 'com.google.dagger:dagger:2.27'
+    api 'com.google.dagger:dagger:2.27'
     kapt 'com.google.dagger:dagger-compiler:2.27'
 
 	// Kotlinx Coroutines Core:Coroutines support libraries for Kotlin

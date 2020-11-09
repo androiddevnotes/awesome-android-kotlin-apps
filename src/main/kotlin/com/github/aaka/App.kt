@@ -11,6 +11,7 @@ import com.github.aaka.utils.DateTimeUtils
 import kotlinx.coroutines.runBlocking
 import retrofit2.HttpException
 import javax.inject.Inject
+import kotlin.system.exitProcess
 
 fun main(args: Array<String>) = runBlocking {
     App().run()
@@ -53,6 +54,7 @@ class App {
         val updatedReadMe = ReadMeGenerator.generateReadMe(readMeModel, inputProjectCategories, projectMap)
         readMeRepo.saveReadMe(updatedReadMe)
         println("Done!")
+        exitProcess(0)
     }
 
 
