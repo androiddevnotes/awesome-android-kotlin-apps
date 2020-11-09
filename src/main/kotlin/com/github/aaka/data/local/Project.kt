@@ -17,6 +17,8 @@ data class Project(
     val ownerUrl: String, // https://github.com/PatilShreyas
     @Json(name = "reputation")
     val reputation: Reputation,
+    @Json(name = "lastCommitInUtcMillis")
+    val lastCommitInUtcMillis: Long?,
     @Json(name = "stack")
     val stack: String? // This is stack information
 ) {

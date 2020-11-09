@@ -7,6 +7,7 @@ import com.github.aaka.di.DaggerAppComponent
 import com.github.aaka.data.local.InputProjectCategory
 import com.github.aaka.data.local.Project
 import com.github.aaka.data.repo.ReadMeRepo
+import com.github.aaka.utils.DateTimeUtils
 import kotlinx.coroutines.runBlocking
 import retrofit2.HttpException
 import javax.inject.Inject
@@ -83,6 +84,7 @@ class App {
                             githubRepo.stargazersCount!!,
                             githubRepo.subscribersCount!!
                         ),
+                        DateTimeUtils.fromUtcToUtcMillis(githubRepo.updatedAt),
                         inputProject.stack
                     )
                     projectsMap[inputProject.githubUrl] = project
