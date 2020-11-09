@@ -84,7 +84,7 @@ class App {
                             githubRepo.stargazersCount!!,
                             githubRepo.subscribersCount!!
                         ),
-                        DateTimeUtils.fromUtcToUtcMillis(githubRepo.updatedAt),
+                        DateTimeUtils.fromUtcToUtcMillis(githubRepo.pushedAt),
                         inputProject.stack
                     )
                     projectsMap[inputProject.githubUrl] = project

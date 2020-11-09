@@ -1,5 +1,6 @@
 package com.github.aaka.utils
 
+import org.ocpsoft.prettytime.PrettyTime
 import java.text.SimpleDateFormat
 import java.util.*
 
@@ -21,10 +22,10 @@ object DateTimeUtils {
             return "Unknown"
         }
 
-        return TimeAgo.toDuration(lastCommitInUtcMillis)
+        return PrettyTime(Locale.getDefault()).format(Date(lastCommitInUtcMillis))
     }
 
-    private val utcFormat = SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss", Locale.ENGLISH).apply {
+    private val utcFormat = SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss", Locale.getDefault()).apply {
         timeZone = TimeZone.getTimeZone("UTC")
     }
 }

@@ -125,6 +125,20 @@
     "name": "OkHttp Logging Interceptor",
     "description": "Square’s meticulous HTTP client for Java and Kotlin."
    }
+  },
+  {
+   "id": 10,
+   "type": "implementation",
+   "installed_name": "prettytime",
+   "gpm_dep": {
+    "artifact_id": "prettytime",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/org.ocpsoft.prettytime/prettytime",
+    "get_from": "Central",
+    "group_id": "org.ocpsoft.prettytime",
+    "name": "PrettyTime Core",
+    "description": "PrettyTime Core"
+   }
   }
  ]
 }

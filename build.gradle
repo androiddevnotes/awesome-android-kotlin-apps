@@ -40,6 +40,9 @@ dependencies {
 
 	// OkHttp Logging Interceptor:Square’s meticulous HTTP client for Java and Kotlin.
 	implementation 'com.squareup.okhttp3:logging-interceptor:4.10.0-RC1'
+
+	// PrettyTime Core:PrettyTime Core
+	implementation 'org.ocpsoft.prettytime:prettytime:4.0.6.Final'
 }
 
 compileKotlin {
