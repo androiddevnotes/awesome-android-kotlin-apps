@@ -3,6 +3,7 @@ package com.github.aaka.core
 import com.github.aaka.data.local.InputProjectCategory
 import com.github.aaka.data.local.Project
 import com.github.aaka.data.repo.ReadMeRepo
+import com.github.aaka.utils.DateTimeUtils
 import java.lang.StringBuilder
 
 object ReadMeGenerator {
@@ -41,7 +42,7 @@ object ReadMeGenerator {
                     description += "</br></br> <b>Tech Stack</b> : ${project.stack} "
                 }
 
-                description += "</br> <i> Last commit: ${project.lastCommitInUtcMillis}</i>"
+                description += "</br> <i> Last commit: ${DateTimeUtils.getRelativeTimeSpan(project.lastCommitInUtcMillis)}</i>"
 
                 tableBuilder.append(
                     """
