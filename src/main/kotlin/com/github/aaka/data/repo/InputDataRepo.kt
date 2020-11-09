@@ -19,7 +19,7 @@ class InputDataRepo @Inject constructor(
         val dataItemListType = Types.newParameterizedType(List::class.java, InputProjectCategory::class.java)
         val inputDataAdapter = moshi.adapter<List<InputProjectCategory>>(dataItemListType)
         return inputDataAdapter.fromJson(dataJson)!!
-            .map {
+            /*.map {
                 it.copy(
                     inputProjects = if (it.inputProjects.size > 5) {
                         it.inputProjects.subList(0, 3)
@@ -27,6 +27,6 @@ class InputDataRepo @Inject constructor(
                         it.inputProjects.subList(0, 1)
                     }
                 )
-            }
+            }*/
     }
 }
