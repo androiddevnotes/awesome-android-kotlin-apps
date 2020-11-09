@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="awesome-android-kotlin-apps.main:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/awesome_android_kotlin_apps_main_jar</output-path>
+    <output-path>$PROJECT_DIR$</output-path>
     <root id="archive" name="awesome-android-kotlin-apps.main.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
