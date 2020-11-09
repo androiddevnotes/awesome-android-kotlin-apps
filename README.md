@@ -910,6 +910,12 @@
 
 ## Other
 
+- https://github.com/Shyguy99/Insider
+
+    - An app to hide text data in a image implementing Steganography with AES algorithm
+
+    - Tech Stack = Kotlin
+
 - https://github.com/DimaBrody/Screenaway
 
     - Phone Screen Forced Locker
@@ -926,7 +932,6 @@
 - https://github.com/BijoySingh/Scarlet-Notes
 
     - Simple yet powerful rich note taking android application, with a lot of flexibilty of usage
-
 
     - Tech Stack = Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric
     
