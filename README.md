@@ -22,7 +22,7 @@
 
 **Awesome Android Kotlin Apps** aims to be the starting point for developers to find an Android app with a particular Tech Stack / Libraries.
 
-___🔃 Last updated : Tue Nov 10 18:04:12 UTC 2020___
+___🔃 Last updated : Tue Nov 10 18:11:15 UTC 2020___
 
 ## Contents
 
@@ -65,8 +65,8 @@ ___🔃 Last updated : Tue Nov 10 18:04:12 UTC 2020___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [droidconKE2020App](https://github.com/droidconKE/droidconKE2020App) | [droidconKE](https://github.com/droidconKE) | Android app fully written in Kotlin for droidconKE2020</br></br> <b>Tech Stack</b> : Koin, Coroutines, Testing, Retrofit, Room,  Google Auth, Data Binding, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 32 minutes ago</i> | 🌟 81 </br> 🍴 35 </br> 👁️ 14  |
-| [habitica-android](https://github.com/HabitRPG/habitica-android) | [HabitRPG](https://github.com/HabitRPG) | Native Android app for Habitica</br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout, LiveData, ViewModel </br></br> <i> Last commit: 40 minutes ago</i> | 🌟 803 </br> 🍴 368 </br> 👁️ 60  |
+| [droidconKE2020App](https://github.com/droidconKE/droidconKE2020App) | [droidconKE](https://github.com/droidconKE) | Android app fully written in Kotlin for droidconKE2020</br></br> <b>Tech Stack</b> : Koin, Coroutines, Testing, Retrofit, Room,  Google Auth, Data Binding, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 39 minutes ago</i> | 🌟 81 </br> 🍴 35 </br> 👁️ 14  |
+| [habitica-android](https://github.com/HabitRPG/habitica-android) | [HabitRPG](https://github.com/HabitRPG) | Native Android app for Habitica</br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout, LiveData, ViewModel </br></br> <i> Last commit: 47 minutes ago</i> | 🌟 803 </br> 🍴 368 </br> 👁️ 60  |
 | [fenix](https://github.com/mozilla-mobile/fenix) | [mozilla-mobile](https://github.com/mozilla-mobile) | Firefox for Android</br></br> <b>Tech Stack</b> : Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 2 hours ago</i> | 🌟 4266 </br> 🍴 633 </br> 👁️ 133  |
 | [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App) | [TheCodeMonks](https://github.com/TheCodeMonks) | 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥</br></br> <b>Tech Stack</b> : Coroutines, Room, JSoup, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 2 hours ago</i> | 🌟 132 </br> 🍴 21 </br> 👁️ 0  |
 | [showly-2.0](https://github.com/michaldrabik/showly-2.0) | [michaldrabik](https://github.com/michaldrabik) | Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel </br></br> <i> Last commit: 4 hours ago</i> | 🌟 61 </br> 🍴 9 </br> 👁️ 7  |
@@ -202,7 +202,7 @@ ___🔃 Last updated : Tue Nov 10 18:04:12 UTC 2020___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [tachiyomi](https://github.com/inorichi/tachiyomi) | [inorichi](https://github.com/inorichi) | Free and open source manga reader for Android</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor </br></br> <i> Last commit: 35 minutes ago</i> | 🌟 8978 </br> 🍴 1183 </br> 👁️ 431  |
+| [tachiyomi](https://github.com/inorichi/tachiyomi) | [inorichi](https://github.com/inorichi) | Free and open source manga reader for Android</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor </br></br> <i> Last commit: 42 minutes ago</i> | 🌟 8978 </br> 🍴 1183 </br> 👁️ 431  |
 | [UTair-MVP-Sample](https://github.com/ImangazalievM/UTair-MVP-Sample) | [ImangazalievM](https://github.com/ImangazalievM) | Android Clean Architecture + MVP Sample written in Kotlin</br></br> <b>Tech Stack</b> : Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso) </br></br> <i> Last commit: 2 months ago</i> | 🌟 25 </br> 🍴 1 </br> 👁️ 3  |
 
 ## Other
@@ -211,6 +211,7 @@ ___🔃 Last updated : Tue Nov 10 18:04:12 UTC 2020___
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | [shadowsocks](https://github.com/shadowsocks) | A shadowsocks client for Android</br></br> <b>Tech Stack</b> : Testing, Room,  Firebase Ads, WorkManager </br></br> <i> Last commit: 2 days ago</i> | 🌟 30520 </br> 🍴 11289 </br> 👁️ 1653  |
 | [Scarlet-Notes](https://github.com/BijoySingh/Scarlet-Notes) | [BijoySingh](https://github.com/BijoySingh) | Simple yet powerful rich note taking android application, with a lot of flexibilty of usage</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric </br></br> <i> Last commit: 1 month ago</i> | 🌟 275 </br> 🍴 89 </br> 👁️ 18  |
+| [Screenaway](https://github.com/DimaBrody/Screenaway) | [DimaBrody](https://github.com/DimaBrody) | Phone Screen Forced Locker</br></br> <b>Tech Stack</b> : Room, Play Install Referrer Library </br></br> <i> Last commit: 2 months ago</i> | 🌟 8 </br> 🍴 1 </br> 👁️ 1  |
 
 ## :books: Tech Stack/Libraries
 
@@ -219,6 +220,71 @@ ___🔃 Last updated : Tue Nov 10 18:04:12 UTC 2020___
 ## :memo: Contributing
 
 See [contributing.md](contributing.md)
+
+## Contributors
+
+Contributors are cool people.
+
+If you contributed and are missing in this list, please send a PR including your entry in the list below! 🐣
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/KevinGitonga"><b>KevinGitonga</b></a></td>
+        <td align="center"><a href="https://github.com/HamdiBoumaiza"><b>HamdiBoumaiza</b></a></td>
+        <td align="center"><a href="https://github.com/Devansh-Maurya"><b>Devansh-Maurya</b></a></td>
+        <td align="center"><a href="https://github.com/Annie-Sultana"><b>Annie-Sultana</b></a></td>
+        <td align="center"><a href="https://github.com/iamsurajgiri"><b>iamsurajgiri</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/saifali25"><b>saifali25</b></a></td>
+        <td align="center"><a href="https://github.com/Tristankluivert"><b>Tristankluivert</b></a></td>
+        <td align="center"><a href="https://github.com/anacoimbrag"><b>anacoimbrag</b></a></td>
+        <td align="center"><a href="https://github.com/alpharomeo911"><b>alpharomeo911</b></a></td>
+        <td align="center"><a href="https://github.com/adityakamath16"><b>adityakamath16</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/ImangazalievM"><b>ImangazalievM</b></a></td>
+        <td align="center"><a href="https://github.com/Ezike"><b>Ezike</b></a></td>
+        <td align="center"><a href="https://github.com/viveksharma2382000"><b>viveksharma2382000</b></a></td>
+        <td align="center"><a href="https://github.com/sridevshenoy"><b>sridevshenoy</b></a></td>
+        <td align="center"><a href="https://github.com/satyamurti"><b>satyamurti</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/sansets"><b>sansets</b></a></td>
+        <td align="center"><a href="https://github.com/sanmiAde"><b>sanmiAde</b></a></td>
+        <td align="center"><a href="https://github.com/saif71"><b>saif71</b></a></td>
+        <td align="center"><a href="https://github.com/ryanrvldo"><b>ryanrvldo</b></a></td>
+        <td align="center"><a href="https://github.com/rizmaulana"><b>rizmaulana</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/pedrofsn"><b>pedrofsn</b></a></td>
+        <td align="center"><a href="https://github.com/odaridavid"><b>odaridavid</b></a></td>
+        <td align="center"><a href="https://github.com/ihilalahmad"><b>ihilalahmad</b></a></td>
+        <td align="center"><a href="https://github.com/igorescodro"><b>igorescodro</b></a></td>
+        <td align="center"><a href="https://github.com/happysingh23828"><b>happysingh23828</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/fionicholas"><b>fionicholas</b></a></td>
+        <td align="center"><a href="https://github.com/enginebai"><b>enginebai</b></a></td>
+        <td align="center"><a href="https://github.com/dheerajkotwani"><b>dheerajkotwani</b></a></td>
+        <td align="center"><a href="https://github.com/auron567"><b>auron567</b></a></td>
+        <td align="center"><a href="https://github.com/abhinav0612"><b>abhinav0612</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/YahiaAngelo"><b>YahiaAngelo</b></a></td>
+        <td align="center"><a href="https://github.com/VladimirWrites"><b>VladimirWrites</b></a></td>
+        <td align="center"><a href="https://github.com/Spikeysanju"><b>Spikeysanju</b></a></td>
+        <td align="center"><a href="https://github.com/SmartToolFactory"><b>SmartToolFactory</b></a></td>
+        <td align="center"><a href="https://github.com/Shivamdhuria"><b>Shivamdhuria</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/PatilShreyas"><b>PatilShreyas</b></a></td>
+        <td align="center"><a href="https://github.com/PHELAT"><b>PHELAT</b></a></td>
+        <td align="center"><a href="https://github.com/Margu86"><b>Margu86</b></a></td>
+        <td align="center"><a href="https://github.com/MageshVS"><b>MageshVS</b></a></td>
+        <td align="center"><a href="https://github.com/KhaledSherifSayed"><b>KhaledSherifSayed</b></a></td>
+    </tr>
+</table>
 
 ## :computer: Find us on
 
