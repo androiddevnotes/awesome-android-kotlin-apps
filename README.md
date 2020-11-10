@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/120?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/110?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -22,7 +22,7 @@
 
 **Awesome Android Kotlin Apps** aims to be the starting point for developers to find an Android app with a particular Tech Stack / Libraries.
 
-___🔃 Last updated : Tue Nov 10 19:08:25 UTC 2020___
+___🔃 Last updated : Tue Nov 10 19:11:36 UTC 2020___
 
 ## Contents
 
@@ -65,9 +65,9 @@ ___🔃 Last updated : Tue Nov 10 19:08:25 UTC 2020___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App) | [TheCodeMonks](https://github.com/TheCodeMonks) | 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥</br></br> <b>Tech Stack</b> : Coroutines, Room, JSoup, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 8 minutes ago</i> | 🌟 132 </br> 🍴 21 </br> 👁️ 0  |
-| [showly-2.0](https://github.com/michaldrabik/showly-2.0) | [michaldrabik](https://github.com/michaldrabik) | Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel </br></br> <i> Last commit: 40 minutes ago</i> | 🌟 61 </br> 🍴 9 </br> 👁️ 7  |
-| [fenix](https://github.com/mozilla-mobile/fenix) | [mozilla-mobile](https://github.com/mozilla-mobile) | Firefox for Android</br></br> <b>Tech Stack</b> : Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 48 minutes ago</i> | 🌟 4266 </br> 🍴 633 </br> 👁️ 133  |
+| [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App) | [TheCodeMonks](https://github.com/TheCodeMonks) | 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥</br></br> <b>Tech Stack</b> : Coroutines, Room, JSoup, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 11 minutes ago</i> | 🌟 132 </br> 🍴 21 </br> 👁️ 0  |
+| [showly-2.0](https://github.com/michaldrabik/showly-2.0) | [michaldrabik](https://github.com/michaldrabik) | Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel </br></br> <i> Last commit: 43 minutes ago</i> | 🌟 61 </br> 🍴 9 </br> 👁️ 7  |
+| [fenix](https://github.com/mozilla-mobile/fenix) | [mozilla-mobile](https://github.com/mozilla-mobile) | Firefox for Android</br></br> <b>Tech Stack</b> : Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 51 minutes ago</i> | 🌟 4266 </br> 🍴 633 </br> 👁️ 133  |
 | [droidconKE2020App](https://github.com/droidconKE/droidconKE2020App) | [droidconKE](https://github.com/droidconKE) | Android app fully written in Kotlin for droidconKE2020</br></br> <b>Tech Stack</b> : Koin, Coroutines, Testing, Retrofit, Room,  Google Auth, Data Binding, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 2 hours ago</i> | 🌟 81 </br> 🍴 35 </br> 👁️ 14  |
 | [habitica-android](https://github.com/HabitRPG/habitica-android) | [HabitRPG](https://github.com/HabitRPG) | Native Android app for Habitica</br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout, LiveData, ViewModel </br></br> <i> Last commit: 2 hours ago</i> | 🌟 803 </br> 🍴 368 </br> 👁️ 60  |
 | [Updoot](https://github.com/adityam49/Updoot) | [adityam49](https://github.com/adityam49) | A reddit client built for android </br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, WorkManager, Data Binding, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 7 hours ago</i> | 🌟 10 </br> 🍴 2 </br> 👁️ 3  |
