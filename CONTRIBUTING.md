@@ -6,7 +6,7 @@
 
   - Explain what the PR fixes or improves.
 
-  - If your PR aims to add a new app to list, specify the tech stack and explain why is it worth to include via [raising an issue here](https://github.com/androiddevnotes/awesome-android-kotlin-apps/issues/new?title=Add%20New%20Repo&body=**Repo%20UR**:%20REPO_URL_GOES_HERE%20**Tech%20Stack**:%20TECH_STACK_GOES_HERE&label=new-repo)
+- If you aim to add a new app to list, specify the tech stack and explain why is it worth to include via [raising an issue here](https://github.com/androiddevnotes/awesome-android-kotlin-apps/issues/new?title=Add%20New%20Repo&body=**Repo%20UR**:%20REPO_URL_GOES_HERE%20**Tech%20Stack**:%20TECH_STACK_GOES_HERE&label=new-repo)
   
   
 - Use sensible commit messages
