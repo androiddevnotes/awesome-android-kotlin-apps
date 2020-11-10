@@ -219,7 +219,7 @@ ___🔃 Last updated : Tue Nov 10 18:53:09 UTC 2020___
 
 ## :moyai: Core Contributors
 
-- [theapache64](https://github.com/theapache64) automated this repo and designed a beautiful layout for awesome-android-kotlin-apps.
+- [theapache64](https://github.com/theapache64) [automated this repo](https://github.com/androiddevnotes/awesome-android-kotlin-apps/pull/51) and designed a beautiful layout for awesome-android-kotlin-apps.
 
 ## :memo: Contributing
 
