@@ -221,10 +221,6 @@ ___🔃 Last updated : Tue Nov 10 19:15:12 UTC 2020___
 
 See [contributing.md](CONTRIBUTING.md)
 
-## :moyai: Core Contributors
-
-- [@theapache64](https://github.com/theapache64) [automated this repo](https://github.com/androiddevnotes/awesome-android-kotlin-apps/pull/51) and designed a beautiful layout for awesome-android-kotlin-apps.
-
 ## Contributors
 
 Contributors are cool people.
