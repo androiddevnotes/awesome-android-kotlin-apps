@@ -22,7 +22,7 @@
 
 **Awesome Android Kotlin Apps** aims to be the starting point for developers to find an Android app with a particular Tech Stack / Libraries.
 
-___🔃 Last updated : Tue Nov 10 18:11:15 UTC 2020___
+___🔃 Last updated : Tue Nov 10 18:13:21 UTC 2020___
 
 ## Contents
 
@@ -65,8 +65,8 @@ ___🔃 Last updated : Tue Nov 10 18:11:15 UTC 2020___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [droidconKE2020App](https://github.com/droidconKE/droidconKE2020App) | [droidconKE](https://github.com/droidconKE) | Android app fully written in Kotlin for droidconKE2020</br></br> <b>Tech Stack</b> : Koin, Coroutines, Testing, Retrofit, Room,  Google Auth, Data Binding, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 39 minutes ago</i> | 🌟 81 </br> 🍴 35 </br> 👁️ 14  |
-| [habitica-android](https://github.com/HabitRPG/habitica-android) | [HabitRPG](https://github.com/HabitRPG) | Native Android app for Habitica</br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout, LiveData, ViewModel </br></br> <i> Last commit: 47 minutes ago</i> | 🌟 803 </br> 🍴 368 </br> 👁️ 60  |
+| [droidconKE2020App](https://github.com/droidconKE/droidconKE2020App) | [droidconKE](https://github.com/droidconKE) | Android app fully written in Kotlin for droidconKE2020</br></br> <b>Tech Stack</b> : Koin, Coroutines, Testing, Retrofit, Room,  Google Auth, Data Binding, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 41 minutes ago</i> | 🌟 81 </br> 🍴 35 </br> 👁️ 14  |
+| [habitica-android](https://github.com/HabitRPG/habitica-android) | [HabitRPG](https://github.com/HabitRPG) | Native Android app for Habitica</br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout, LiveData, ViewModel </br></br> <i> Last commit: 49 minutes ago</i> | 🌟 803 </br> 🍴 368 </br> 👁️ 60  |
 | [fenix](https://github.com/mozilla-mobile/fenix) | [mozilla-mobile](https://github.com/mozilla-mobile) | Firefox for Android</br></br> <b>Tech Stack</b> : Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 2 hours ago</i> | 🌟 4266 </br> 🍴 633 </br> 👁️ 133  |
 | [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App) | [TheCodeMonks](https://github.com/TheCodeMonks) | 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥</br></br> <b>Tech Stack</b> : Coroutines, Room, JSoup, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 2 hours ago</i> | 🌟 132 </br> 🍴 21 </br> 👁️ 0  |
 | [showly-2.0](https://github.com/michaldrabik/showly-2.0) | [michaldrabik](https://github.com/michaldrabik) | Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel </br></br> <i> Last commit: 4 hours ago</i> | 🌟 61 </br> 🍴 9 </br> 👁️ 7  |
@@ -202,7 +202,7 @@ ___🔃 Last updated : Tue Nov 10 18:11:15 UTC 2020___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [tachiyomi](https://github.com/inorichi/tachiyomi) | [inorichi](https://github.com/inorichi) | Free and open source manga reader for Android</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor </br></br> <i> Last commit: 42 minutes ago</i> | 🌟 8978 </br> 🍴 1183 </br> 👁️ 431  |
+| [tachiyomi](https://github.com/inorichi/tachiyomi) | [inorichi](https://github.com/inorichi) | Free and open source manga reader for Android</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor </br></br> <i> Last commit: 44 minutes ago</i> | 🌟 8978 </br> 🍴 1183 </br> 👁️ 431  |
 | [UTair-MVP-Sample](https://github.com/ImangazalievM/UTair-MVP-Sample) | [ImangazalievM](https://github.com/ImangazalievM) | Android Clean Architecture + MVP Sample written in Kotlin</br></br> <b>Tech Stack</b> : Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso) </br></br> <i> Last commit: 2 months ago</i> | 🌟 25 </br> 🍴 1 </br> 👁️ 3  |
 
 ## Other
