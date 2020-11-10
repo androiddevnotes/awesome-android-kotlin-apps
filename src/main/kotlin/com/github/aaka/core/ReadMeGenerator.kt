@@ -10,6 +10,7 @@ import java.util.*
 object ReadMeGenerator {
 
     private const val KEY_LAST_UPDATED = "\$LAST_UPDATED"
+    private const val KEY_APPS_COUNT = "\$APPS_COUNT"
 
     fun generateReadMe(
         _readMeModel: String,
@@ -51,7 +52,12 @@ object ReadMeGenerator {
                 tableBuilder.append(
                     """
                     
-                    | [${project.repo}](${project.repoUrl}) | [${project.owner}](${project.ownerUrl}) | $description | 🌟 ${project.reputation.stars} </br> 🍴 ${project.reputation.fork} </br> 👁️ ${project.reputation.watchers}  |
+                    | [${
+                        project.repo.replace(
+                            "_",
+                            "-"
+                        )
+                    }](${project.repoUrl}) | [${project.owner}](${project.ownerUrl}) | $description | 🌟 ${project.reputation.stars} </br> 🍴 ${project.reputation.fork} </br> 👁️ ${project.reputation.watchers}  |
                 """.trimIndent()
                 )
             }
@@ -61,6 +67,9 @@ object ReadMeGenerator {
 
         // Add last updated date
         readMeModel = readMeModel.replace(KEY_LAST_UPDATED, Date().toString())
+
+        // Update total apps count
+        readMeModel = readMeModel.replace(KEY_APPS_COUNT, projectMap.size.toString())
 
         return readMeModel
     }
