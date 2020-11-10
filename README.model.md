@@ -91,7 +91,7 @@ $OTHER_REPOS
 
 ## :memo: Contributing
 
-See [contributing.md](contributing.md)
+See [contributing.md](CONTRIBUTING.md)
 
 ## Contributors
 

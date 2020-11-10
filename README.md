@@ -218,7 +218,7 @@ ___🔃 Last updated : Tue Nov 10 18:04:12 UTC 2020___
 
 ## :memo: Contributing
 
-See [contributing.md](contributing.md)
+See [contributing.md](CONTRIBUTING.md)
 
 ## :computer: Find us on
 

@@ -25,8 +25,8 @@ jobs:
           GITHUB_ACCESS_TOKEN: ${{ secrets.THE_GITHUB_ACCESS_TOKEN }}
       - name: Commit files
         run: |
-          git config --local user.email "theapache64@gmail.com"
-          git config --local user.name "theapache64"
+          git config --local user.email "theapache64-bot@gmail.com"
+          git config --local user.name "theapache64-bot"
           git commit -m "🚀 UPDATE README!" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
