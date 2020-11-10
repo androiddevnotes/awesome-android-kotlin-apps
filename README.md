@@ -22,7 +22,7 @@
 
 **Awesome Android Kotlin Apps** aims to be the starting point for developers to find an Android app with a particular Tech Stack / Libraries.
 
-___🔃 Last updated : Tue Nov 10 19:22:55 UTC 2020___
+___🔃 Last updated : Tue Nov 10 19:25:49 UTC 2020___
 
 ## Contents
 
@@ -65,9 +65,9 @@ ___🔃 Last updated : Tue Nov 10 19:22:55 UTC 2020___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [Photos](https://github.com/SIKV/Photos) | [SIKV](https://github.com/SIKV) | </br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase-ML, Firebase-Analytics, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 1 minute ago</i> | 🌟 22 </br> 🍴 3 </br> 👁️ 6  |
-| [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App) | [TheCodeMonks](https://github.com/TheCodeMonks) | 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥</br></br> <b>Tech Stack</b> : Coroutines, Room, JSoup, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 22 minutes ago</i> | 🌟 132 </br> 🍴 21 </br> 👁️ 0  |
-| [showly-2.0](https://github.com/michaldrabik/showly-2.0) | [michaldrabik](https://github.com/michaldrabik) | Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel </br></br> <i> Last commit: 54 minutes ago</i> | 🌟 61 </br> 🍴 9 </br> 👁️ 7  |
+| [Photos](https://github.com/SIKV/Photos) | [SIKV](https://github.com/SIKV) | </br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Testing, Retrofit, Room, Firestore, Firebase-ML, Firebase-Analytics, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 4 minutes ago</i> | 🌟 22 </br> 🍴 3 </br> 👁️ 6  |
+| [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App) | [TheCodeMonks](https://github.com/TheCodeMonks) | 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥</br></br> <b>Tech Stack</b> : Coroutines, Room, JSoup, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 25 minutes ago</i> | 🌟 132 </br> 🍴 21 </br> 👁️ 0  |
+| [showly-2.0](https://github.com/michaldrabik/showly-2.0) | [michaldrabik](https://github.com/michaldrabik) | Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel </br></br> <i> Last commit: 57 minutes ago</i> | 🌟 61 </br> 🍴 9 </br> 👁️ 7  |
 | [fenix](https://github.com/mozilla-mobile/fenix) | [mozilla-mobile](https://github.com/mozilla-mobile) | Firefox for Android</br></br> <b>Tech Stack</b> : Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 1 hour ago</i> | 🌟 4266 </br> 🍴 633 </br> 👁️ 133  |
 | [droidconKE2020App](https://github.com/droidconKE/droidconKE2020App) | [droidconKE](https://github.com/droidconKE) | Android app fully written in Kotlin for droidconKE2020</br></br> <b>Tech Stack</b> : Koin, Coroutines, Testing, Retrofit, Room,  Google Auth, Data Binding, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 2 hours ago</i> | 🌟 81 </br> 🍴 35 </br> 👁️ 14  |
 | [habitica-android](https://github.com/HabitRPG/habitica-android) | [HabitRPG](https://github.com/HabitRPG) | Native Android app for Habitica</br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout, LiveData, ViewModel </br></br> <i> Last commit: 2 hours ago</i> | 🌟 803 </br> 🍴 368 </br> 👁️ 60  |
@@ -225,7 +225,7 @@ See [contributing.md](CONTRIBUTING.md)
 
 - [@theapache64](https://github.com/theapache64) [automated this repo](https://github.com/androiddevnotes/awesome-android-kotlin-apps/pull/51) and designed a beautiful layout for awesome-android-kotlin-apps.
 
-## Contributors
+## :hatching_chick: Contributors
 
 Contributors are cool people.
 
