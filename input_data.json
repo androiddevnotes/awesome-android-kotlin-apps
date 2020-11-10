@@ -515,6 +515,10 @@
         "stack": "Testing, Room,  Firebase Ads, WorkManager"
       },
       {
+        "github_url": "https://github.com/DimaBrody/Screenaway",
+        "stack": "Room, Play Install Referrer Library"
+      },
+      {
         "github_url": "https://github.com/BijoySingh/Scarlet-Notes",
         "stack": "Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric"
       }
