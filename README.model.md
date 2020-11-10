@@ -26,29 +26,31 @@ ___🔃 Last updated : $LAST_UPDATED___
 
 ## Contents
 
-:art: [**Pattern**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#art-pattern)
+:art: [**Pattern**](#art-pattern)
 
 
-- [Jetpack Compose Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps#jetpack-compose-apps)
+- [Jetpack Compose Apps](#jetpack-compose-apps)
 
-- [Model View ViewModel (MVVM)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvvm)
+- [Model View ViewModel (MVVM)](#mvvm)
 
-    - [Normal](https://github.com/androiddevnotes/awesome-android-kotlin-apps#normal)
-    - [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#clean-architecture)
+    - [Normal](#normal)
+    - [Clean Architecture](#clean-architecture)
 
-- [Model View Intent (MVI)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvi)
+- [Model View Intent (MVI)](#mvi)
 
-    - [Normal](https://github.com/androiddevnotes/awesome-android-kotlin-apps#normal-1)
-    - [Clean Architecture](https://github.com/androiddevnotes/awesome-android-kotlin-apps#clean-architecture-1)
+    - [Normal](#normal-1)
+    - [Clean Architecture](#clean-architecture-1)
 
-- [Model View Presenter (MVP)](https://github.com/androiddevnotes/awesome-android-kotlin-apps#mvp)
+- [Model View Presenter (MVP)](#mvp)
 
-- [Model View Controller (MVC) and Other Patterns](https://github.com/androiddevnotes/awesome-android-kotlin-apps#other)
+- [Model View Controller (MVC) and Other Patterns](#other)
 
 
-:books: [**Tech Stack/Libraries**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#books-tech-stacklibraries)
+:books: [**Tech Stack/Libraries**](#books-tech-stacklibraries)
 
-:memo: [**Contributing**](https://github.com/androiddevnotes/awesome-android-kotlin-apps#memo-contributing)
+:memo: [**Contributing**](#memo-contributing)
+
+:moyai: [**Core Contributors**](#moyai-core-contributors)
 
 
 ## :art: Pattern
