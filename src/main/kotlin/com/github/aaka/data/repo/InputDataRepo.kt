@@ -22,7 +22,7 @@ class InputDataRepo @Inject constructor(
             /*.map {
                 it.copy(
                     inputProjects = if (it.inputProjects.size > 5) {
-                        it.inputProjects.subList(0, 3)
+                        it.inputProjects.subList(0, 2)
                     } else {
                         it.inputProjects.subList(0, 1)
                     }
