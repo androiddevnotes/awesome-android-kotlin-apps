@@ -1,14 +1,12 @@
 
-        
-        
-        <!--
-        THIS IS A COMPUTER GENERATED README FILE. IF YOU'RE HERE TO MODIFY SOME CONTENT, GOTO 
-        https://github.com/androiddevnotes/awesome-android-kotlin-apps/edit/master/README.model.md AND EDIT THE 
-        MODEL FILE.
-        -->
-        
-        
-    
+
+<!--
+THIS IS A COMPUTER GENERATED README FILE. IF YOU'RE HERE TO MODIFY SOME CONTENT, GOTO 
+https://github.com/androiddevnotes/awesome-android-kotlin-apps/edit/master/README.model.md 
+AND EDIT THE  MODEL FILE.
+-->
+
+
 <h1 align="center">Awesome Android Kotlin Apps</h1></br>
 
 <p align="center">
@@ -32,7 +30,7 @@
 
 **Awesome Android Kotlin Apps** aims to be the starting point for developers to find an Android app with a particular Tech Stack / Libraries.
 
-___🔃 Last updated : Wed Nov 11 18:05:54 UTC 2020___
+___🔃 Last updated : Wed Nov 11 18:08:48 UTC 2020___
 
 ## Contents
 
@@ -69,7 +67,7 @@ ___🔃 Last updated : Wed Nov 11 18:05:54 UTC 2020___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [awesome-jetpack-compose-android-apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps) | [androiddevnotes](https://github.com/androiddevnotes) | 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.</br></br> <i> Last commit: 59 minutes ago</i> | 🌟 89 </br> 🍴 9 </br> 👁️ 1  |
+| [awesome-jetpack-compose-android-apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps) | [androiddevnotes](https://github.com/androiddevnotes) | 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.</br></br> <i> Last commit: 1 hour ago</i> | 🌟 89 </br> 🍴 9 </br> 👁️ 1  |
 
 ### MVVM
 
@@ -77,8 +75,8 @@ ___🔃 Last updated : Wed Nov 11 18:05:54 UTC 2020___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [fenix](https://github.com/mozilla-mobile/fenix) | [mozilla-mobile](https://github.com/mozilla-mobile) | Firefox for Android</br></br> <b>Tech Stack</b> : Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 2 minutes ago</i> | 🌟 4267 </br> 🍴 633 </br> 👁️ 132  |
-| [Noted-Android](https://github.com/YahiaAngelo/Noted-Android) | [YahiaAngelo](https://github.com/YahiaAngelo) | Noted app for android </br></br> <b>Tech Stack</b> : Koin dependency injection, Coroutines, Realm db, Material Components, Markdown, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 14 minutes ago</i> | 🌟 41 </br> 🍴 6 </br> 👁️ 2  |
+| [fenix](https://github.com/mozilla-mobile/fenix) | [mozilla-mobile](https://github.com/mozilla-mobile) | Firefox for Android</br></br> <b>Tech Stack</b> : Coroutines, Testing, Retrofit, Room, Firebase Perf,  WorkManager, Paging, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 5 minutes ago</i> | 🌟 4267 </br> 🍴 633 </br> 👁️ 132  |
+| [Noted-Android](https://github.com/YahiaAngelo/Noted-Android) | [YahiaAngelo](https://github.com/YahiaAngelo) | Noted app for android </br></br> <b>Tech Stack</b> : Koin dependency injection, Coroutines, Realm db, Material Components, Markdown, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 17 minutes ago</i> | 🌟 41 </br> 🍴 6 </br> 👁️ 2  |
 | [NotyKT](https://github.com/PatilShreyas/NotyKT) | [PatilShreyas](https://github.com/PatilShreyas) | 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.</br></br> <b>Tech Stack</b> : Backend - Ktor, PostgreSQL; Android = Coroutines, Flow, Navigation Architecture, MVVM, LiveData, ViewModel, Room DB, DataStore, Jetpack Security, WorkManager, Dagger Hilt DI, Jetpack Compose, Material UI, Retrofit, Moshi </br></br> <i> Last commit: 1 hour ago</i> | 🌟 237 </br> 🍴 18 </br> 👁️ 11  |
 | [showly-2.0](https://github.com/michaldrabik/showly-2.0) | [michaldrabik](https://github.com/michaldrabik) | Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Testing, Retrofit, Room, Firebase Messaging, WorkManager, Navigation, Dynamicanimation, LiveData, ViewModel </br></br> <i> Last commit: 2 hours ago</i> | 🌟 61 </br> 🍴 9 </br> 👁️ 7  |
 | [The-Movie-DB-Kotlin](https://github.com/dangquanuet/The-Movie-DB-Kotlin) | [dangquanuet](https://github.com/dangquanuet) | The Movie DB app using Kotlin with updated Android features</br></br> <b>Tech Stack</b> : Koin, Coroutines, RxJava, Testing, Retrofit, Room,  Paging, Data Binding, Easy Permissions, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 9 hours ago</i> | 🌟 144 </br> 🍴 44 </br> 👁️ 10  |
@@ -310,13 +308,10 @@ If you contributed and are missing in this list, please send a PR including your
     <img width="320px" src="https://raw.githubusercontent.com/androiddevnotes/androiddevnotes/master/assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
 </div>
 
-        
-        
-        <!--
-        THIS IS A COMPUTER GENERATED README FILE. IF YOU'RE HERE TO MODIFY SOME CONTENT, GOTO 
-        https://github.com/androiddevnotes/awesome-android-kotlin-apps/edit/master/README.model.md AND EDIT THE 
-        MODEL FILE.
-        -->
-        
-        
-    
+
+<!--
+THIS IS A COMPUTER GENERATED README FILE. IF YOU'RE HERE TO MODIFY SOME CONTENT, GOTO 
+https://github.com/androiddevnotes/awesome-android-kotlin-apps/edit/master/README.model.md 
+AND EDIT THE  MODEL FILE.
+-->
+
