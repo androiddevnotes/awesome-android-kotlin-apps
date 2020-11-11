@@ -9,17 +9,17 @@ import java.util.*
 
 object ReadMeGenerator {
 
-    private const val MODIFY_NOTICE = """
+    private val MODIFY_NOTICE = """
         
         
         <!--
         THIS IS A COMPUTER GENERATED README FILE. IF YOU'RE HERE TO MODIFY SOME CONTENT, GOTO 
-        https://github.com/androiddevnotes/awesome-android-kotlin-apps/edit/master/README.model.md AND EDIT THE 
-        MODEL FILE.
+        https://github.com/androiddevnotes/awesome-android-kotlin-apps/edit/master/README.model.md 
+        AND EDIT THE  MODEL FILE.
         -->
         
         
-    """
+    """.trimIndent()
 
     private const val KEY_LAST_UPDATED = "\$LAST_UPDATED"
     private const val KEY_APPS_COUNT = "\$APPS_COUNT"
