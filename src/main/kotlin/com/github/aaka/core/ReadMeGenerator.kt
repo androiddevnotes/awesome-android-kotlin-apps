@@ -9,6 +9,18 @@ import java.util.*
 
 object ReadMeGenerator {
 
+    private const val MODIFY_NOTICE = """
+        
+        
+        <!--
+        THIS IS A COMPUTER GENERATED README FILE. IF YOU'RE HERE TO MODIFY SOME CONTENT, GOTO 
+        https://github.com/androiddevnotes/awesome-android-kotlin-apps/edit/master/README.model.md AND EDIT THE 
+        MODEL FILE.
+        -->
+        
+        
+    """
+
     private const val KEY_LAST_UPDATED = "\$LAST_UPDATED"
     private const val KEY_APPS_COUNT = "\$APPS_COUNT"
 
@@ -65,11 +77,14 @@ object ReadMeGenerator {
             readMeModel = readMeModel.replace(category.key, tableBuilder.toString())
         }
 
-        // Add last updated date
-        readMeModel = readMeModel.replace(KEY_LAST_UPDATED, Date().toString())
 
-        // Update total apps count
-        readMeModel = readMeModel.replace(KEY_APPS_COUNT, projectMap.size.toString())
+        readMeModel = MODIFY_NOTICE + readMeModel
+            // Add last updated date
+            .replace(KEY_LAST_UPDATED, Date().toString())
+            // Update total apps count
+            .replace(KEY_APPS_COUNT, projectMap.size.toString()) + MODIFY_NOTICE
+
+
 
         return readMeModel
     }
