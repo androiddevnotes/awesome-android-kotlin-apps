@@ -6,14 +6,19 @@
 
   - Explain what the PR fixes or improves.
 
-- If you aim to add a new app to list, specify the tech stack and explain why is it worth to include via [raising an issue here](https://github.com/androiddevnotes/awesome-android-kotlin-apps/issues/new?title=Add%20New%20Repo&body=**Repo%20UR**:%20REPO_URL_GOES_HERE%20**Tech%20Stack**:%20TECH_STACK_GOES_HERE&label=new-repo)
-  
-  
+- If you want to add a new repo:
+
+  - Open the [input_data.json](https://github.com/androiddevnotes/awesome-android-kotlin-apps/blob/master/input_data.json)
+
+  - Add repo url and tech stack there.
+
+- If you want to add more content or modify the content in the [README](https://github.com/androiddevnotes/awesome-android-kotlin-apps/blob/master/README.md) file, then modify the [README.model.md](https://github.com/androiddevnotes/awesome-android-kotlin-apps/blob/master/README.model.md) file. DO NOT DIRECTLY MODIFY THE [README](https://github.com/androiddevnotes/awesome-android-kotlin-apps/blob/master/README.md) file, the changes won't persist. Go to [README.model.md](https://github.com/androiddevnotes/awesome-android-kotlin-apps/blob/master/README.model.md) file and then edit there. Your edits in the [README.model.md](https://github.com/androiddevnotes/awesome-android-kotlin-apps/blob/master/README.model.md) will sync to [README](https://github.com/androiddevnotes/awesome-android-kotlin-apps/blob/master/README.md) in few moments.
+
+  - For example, if you want to add new table to the [README](https://github.com/androiddevnotes/awesome-android-kotlin-apps/blob/master/README.md), you open the [README.model.md](https://github.com/androiddevnotes/awesome-android-kotlin-apps/blob/master/README.model.md) file, and add there.
+
 - Use sensible commit messages
 
   - If your PR fixes a separate issue number, include it in the commit message.
-
-
 
 - Use a sensible number of commit messages as well
 
