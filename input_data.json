@@ -407,6 +407,10 @@
     "key": "$MVVM_CLEAN_ARCH_REPOS",
     "projects": [
       {
+        "github_url": "https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture",
+        "stack": "Dagger Hilt, Testing, RxJava, Retrofit, AssistedInject, Epoxy, RxPaper, MvRx, ViewModel"
+      },
+      {
         "github_url": "https://github.com/happysingh23828/Android-Clean-Architecture",
         "stack": "Dagger, Unit Testing for modules, Mockito, RxJava, Retrofit, Room, CI-CD, SOLID, Code Coverage, Jacoco, Detekt, ktlint, Stetho, LiveData, ViewModel"
       },
