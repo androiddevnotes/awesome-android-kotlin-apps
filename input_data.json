@@ -14,7 +14,7 @@
     "projects": [
       {
         "github_url": "https://github.com/PatilShreyas/NotyKT",
-        "stack": "Backend - Ktor, PostgreSQL; Android = Coroutines, Flow, Navigation Architecture, MVVM, LiveData, ViewModel, Room DB, DataStore, Jetpack Security, WorkManager, Dagger Hilt DI, Jetpack Compose, Material UI, Retrofit, Moshi"
+        "stack": "Backend - Ktor, PostgreSQL; Android = Coroutines, Flow, Navigation Architecture, LiveData, ViewModel, Room DB, DataStore, Jetpack Security, WorkManager, Dagger Hilt DI, Jetpack Compose, Material UI, Retrofit, Moshi"
       },
       {
         "github_url": "https://github.com/Sharkaboi/DrawingsApp",
@@ -94,7 +94,7 @@
       },
       {
         "github_url": "https://github.com/Shashank02051997/GitExplorer-Android",
-        "stack": "Kotlin, LiveData, ViewModel"
+        "stack": "LiveData, ViewModel"
       },
       {
         "github_url": "https://github.com/VIPyinzhiwei/Eyepetizer",
@@ -370,35 +370,39 @@
       },
       {
         "github_url": "https://github.com/rizmaulana/kotlin-mvvm-covid19",
-        "stack": "MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, Spek2Framwework for Unit Testing, etc"
+        "stack": "LiveData, Koin, RxJava, RxBinding, Offline first with simple caching, Spek2Framwework for Unit Testing, etc"
       },
       {
         "github_url": "https://github.com/Tristankluivert/Knote",
-        "stack": "ViewModel, Live Data, Koin, Room db, Coroutines etc"
+        "stack": "ViewModel, LiveData, Koin, Room db, Coroutines etc"
       },
       {
         "github_url": "https://github.com/Devansh-Maurya/PukaPuka",
-        "stack": "MVVM, Kotlin, LiveData, ViewModel, Navigation Components, CameraKit, Firebase ML Kit Text Recognition API, Glide, Volley, Lottie"
+        "stack": "LiveData, ViewModel, Navigation Components, CameraKit, Firebase ML Kit Text Recognition API, Glide, Volley, Lottie"
       },
       {
         "github_url": "https://github.com/fionicholas/Football-App",
-        "stack": "MVVM, Kotlin, LiveData, ViewModel, Retrofit, Room, Koin, RxJava, etc"
+        "stack": "LiveData, ViewModel, Retrofit, Room, Koin, RxJava, etc"
       },
       {
         "github_url": "https://github.com/ryanrvldo/MovieCatalogue",
-        "stack": "MVVM, ViewModel, LiveData, Coroutines, Firebase Cloud Messaging, Retrofit, Room, Glide, Dagger Hilt, and Google Material."
+        "stack": "ViewModel, LiveData, Coroutines, Firebase Cloud Messaging, Retrofit, Room, Glide, Dagger Hilt, and Google Material."
       },
       {
         "github_url": "https://github.com/mutualmobile/Praxis",
-        "stack": "MVVM architecture, Dagger, Retrofit, Kotlin Coroutines, RXJava2, ViewModel, Data Binding"
+        "stack": "Dagger, Retrofit, Coroutines, RXJava2, ViewModel, Data Binding"
       },
       {
         "github_url": "https://github.com/MindorksOpenSource/MVVM-Architecture-Android-Beginners",
-        "stack": "MVVM architecture, Dagger, Kotlin Coroutines, RXJava2, ViewModel, Data Binding, Live Data."
+        "stack": "Dagger, Coroutines, RXJava2, ViewModel, Data Binding, LiveData."
+      },
+      {
+        "github_url": "https://github.com/skydoves/Pokedex-AR",
+        "stack": "Dagger Hilt, Coroutines, Retrofit, Room, ARCore, Sceneform, ViewModel, Data Binding, LiveData."
       },
       {
         "github_url": "https://github.com/mrcsxsiq/Kotlin-Pokedex",
-        "stack": "MVVM,  Kotlin, LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint"
+        "stack": "LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint"
       }
     ]
   },
@@ -448,7 +452,7 @@
       },
       {
         "github_url": "https://github.com/VladimirWrites/BLTaxi",
-        "stack": "Koin, Retrofit, Room, Data Binding, Live Data, View Model, Work Manager, Material Components"
+        "stack": "Koin, Retrofit, Room, Data Binding, LiveData, View Model, Work Manager, Material Components"
       }
     ]
   },
@@ -488,11 +492,11 @@
       },
       {
         "github_url": "https://github.com/Ezike/Baking-App-Kotlin",
-        "stack": "Dagger hilt, Kotlin Coroutines & StateFlow, Unit Testing, Retrofit, DFM Navigation, FlowBinding, Exoplayer"
+        "stack": "Dagger hilt, Coroutines & StateFlow, Unit Testing, Retrofit, DFM Navigation, FlowBinding, Exoplayer"
       },
       {
         "github_url": "https://github.com/Ezike/MVI_UIComponents",
-        "stack": "Jetpack, Dagger hilt, Kotlin Coroutines & StateFlow, Room, Retrofit, FlowBinding"
+        "stack": "Jetpack, Dagger hilt, Coroutines & StateFlow, Room, Retrofit, FlowBinding"
       }
     ]
   },
