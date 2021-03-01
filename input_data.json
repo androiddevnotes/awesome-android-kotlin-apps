@@ -13,6 +13,10 @@
     "key": "$MVVM_NORMAL_REPOS",
     "projects": [
       {
+        "github_url": "https://github.com/mukul500/AnimeXStream",
+        "stack": "Retrofit, RxJava, Epoxy, ViewModel, LiveData, Navigation, Realm, ExoPlayer v2.0, Glide"
+      },
+      {
         "github_url": "https://github.com/PatilShreyas/NotyKT",
         "stack": "Backend - Ktor, PostgreSQL; Android = Coroutines, Flow, Navigation Architecture, LiveData, ViewModel, Room DB, DataStore, Jetpack Security, WorkManager, Dagger Hilt DI, Jetpack Compose, Material UI, Retrofit, Moshi"
       },
