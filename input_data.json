@@ -174,7 +174,7 @@
       },
       {
         "github_url": "https://github.com/adityam49/Updoot",
-        "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, ExoPlayer, WorkManager, Data Binding, Navigation, LiveData, ViewModel"
+        "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, ExoPlayer, WorkManager, Data Binding, Navigation, LiveData, ViewModel, Compose"
       },
       {
         "github_url": "https://github.com/weylar/Movie",
