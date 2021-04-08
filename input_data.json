@@ -21,7 +21,7 @@
         "stack": "Dagger, Coroutines, Testing, Navigation, ColorPicker, ViewModel"
       },
       {
-        "github_url": "https://github.com/Trosydman/Bitlue",
+        "github_url": "https://github.com/androiddevnotesforks/Bitlue",
         "stack": "Dagger Hilt, Coroutines + Flow, MPAndroidChart, Retrofit, LiveData, ViewModel"
       },
       {
