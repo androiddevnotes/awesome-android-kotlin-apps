@@ -13,6 +13,10 @@
     "key": "$MVVM_NORMAL_REPOS",
     "projects": [
       {
+        "github_url": "https://github.com/ErickSumargo/Dads",
+        "stack": "Hilt, Coroutines + Flow, UI Testing, Room, ViewModel, WorkManager, Apollo"
+      },
+      {
         "github_url": "https://github.com/tema6120/ForgetMeNot",
         "stack": "Coroutines + Flow, SQLDelight, Kotlin Serialization, Klock, Brackeys-IDE EditorKit"
       },
