@@ -477,6 +477,10 @@
       {
         "github_url": "https://github.com/VladimirWrites/BLTaxi",
         "stack": "Koin, Retrofit, Room, Data Binding, LiveData, View Model, Work Manager, Material Components"
+      },
+      {
+        "github_url": "https://github.com/akhilesh0707/Rick-and-Morty",
+        "stack": "Kotlin, Coroutines, Flow, Dagger-Hilt, Kotlin-DSL, LiveData, Lifecycle, ViewModel, Room, Navigation, Data Binding, Material-Components, Retrofit, OkHttp, Moshi, Timber, Glide"
       }
     ]
   },
