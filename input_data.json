@@ -13,6 +13,10 @@
     "key": "$MVVM_NORMAL_REPOS",
     "projects": [
       {
+        "github_url": "https://github.com/ImnIrdst/iiCnma",
+        "stack": "Dagger Hilt, Testing, Coroutines + Flow, Retrofit, Room, LiveData, ViewModel, Paging, Navigation"
+      },
+      {
         "github_url": "https://github.com/fabirt/roka-recipe-app",
         "stack": "Dagger Hilt, Coroutines, Retrofit, Room, LiveData, ViewModel, Paging, Navigation, DataStore"
       },
