@@ -69,10 +69,6 @@
         "stack": "Dagger Hilt, Coroutines, Flow, Jetpack (Room, ViewModel,Navigation LiveData), Retrofit, Paging, Testing"
       },
       {
-        "github_url": "https://github.com/vidit135g/Replify-Messenger",
-        "stack": "Dagger, Coroutines, RxJava, Testing, Realm, ExoPlayer, Conductor, Mixpanel Android, libphonenumber-android, Call Control DataShare, LiveData, ViewModel"
-      },
-      {
         "github_url": "https://github.com/jnkforks/PokemonGo",
         "stack": "Dagger Hilt, Koin, Coroutines, RxJava, Testing, Retrofit, Room, WorkManager, Paging, LiveData, ViewModel"
       },
