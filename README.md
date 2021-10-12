@@ -233,6 +233,7 @@ ___🔃 Last updated : Mon Oct 11 12:02:34 UTC 2021___
 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | [shadowsocks](https://github.com/shadowsocks) | A shadowsocks client for Android</br></br> <b>Tech Stack</b> : Testing, Room,  Firebase Ads, WorkManager </br></br> <i> Last commit: 14 hours ago</i> | 🌟 31947 </br> 🍴 11502 </br> 👁️ 1629  |
 | [Scarlet-Notes](https://github.com/BijoySingh/Scarlet-Notes) | [BijoySingh](https://github.com/BijoySingh) | Simple yet powerful rich note taking android application, with a lot of flexibilty of usage</br></br> <b>Tech Stack</b> : Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric </br></br> <i> Last commit: 10 months ago</i> | 🌟 315 </br> 🍴 94 </br> 👁️ 19  |
 | [Screenaway](https://github.com/DimaBrody/Screenaway) | [DimaBrody](https://github.com/DimaBrody) | Phone Screen Forced Locker</br></br> <b>Tech Stack</b> : Room, Play Install Referrer Library </br></br> <i> Last commit: 1 year ago</i> | 🌟 9 </br> 🍴 1 </br> 👁️ 1  |
+| [Practice-Android](https://github.com/ntvkhoasgt/practice-android) | [ntvkhoasgt](https://github.com/ntvkhoasgt) | Some exercises practice for Android </br></br> <b>Tech Stack</b> : FCM, ImageLoading, SpinnerAdapter, SQLHelper </br></br> <i> Last commit: 13 hours ago</i> | 🌟 0 </br> 🍴 0 </br> 👁️ 1  |
 
 ## :books: Tech Stack/Libraries
 
