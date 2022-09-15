@@ -165,7 +165,7 @@
         "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, insetter, LiveData, ViewModel"
       },
       {
-        "github_url": "https://github.com/GeorgCantor/WallpaperApp",
+        "github_url": "https://github.com/androiddevnotesforks/WallpaperApp_mvvm",
         "stack": "Koin, Coroutines, Retrofit, Room, Lottie, Zoomy, Navigation, LiveData, ViewModel"
       },
       {
