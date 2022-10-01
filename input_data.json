@@ -489,10 +489,6 @@
       {
         "github_url": "https://github.com/akhilesh0707/Rick-and-Morty",
         "stack": "Kotlin, Coroutines, Flow, Dagger-Hilt, Kotlin-DSL, LiveData, Lifecycle, ViewModel, Room, Navigation, Data Binding, Material-Components, Retrofit, OkHttp, Moshi, Timber, Glide"
-      },
-      {
-        "github_url": "https://github.com/bakharaalief/Slootnime-APP",
-        "stack": "Kotlin, Coroutine, Dagger-Hilt, LiveData, Lifecycle, ViewModel, Apollo, Glide, Pagging, Lottie"
       }
     ]
   },
