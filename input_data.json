@@ -8,6 +8,15 @@
       }
     ]
   },
+    {
+    "pattern": "Jetpack Compose Apps",
+    "key": "$JETPACK_COMPOSE_REPOS",
+    "projects": [
+      {
+        "github_url": "https://github.com/prsahuh/DICE_ROLL_APP"
+      }
+    ]
+  },
   {
     "pattern": "MVVM - Normal",
     "key": "$MVVM_NORMAL_REPOS",
@@ -569,3 +578,4 @@
     ]
   }
 ]
+
