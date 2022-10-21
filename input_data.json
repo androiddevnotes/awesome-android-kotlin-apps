@@ -565,6 +565,10 @@
       {
         "github_url": "https://github.com/BijoySingh/Scarlet-Notes",
         "stack": "Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric"
+      },
+      {
+        "github_url": "https://github.com/aasif1297/kotlinbaseproject",
+        "stack": "Foursquare APIs, Koin, Coroutines, Moshi, Room, Retrofit, Viewbinding, Google Play Services"
       }
     ]
   }
