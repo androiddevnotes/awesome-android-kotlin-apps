@@ -435,6 +435,14 @@
       {
         "github_url": "https://github.com/mrcsxsiq/Kotlin-Pokedex",
         "stack": "LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint"
+      },
+      {
+        "github_url": "https://github.com/Ratheshan03/andriod-movie-collection-application",
+        "stack": "Kotlin, Json, XML, SQLlite, OMBD-API, Room, Coroutines, CI-CD, ViewModel, Navigation"
+      },
+      {
+        "github_url": "https://github.com/Ratheshan03/android-arithmetic-game",
+        "stack": "Kotlin, Json, XML, SQLlite, OMBD-API, Room, Coroutines, ViewModel"
       }
     ]
   },
