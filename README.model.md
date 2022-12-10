@@ -162,6 +162,9 @@ If you contributed and are missing in this list, please send a PR including your
         <td align="center"><a href="https://github.com/MageshVS"><b>MageshVS</b></a></td>
         <td align="center"><a href="https://github.com/KhaledSherifSayed"><b>KhaledSherifSayed</b></a></td>
     </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/ashucoder1"><b>Ashu_Yadav</b></a></td>
+    </tr>
 </table>
 
 ## :computer: Find us on
