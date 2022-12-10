@@ -17,6 +17,10 @@
         "stack": "Dagger Hilt, Coroutines + Flow, ViewModel, Retrofit, Room, Navigation"
       },
       {
+        "github_url": "https://github.com/ashucoder1/Portfolio-App",
+        "stack": "Kotlin, Room, Basic Intents, Gallery Image Picker  "
+      },
+      {
         "github_url": "https://github.com/ImnIrdst/iiCnma",
         "stack": "Dagger Hilt, Testing, Coroutines + Flow, Retrofit, Room, LiveData, ViewModel, Paging, Navigation"
       },
