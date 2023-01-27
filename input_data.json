@@ -435,6 +435,10 @@
       {
         "github_url": "https://github.com/mrcsxsiq/Kotlin-Pokedex",
         "stack": "LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint"
+      },
+      {
+        "github_url": "https://github.com/LouisFn/SoMovie",
+        "stack": "Compose, Kotlin, Coroutines, Gradle Kotlin DSL, Multi Module, View Model, Room, DataStore, Paging 3, Hilt, Retrofit, Coil, JUnit, Jacoco, Ktlint, Detekt, Github Actions"
       }
     ]
   },
