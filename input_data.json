@@ -1,7 +1,7 @@
 [
   {
-    "pattern": "Jetpack Compose Apps",
     "key": "$JETPACK_COMPOSE_REPOS",
+    "pattern": "Jetpack Compose Apps",
     "projects": [
       {
         "github_url": "https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps"
@@ -9,8 +9,8 @@
     ]
   },
   {
-    "pattern": "MVVM - Normal",
     "key": "$MVVM_NORMAL_REPOS",
+    "pattern": "MVVM - Normal",
     "projects": [
       {
         "github_url": "https://github.com/mithun17/SimpleBible",
@@ -297,10 +297,6 @@
         "stack": "Koin, RxJava, Room, Firestore, Firebase Auth, Firebase Storage, Firebase Messaging,  WorkManager, Data Binding, Paging, LiveData, ViewModel"
       },
       {
-        "github_url": "https://github.com/kacperczyk-dev/ExchangeRateApp",
-        "stack": "Dagger, Coroutines, Retrofit, Room, WorkManager, Data Binding, MPAndroidChart, Navigation, LiveData, ViewModel"
-      },
-      {
         "github_url": "https://github.com/cuongpm/youtube-dl-android",
         "stack": "Dagger, RxJava, Testing, Retrofit, Room, Data Binding, LiveData, ViewModel"
       },
@@ -443,8 +439,8 @@
     ]
   },
   {
-    "pattern": "MVVM - Clean Architecture",
     "key": "$MVVM_CLEAN_ARCH_REPOS",
+    "pattern": "MVVM - Clean Architecture",
     "projects": [
       {
         "github_url": "https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture",
@@ -497,8 +493,8 @@
     ]
   },
   {
-    "pattern": "MVI - Normal",
     "key": "$MVI_NORMAL_REPOS",
+    "pattern": "MVI - Normal",
     "projects": [
       {
         "github_url": "https://github.com/HadySalhab/NewsFeed-MVI-Dagger",
@@ -519,8 +515,8 @@
     ]
   },
   {
-    "pattern": "MVI - Clean Architecture",
     "key": "$MVI_CLEAN_ARCH_REPOS",
+    "pattern": "MVI - Clean Architecture",
     "projects": [
       {
         "github_url": "https://github.com/lopspower/CleanRxArchitecture",
@@ -541,8 +537,8 @@
     ]
   },
   {
-    "pattern": "MVP",
     "key": "$MVP_REPOS",
+    "pattern": "MVP",
     "projects": [
       {
         "github_url": "https://github.com/inorichi/tachiyomi",
@@ -555,8 +551,8 @@
     ]
   },
   {
-    "pattern": "Other",
     "key": "$OTHER_REPOS",
+    "pattern": "Other",
     "projects": [
       {
         "github_url": "https://github.com/shadowsocks/shadowsocks-android",
