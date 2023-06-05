@@ -85,6 +85,10 @@
         "stack": "RxJava, Testing, Retrofit, Room, ExoPlayer, LiveData, ViewModel"
       },
       {
+        "github_url": "https://github.com/mrcsxsiq/DroidNotes",
+        "stack": "ViewModel, LiveData, Coroutines, Room, Jetpack Compose"
+      },
+      {
         "github_url": "https://github.com/theapache64/topcorn",
         "stack": "Dagger, Coroutines, Testing, Retrofit, Room, LiveData, ViewModel"
       },
