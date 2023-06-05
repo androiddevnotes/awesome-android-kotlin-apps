@@ -30,7 +30,7 @@ AND EDIT THE  MODEL FILE.
 
 **Awesome Android Kotlin Apps** aims to be the starting point for developers to find an Android app with a particular Tech Stack / Libraries.
 
-___🔃 Last updated : Mon Jun 05 16:39:13 UTC 2023___
+___🔃 Last updated : Mon Jun 05 22:15:39 IST 2023___
 
 ## Contents
 
@@ -232,7 +232,7 @@ ___🔃 Last updated : Mon Jun 05 16:39:13 UTC 2023___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | [tachiyomiorg](https://github.com/tachiyomiorg) | Free and open source manga reader for Android.</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor </br></br> <i> Last commit: 22 minutes ago</i> | 🌟 22845 </br> 🍴 2507 </br> 👁️ 575  |
+| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | [tachiyomiorg](https://github.com/tachiyomiorg) | Free and open source manga reader for Android.</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor </br></br> <i> Last commit: 29 minutes ago</i> | 🌟 22845 </br> 🍴 2507 </br> 👁️ 575  |
 | [UTair-MVP-Sample](https://github.com/ImangazalievM/UTair-MVP-Sample) | [ImangazalievM](https://github.com/ImangazalievM) | Android Clean Architecture + MVP Sample written in Kotlin</br></br> <b>Tech Stack</b> : Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso) </br></br> <i> Last commit: 2 years ago</i> | 🌟 30 </br> 🍴 5 </br> 👁️ 3  |
 
 ## Other
