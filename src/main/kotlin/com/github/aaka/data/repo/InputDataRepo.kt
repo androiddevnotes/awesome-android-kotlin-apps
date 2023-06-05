@@ -10,14 +10,18 @@ class InputDataRepo @Inject constructor(
     val moshi: Moshi
 ) {
 
+    private val inputDataFile = File("input_data.json")
+    private val inputDataAdapter = moshi.adapter<List<InputProjectCategory>>(
+        Types.newParameterizedType(List::class.java, InputProjectCategory::class.java)
+    ).indent("  ")
+
     /**
      * Get input projects
      */
     fun getInputProjectCategories(): List<InputProjectCategory> {
         // Parsing data
-        val dataJson = File("input_data.json").readText()
-        val dataItemListType = Types.newParameterizedType(List::class.java, InputProjectCategory::class.java)
-        val inputDataAdapter = moshi.adapter<List<InputProjectCategory>>(dataItemListType)
+
+        val dataJson = inputDataFile.readText()
         return inputDataAdapter.fromJson(dataJson)!!
             /*.map {
                 it.copy(
@@ -28,5 +32,10 @@ class InputDataRepo @Inject constructor(
                     }
                 )
             }*/
+    }
+
+    fun updateInputProjectCategories(inputData : List<InputProjectCategory>){
+        val dataJson = inputDataAdapter.toJson(inputData)
+        inputDataFile.writeText(dataJson)
     }
 }

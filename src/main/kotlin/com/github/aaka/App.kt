@@ -10,6 +10,7 @@ import com.github.aaka.di.DaggerAppComponent
 import com.github.aaka.utils.DateTimeUtils
 import kotlinx.coroutines.runBlocking
 import retrofit2.HttpException
+import java.net.HttpURLConnection
 import javax.inject.Inject
 import kotlin.system.exitProcess
 
@@ -38,16 +39,7 @@ class App {
 
 
         val inputProjectCategories = inputDataRepo.getInputProjectCategories()
-        val totalInputProjectCount = inputProjectCategories.sumBy { it.inputProjects.size }
         val projectMap = getProjectsMap(inputProjectCategories)
-
-        // This is to make sure that all project details are collected
-        require(projectMap.size == totalInputProjectCount) {
-            """
-                Expected $totalInputProjectCount but found only ${projectMap.size}.
-                Failed to get some project details.
-            """.trimIndent()
-        }
 
         // Now let's go build the README.md
         val readMeModel = readMeRepo.getReadMeModel()
@@ -63,7 +55,7 @@ class App {
      */
     private suspend fun getProjectsMap(inputProjectCategories: List<InputProjectCategory>): Map<String, Project> {
         val projectsMap = mutableMapOf<String, Project>()
-
+        var shouldUpdateInputData = false
         for (projectCategory in inputProjectCategories) {
             for (inputProject in projectCategory.inputProjects) {
 
@@ -92,10 +84,21 @@ class App {
                     projectsMap[inputProject.githubUrl] = project
                     println("Finished : ${inputProject.githubUrl} -> $project")
                 } catch (e: HttpException) {
-                    println("Failed: ${inputProject.githubUrl}")
-                    throw e
+                    println("Failed: ${e.code()} ${inputProject.githubUrl}")
+                    if (e.code() == HttpURLConnection.HTTP_NOT_FOUND) {
+                        println("Removing $inputProject from input_data.json")
+                        shouldUpdateInputData = true
+                        // repo doesn't exist. so let's remove it from the `input_data.json` file
+                        projectCategory.inputProjects = projectCategory.inputProjects.toMutableList().apply {
+                            remove(inputProject)
+                        }
+                    }
                 }
             }
+        }
+
+        if (shouldUpdateInputData) {
+            inputDataRepo.updateInputProjectCategories(inputProjectCategories)
         }
 
         return projectsMap
