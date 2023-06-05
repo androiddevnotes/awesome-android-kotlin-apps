@@ -30,7 +30,7 @@ AND EDIT THE  MODEL FILE.
 
 **Awesome Android Kotlin Apps** aims to be the starting point for developers to find an Android app with a particular Tech Stack / Libraries.
 
-___🔃 Last updated : Mon Jun 05 22:15:39 IST 2023___
+___🔃 Last updated : Mon Jun 05 16:47:14 UTC 2023___
 
 ## Contents
 
@@ -78,7 +78,7 @@ ___🔃 Last updated : Mon Jun 05 22:15:39 IST 2023___
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 | [habitica-android](https://github.com/HabitRPG/habitica-android) | [HabitRPG](https://github.com/HabitRPG) | Native Android app for Habitica</br></br> <b>Tech Stack</b> : Dagger, Coroutines, RxJava, Retrofit, Realm, Firebase Messaging, Paging, Navigation, Facebook, FlowLayout, LiveData, ViewModel </br></br> <i> Last commit: 4 hours ago</i> | 🌟 1155 </br> 🍴 473 </br> 👁️ 55  |
-| [Inure](https://github.com/Hamza417/Inure) | [Hamza417](https://github.com/Hamza417) | An elegant and beautiful premium Android app manager for both rooted and non-rooted devices and a built-in terminal, analytics panel and an independent custom theme engine.</br></br> <b>Tech Stack</b> : LiveData, ViewModel, WebKit, APK Parser, libsu </br></br> <i> Last commit: 4 hours ago</i> | 🌟 530 </br> 🍴 33 </br> 👁️ 12  |
+| [Inure](https://github.com/Hamza417/Inure) | [Hamza417](https://github.com/Hamza417) | An elegant and beautiful premium Android app manager for both rooted and non-rooted devices and a built-in terminal, analytics panel and an independent custom theme engine.</br></br> <b>Tech Stack</b> : LiveData, ViewModel, WebKit, APK Parser, libsu </br></br> <i> Last commit: 5 hours ago</i> | 🌟 530 </br> 🍴 33 </br> 👁️ 12  |
 | [MyCuration](https://github.com/phicdy/MyCuration) | [phicdy](https://github.com/phicdy) | RSS Reader for Android with article filtering and curation</br></br> <b>Tech Stack</b> : Koin, Coroutines, Testing, Retrofit,  Jsoup, WorkManager, Data Binding, Navigation, LiveData, ViewModel </br></br> <i> Last commit: 1 day ago</i> | 🌟 26 </br> 🍴 9 </br> 👁️ 0  |
 | [alkaa](https://github.com/igorescodro/alkaa) | [igorescodro](https://github.com/igorescodro) | Open-source app to manage your tasks quickly and easily</br></br> <b>Tech Stack</b> : Koin, Espresso, UiAutomator, Mockk, Coroutines, Navigation, Room, MotionLayout, KTX, Modularization, Dynamic Delivery, Dark Theme, klint, Detekt, codebeat, CodeFactor, Codacy, MPAndroidChart, Groupie, LiveData, ViewModel </br></br> <i> Last commit: 1 day ago</i> | 🌟 930 </br> 🍴 104 </br> 👁️ 14  |
 | [plees-tracker](https://github.com/vmiklos/plees-tracker) | [vmiklos](https://github.com/vmiklos) | Plees Tracker is a simple sleep tracker for your Android phone.</br></br> <b>Tech Stack</b> : Room, LiveData, ViewModel </br></br> <i> Last commit: 3 days ago</i> | 🌟 113 </br> 🍴 30 </br> 👁️ 8  |
@@ -232,7 +232,7 @@ ___🔃 Last updated : Mon Jun 05 22:15:39 IST 2023___
 
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | [tachiyomiorg](https://github.com/tachiyomiorg) | Free and open source manga reader for Android.</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor </br></br> <i> Last commit: 29 minutes ago</i> | 🌟 22845 </br> 🍴 2507 </br> 👁️ 575  |
+| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | [tachiyomiorg](https://github.com/tachiyomiorg) | Free and open source manga reader for Android.</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor </br></br> <i> Last commit: 30 minutes ago</i> | 🌟 22845 </br> 🍴 2507 </br> 👁️ 575  |
 | [UTair-MVP-Sample](https://github.com/ImangazalievM/UTair-MVP-Sample) | [ImangazalievM](https://github.com/ImangazalievM) | Android Clean Architecture + MVP Sample written in Kotlin</br></br> <b>Tech Stack</b> : Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso) </br></br> <i> Last commit: 2 years ago</i> | 🌟 30 </br> 🍴 5 </br> 👁️ 3  |
 
 ## Other
