@@ -13,6 +13,10 @@
     "pattern": "MVVM - Normal",
     "projects": [
       {
+        "github_url": "https://github.com/Rarj/TypiCodeRio",
+        "stack": "Coroutines, Koin, Data Binding, View Binding, Live Data, Retrofit2, GSON"
+      },
+      {
         "github_url": "https://github.com/mithun17/SimpleBible",
         "stack": "Dagger Hilt, Coroutines + Flow, ViewModel, Retrofit, Room, Navigation"
       },
