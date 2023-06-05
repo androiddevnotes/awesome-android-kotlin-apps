@@ -5,6 +5,12 @@
     "projects": [
       {
         "github_url": "https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps"
+      },
+      {
+        "github_url": "https://github.com/prsahuh/DICE_ROLL_APP"
+      },
+      {
+        "github_url": "https://github.com/a914-gowtham/RickNMortyCompose"
       }
     ]
   },
@@ -15,6 +21,10 @@
       {
         "github_url": "https://github.com/mithun17/SimpleBible",
         "stack": "Dagger Hilt, Coroutines + Flow, ViewModel, Retrofit, Room, Navigation"
+      },
+      {
+        "github_url": "https://github.com/ashucoder1/Portfolio-App",
+        "stack": "Kotlin, Room, Basic Intents, Gallery Image Picker"
       },
       {
         "github_url": "https://github.com/ImnIrdst/iiCnma",
@@ -67,6 +77,10 @@
       {
         "github_url": "https://github.com/ashwini009/TvFlix",
         "stack": "Dagger Hilt, Coroutines, Testing, Retrofit, Room, Paging, Navigation, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/sauravrao637/Kripto",
+        "stack" : "Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, State FLow, ViewModel"
       },
       {
         "github_url": "https://github.com/fevziomurtekin/DeezerClone",
@@ -437,6 +451,14 @@
         "stack": "LiveData, Navigation Jetpack, ViewModel, Room, Gradle Kotlin DSL, Databinding, Retrofit, Koin and Ktlint"
       },
       {
+        "github_url": "https://github.com/Ratheshan03/andriod-movie-collection-application",
+        "stack": "Kotlin, Json, XML, SQLlite, OMBD-API, Room, Coroutines, CI-CD, ViewModel, Navigation"
+      },
+      {
+        "github_url": "https://github.com/Ratheshan03/android-arithmetic-game",
+        "stack": "Kotlin, Json, XML, SQLlite, OMBD-API, Room, Coroutines, ViewModel"
+      },
+      {
         "github_url": "https://github.com/LouisFn/SoMovie",
         "stack": "Compose, Kotlin, Coroutines, Gradle Kotlin DSL, Multi Module, View Model, Room, DataStore, Paging 3, Hilt, Retrofit, Coil, JUnit, Jacoco, Ktlint, Detekt, Github Actions"
       }
@@ -493,6 +515,10 @@
       {
         "github_url": "https://github.com/akhilesh0707/Rick-and-Morty",
         "stack": "Kotlin, Coroutines, Flow, Dagger-Hilt, Kotlin-DSL, LiveData, Lifecycle, ViewModel, Room, Navigation, Data Binding, Material-Components, Retrofit, OkHttp, Moshi, Timber, Glide"
+      },
+      {
+        "github_url": "https://github.com/bakharaalief/Slootnime-APP",
+        "stack": "Kotlin, Coroutine, Dagger-Hilt, LiveData, Lifecycle, ViewModel, Apollo, Glide, Pagging, Lottie"
       }
     ]
   },
@@ -569,6 +595,10 @@
       {
         "github_url": "https://github.com/BijoySingh/Scarlet-Notes",
         "stack": "Dagger, Coroutines, Room, Firebase Auth, Firebase Database, Paging, Navigation, Evernote android-job, Facebook Litho, Facebook SoLoader, Biometric"
+      },
+      {
+        "github_url": "https://github.com/aasif1297/kotlinbaseproject",
+        "stack": "Foursquare APIs, Koin, Coroutines, Moshi, Room, Retrofit, Viewbinding, Google Play Services"
       }
     ]
   }
