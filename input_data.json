@@ -1,7 +1,7 @@
 [
   {
-    "pattern": "Jetpack Compose Apps",
     "key": "$JETPACK_COMPOSE_REPOS",
+    "pattern": "Jetpack Compose Apps",
     "projects": [
       {
         "github_url": "https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps"
@@ -15,9 +15,13 @@
     ]
   },
   {
-    "pattern": "MVVM - Normal",
     "key": "$MVVM_NORMAL_REPOS",
+    "pattern": "MVVM - Normal",
     "projects": [
+      {
+        "github_url": "https://github.com/Rarj/TypiCodeRio",
+        "stack": "Coroutines, Koin, Data Binding, View Binding, Live Data, Retrofit2, GSON"
+      },
       {
         "github_url": "https://github.com/mithun17/SimpleBible",
         "stack": "Dagger Hilt, Coroutines + Flow, ViewModel, Retrofit, Room, Navigation"
@@ -80,7 +84,7 @@
       },
       {
         "github_url": "https://github.com/sauravrao637/Kripto",
-        "stack" : "Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, State FLow, ViewModel"
+        "stack": "Hilt, Coroutines, Testing, Retrofit, Room, WorkManager, Navigation, State FLow, ViewModel"
       },
       {
         "github_url": "https://github.com/fevziomurtekin/DeezerClone",
@@ -97,6 +101,10 @@
       {
         "github_url": "https://github.com/nahzur-h/awaker",
         "stack": "RxJava, Testing, Retrofit, Room, ExoPlayer, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/mrcsxsiq/DroidNotes",
+        "stack": "ViewModel, LiveData, Coroutines, Room, Jetpack Compose"
       },
       {
         "github_url": "https://github.com/theapache64/topcorn",
@@ -311,10 +319,6 @@
         "stack": "Koin, RxJava, Room, Firestore, Firebase Auth, Firebase Storage, Firebase Messaging,  WorkManager, Data Binding, Paging, LiveData, ViewModel"
       },
       {
-        "github_url": "https://github.com/kacperczyk-dev/ExchangeRateApp",
-        "stack": "Dagger, Coroutines, Retrofit, Room, WorkManager, Data Binding, MPAndroidChart, Navigation, LiveData, ViewModel"
-      },
-      {
         "github_url": "https://github.com/cuongpm/youtube-dl-android",
         "stack": "Dagger, RxJava, Testing, Retrofit, Room, Data Binding, LiveData, ViewModel"
       },
@@ -465,8 +469,8 @@
     ]
   },
   {
-    "pattern": "MVVM - Clean Architecture",
     "key": "$MVVM_CLEAN_ARCH_REPOS",
+    "pattern": "MVVM - Clean Architecture",
     "projects": [
       {
         "github_url": "https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture",
@@ -523,8 +527,8 @@
     ]
   },
   {
-    "pattern": "MVI - Normal",
     "key": "$MVI_NORMAL_REPOS",
+    "pattern": "MVI - Normal",
     "projects": [
       {
         "github_url": "https://github.com/HadySalhab/NewsFeed-MVI-Dagger",
@@ -545,8 +549,8 @@
     ]
   },
   {
-    "pattern": "MVI - Clean Architecture",
     "key": "$MVI_CLEAN_ARCH_REPOS",
+    "pattern": "MVI - Clean Architecture",
     "projects": [
       {
         "github_url": "https://github.com/lopspower/CleanRxArchitecture",
@@ -567,8 +571,8 @@
     ]
   },
   {
-    "pattern": "MVP",
     "key": "$MVP_REPOS",
+    "pattern": "MVP",
     "projects": [
       {
         "github_url": "https://github.com/inorichi/tachiyomi",
@@ -581,8 +585,8 @@
     ]
   },
   {
-    "pattern": "Other",
     "key": "$OTHER_REPOS",
+    "pattern": "Other",
     "projects": [
       {
         "github_url": "https://github.com/shadowsocks/shadowsocks-android",
@@ -599,6 +603,10 @@
       {
         "github_url": "https://github.com/aasif1297/kotlinbaseproject",
         "stack": "Foursquare APIs, Koin, Coroutines, Moshi, Room, Retrofit, Viewbinding, Google Play Services"
+      },
+      {
+        "github_url": "https://github.com/Husseinfo/countin",
+        "stack": "Room, Coroutines, Compose, Material3"
       }
     ]
   }
