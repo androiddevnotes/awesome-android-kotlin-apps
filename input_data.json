@@ -466,6 +466,7 @@
         "github_url": "https://github.com/LouisFn/SoMovie",
         "stack": "Compose, Kotlin, Coroutines, Gradle Kotlin DSL, Multi Module, View Model, Room, DataStore, Paging 3, Hilt, Retrofit, Coil, JUnit, Jacoco, Ktlint, Detekt, Github Actions"
       }
+
     ]
   },
   {
@@ -523,6 +524,10 @@
       {
         "github_url": "https://github.com/bakharaalief/Slootnime-APP",
         "stack": "Kotlin, Coroutine, Dagger-Hilt, LiveData, Lifecycle, ViewModel, Apollo, Glide, Pagging, Lottie"
+      },
+      {
+      "github_url": "https://github.com/dev-aniketj/WeatherApp-Android.git",
+      "stack": "Dagger Hilt,Testing, Room, Navigation, LiveData,ViewModel,Adapter,XML"
       }
     ]
   },
