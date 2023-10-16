@@ -11,6 +11,14 @@
       },
       {
         "github_url": "https://github.com/a914-gowtham/RickNMortyCompose"
+      },
+      {
+        "github_url": "https://github.com/tachiyomiorg/tachiyomi",
+        "stack": "Coroutines, Flow, Koin, Glide, Retrofit, GSON, Room, Material Components"
+      },
+      {
+        "github_url": "https://github.com/mrcsxsiq/Kotlin-Pokedex",
+        "stack": "Coroutines, Flow, Koin, Glide, Retrofit, GSON, Material Components"
       }
     ]
   },
