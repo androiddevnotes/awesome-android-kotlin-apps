@@ -19,6 +19,10 @@
     "pattern": "MVVM - Normal",
     "projects": [
       {
+        "github_url": "https://github.com/vishal2376/git-coach",
+        "stack": "Kotlin, Navigation, View Binding, Services, GSON, Firebase"
+      },
+      {
         "github_url": "https://github.com/Rarj/TypiCodeRio",
         "stack": "Coroutines, Koin, Data Binding, View Binding, Live Data, Retrofit2, GSON"
       },
