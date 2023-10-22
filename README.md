@@ -70,6 +70,7 @@ ___🔃 Last updated : Thu Oct 12 18:02:44 UTC 2023___
 | [awesome-jetpack-compose-android-apps](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps) | [androiddevnotes](https://github.com/androiddevnotes) | 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.</br></br> <i> Last commit: 8 months ago</i> | 🌟 995 </br> 🍴 103 </br> 👁️ 21  |
 | [DICE-ROLL-APP](https://github.com/SSAHHC/DICE_ROLL_APP) | [SSAHHC](https://github.com/SSAHHC) | BASIC JETPACK COMPOSE APP</br></br> <i> Last commit: 12 months ago</i> | 🌟 1 </br> 🍴 0 </br> 👁️ 1  |
 | [RickNMortyCompose](https://github.com/a914-gowtham/RickNMortyCompose) | [a914-gowtham](https://github.com/a914-gowtham) | A Jetpack compose android app based on Rick and Morty Graphql </br></br> <i> Last commit: 2 years ago</i> | 🌟 23 </br> 🍴 0 </br> 👁️ 1  |
+| [flux](https://github.com/fidloo/flux) | [fidloo](https://github.com/fidloo) | A Jetpack compose android Weater App with funtastic animation. </br></br> <i> Last commit: 2 years ago</i> | 🌟 471 </br> 🍴 63 </br> 👁️ 6  |
 
 ### MVVM
 
