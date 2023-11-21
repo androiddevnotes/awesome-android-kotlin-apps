@@ -1,0 +1,31 @@
+<resources>
+    <!--    <string name="app_name">InstagramCloneApp</string>-->
+    <string name="app_name">Instagramm</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search..</string>
+    <string name="username">username</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="following">Following</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="bio">Bio</string>
+    <string name="notifications">Notifications</string>
+    <string name="change_image">Change Image</string>
+    <string name="user_name">Username</string>
+    <string name="full_name">full name</string>
+    <string name="log_out">Log out</string>
+    <string name="delete_account">Delete account</string>
+    <string name="email_address">Email address</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="need_new_account_sign_up">Need new account? Sign up</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="follow">Follow</string>
+    <string name="say_something_about_your_post">say something about your post</string>
+</resources>
