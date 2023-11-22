@@ -523,6 +523,10 @@
       {
         "github_url": "https://github.com/bakharaalief/Slootnime-APP",
         "stack": "Kotlin, Coroutine, Dagger-Hilt, LiveData, Lifecycle, ViewModel, Apollo, Glide, Pagging, Lottie"
+      },
+      {
+        "github_url": "https://github.com/javadjafari1/Backgroundable",
+        "stack": "Kotlin, Coroutine, Jetpack Compose, Dagger, Flow, Lifecycle, ViewModel, Coil, Paging, Datastore, detekt, junit5, Kotest, Kover, Ksp, MockK"
       }
     ]
   },
