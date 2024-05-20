@@ -545,6 +545,10 @@
       {
         "github_url": "https://github.com/mitchtabian/Open-API-Android-App",
         "stack": "Dagger, Coroutines, Retrofit, Room, Navigation, LiveData, ViewModel"
+      },
+      {
+        "github_url": "https://github.com/yogeshpaliyal/KeyPass",
+        "stack": "Hilt, Coroutines, Jetpack Compose, Room, LiveData, ViewModel, Kotlin-Redux"
       }
     ]
   },
