@@ -256,6 +256,7 @@ See [contributing.md](CONTRIBUTING.md)
 ## :moyai: Core Contributors
 
 - [@theapache64](https://github.com/theapache64) [automated this repo](https://github.com/androiddevnotes/awesome-android-kotlin-apps/pull/51) and designed a beautiful layout for awesome-android-kotlin-apps.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Android Kotlin development workflow orchestration, automated mobile pipeline management, and multi-agent coordination. MIT licensed.
 
 ## :hatching_chick: Contributors
 
