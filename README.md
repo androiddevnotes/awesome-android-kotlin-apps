@@ -233,6 +233,10 @@ ___🔃 Last updated : Thu Oct 12 18:02:44 UTC 2023___
 | Name                                             | Author ✍️                                        | Description 🗒️                                                                                                                                                  | Reputation 💪                |
 |--------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 | [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | [tachiyomiorg](https://github.com/tachiyomiorg) | Free and open source manga reader for Android.</br></br> <b>Tech Stack</b> : Inorichi injekt, Coroutines, RxJava, Testing, Retrofit, DiskLruCache, Jsoup, WorkManager, Duktape Android, Conductor </br></br> <i> Last commit: 2 hours ago</i> | 🌟 24848 </br> 🍴 2670 </br> 👁️ 589  |
+
+## Notes
+Repository explored for learning Android Kotlin project architectures.
+
 | [UTair-MVP-Sample](https://github.com/ImangazalievM/UTair-MVP-Sample) | [ImangazalievM](https://github.com/ImangazalievM) | Android Clean Architecture + MVP Sample written in Kotlin</br></br> <b>Tech Stack</b> : Clean Architecture, Coroutines, RxJava 2, Coroutines, Toothpick, Moxy, Unit-tests (Spek, Mockk), UI-tests (Kaspresso) </br></br> <i> Last commit: 3 years ago</i> | 🌟 30 </br> 🍴 5 </br> 👁️ 4  |
 
 ## Other
