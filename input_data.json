@@ -11,6 +11,10 @@
       },
       {
         "github_url": "https://github.com/a914-gowtham/RickNMortyCompose"
+      },
+      {
+        "github_url": "https://github.com/vaddisrinivas/wonderfood",
+        "stack": "Jetpack Compose, Material 3, Coroutines, Flow, Room, DataStore, App Links, Android Keystore, FOSS/Play product flavors"
       }
     ]
   },
