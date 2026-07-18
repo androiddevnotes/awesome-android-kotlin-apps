@@ -11,6 +11,10 @@
       },
       {
         "github_url": "https://github.com/a914-gowtham/RickNMortyCompose"
+      },
+      {
+        "github_url": "https://github.com/vaddisrinivas/codecks",
+        "stack": "Jetpack Compose, Material 3, Coroutines, Flow, Android Keystore, Bluetooth HID, SSH, Gradle Kotlin DSL"
       }
     ]
   },
