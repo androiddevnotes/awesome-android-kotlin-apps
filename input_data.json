@@ -11,6 +11,10 @@
       },
       {
         "github_url": "https://github.com/a914-gowtham/RickNMortyCompose"
+      },
+      {
+        "github_url": "https://github.com/pabasaraf79/HeliosCam",
+        "stack": "Kotlin, Jetpack Compose, CameraX"
       }
     ]
   },
