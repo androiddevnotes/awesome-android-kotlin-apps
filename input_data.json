@@ -19,6 +19,10 @@
     "pattern": "MVVM - Normal",
     "projects": [
       {
+        "github_url": "https://github.com/XNet-NGO/aiope",
+        "stack": "Jetpack Compose, Dagger Hilt, Coroutines + Flow, Room, DataStore, WorkManager, Navigation, OkHttp, Coil, Media3, Markwon, SSHJ, MediaPipe"
+      },
+      {
         "github_url": "https://github.com/Rarj/TypiCodeRio",
         "stack": "Coroutines, Koin, Data Binding, View Binding, Live Data, Retrofit2, GSON"
       },
