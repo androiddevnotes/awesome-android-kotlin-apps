@@ -19,6 +19,10 @@
     "pattern": "MVVM - Normal",
     "projects": [
       {
+        "github_url": "https://github.com/nikosavola/AnkiDroid-WearOS",
+        "stack": "Compose, Wear Compose, Navigation 3, Coroutines + Flow, WorkManager, UniFFI (Rust core), SQLite"
+      },
+      {
         "github_url": "https://github.com/Rarj/TypiCodeRio",
         "stack": "Coroutines, Koin, Data Binding, View Binding, Live Data, Retrofit2, GSON"
       },
